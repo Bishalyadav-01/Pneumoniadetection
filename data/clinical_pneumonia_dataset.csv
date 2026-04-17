@@ -1,0 +1,1501 @@
+patient_id	timestamp	note_sequence	clinical_note	fever	tachycardia	crackles	oxygen_saturation	wbc_count	chest_xray_result	true_label	uncertainty_score
+PNE-6733	2022-06-11	0	Pyrexia. rapid heart rate. rales. hypoxemia. productive cough.	1	1	1	93.5	7.5	consolidation	pneumonia	0.77
+PNE-6733	2022-06-12	1	Fever. tachycardia. rales. spo2 < 94%. productive cough.	1	1	1	93.5	7.5	consolidation	pneumonia	0.85
+PNE-6733	2022-06-13	2	Raised body temp. tachycardia. crackles. spo2 < 94%. productive cough.	1	1	1	93.5	7.5	consolidation	pneumonia	0.96
+PNE-6733	2022-06-14	3	Rapid heart rate. rales. low oxygen saturation. productive cough.	0	1	1	92.45844998413930	7.6485908152071500	consolidation	pneumonia	0.82
+PNE-6733	2022-06-15	4	Febrile. rapid heart rate. crackles. low oxygen saturation. productive cough.	1	1	1	92.28083466696350	7.8719246374394700	effusion	pneumonia	0.83
+PNE-1626	2020-03-16	0	Rapid heart rate. productive cough.	0	1	0	97.3	8.3	normal	pneumonia	0.81
+PNE-1626	2020-03-17	1	Rapid heart rate. productive cough.	0	1	0	97.3	8.3	normal	pneumonia	0.84
+PNE-1626	2020-03-18	2	Rapid heart rate. productive cough.	0	1	0	97.3	8.3	infiltrate	pneumonia	0.99
+PNE-1626	2020-03-19	3	Febrile. tachycardia. crackles. productive cough.	1	1	1	96.00334607914830	8.728647124468190	consolidation	pneumonia	0.81
+PNE-1626	2020-03-20	4	Fever. tachycardia. rales. productive cough.	1	1	1	95.95905460389380	8.641079887778670	consolidation	pneumonia	0.78
+PNE-3778	2022-05-18	0	Pyrexia. crackles. productive cough.	1	0	1	96.5	7.8	normal	pneumonia	0.94
+PNE-3778	2022-05-19	1	T > 38°c. crackles. productive cough.	1	0	1	96.5	7.8	normal	pneumonia	0.94
+PNE-3778	2022-05-20	2	Febrile. crackles. productive cough.	1	0	1	96.5	7.8	infiltrate	pneumonia	0.81
+PNE-3778	2022-05-21	3	Raised body temp. rales. productive cough.	1	0	1	95.62684375712730	8.226198204335630	opacity	pneumonia	0.88
+PNE-3778	2022-05-22	4	Raised body temp. crackles. productive cough.	1	0	1	95.83368568915890	8.037306223004350	consolidation	pneumonia	0.86
+PNE-3899	2021-09-24	0	Rapid heart rate. rales. productive cough.	0	1	1	97.3	8.7	infiltrate	pneumonia	0.71
+PNE-3899	2021-09-25	1	Rapid heart rate. crackles. productive cough.	0	1	1	97.3	8.7	consolidation	pneumonia	0.72
+PNE-3899	2021-09-26	2	Tachycardia. rales. productive cough.	0	1	1	97.3	8.7	effusion	pneumonia	0.97
+PNE-3899	2021-09-27	3	T > 38°c. tachycardia. rales. productive cough.	1	1	1	96.79395774467570	8.958262612565290	consolidation	pneumonia	0.94
+PNE-3899	2021-09-28	4	Fever. rapid heart rate. rales. productive cough.	1	1	1	96.38233143674010	9.150171608600330	opacity	pneumonia	0.8
+PNE-6728	2021-02-06	0	Fever. tachycardia. crackles. productive cough.	1	1	1	97.2	7.1	effusion	pneumonia	0.7
+PNE-6728	2021-02-07	1	Pyrexia. rapid heart rate. rales. productive cough.	1	1	1	97.2	7.1	infiltrate	pneumonia	0.72
+PNE-6728	2021-02-08	2	T > 38°c. rapid heart rate. crackles. productive cough.	1	1	1	97.2	7.1	infiltrate	pneumonia	0.84
+PNE-6728	2021-02-09	3	Pyrexia. tachycardia. crackles. productive cough.	1	1	1	95.99316648615940	7.344742806125490	infiltrate	pneumonia	0.84
+PNE-6728	2021-02-10	4	Febrile. rapid heart rate. rales. productive cough.	1	1	1	95.73959784429750	7.454773470400180	consolidation	pneumonia	0.71
+PNE-7839	2020-07-12	0	T > 38°c. rales. spo2 < 94%. productive cough.	1	0	1	92.6	7.2	infiltrate	pneumonia	0.82
+PNE-7839	2020-07-13	1	Fever. crackles. spo2 < 94%. productive cough.	1	0	1	92.6	7.2	opacity	pneumonia	0.94
+PNE-7839	2020-07-14	2	Raised body temp. crackles. spo2 < 94%. productive cough.	1	0	1	92.6	7.2	effusion	pneumonia	0.84
+PNE-7839	2020-07-15	3	Raised body temp. rales. hypoxemia. productive cough.	1	0	1	91.1456005541221	7.634753026903740	effusion	pneumonia	0.76
+PNE-7839	2020-07-16	4	T > 38°c. crackles. low oxygen saturation. productive cough.	1	0	1	91.31454047877970	7.529967295140240	consolidation	pneumonia	0.9
+PNE-6036	2022-10-15	0	Raised body temp. tachycardia. productive cough.	1	1	0	95.8	7.3	infiltrate	pneumonia	0.87
+PNE-6036	2022-10-16	1	Raised body temp. rapid heart rate. productive cough.	1	1	0	95.8	7.3	consolidation	pneumonia	0.79
+PNE-6036	2022-10-17	2	Pyrexia. tachycardia. productive cough.	1	1	0	95.8	7.3	consolidation	pneumonia	0.75
+PNE-6036	2022-10-18	3	Fever. rapid heart rate. rales. productive cough.	1	1	1	94.72446432384630	7.765664645707320	infiltrate	pneumonia	0.75
+PNE-6036	2022-10-19	4	Pyrexia. tachycardia. crackles. productive cough.	1	1	1	94.32278894395440	7.450924742913240	consolidation	pneumonia	0.78
+PNE-1840	2021-09-27	0	Pyrexia. rapid heart rate. hypoxemia. productive cough.	1	1	0	92.6	8.0	consolidation	pneumonia	0.77
+PNE-1840	2021-09-28	1	Pyrexia. rapid heart rate. spo2 < 94%. productive cough.	1	1	0	92.6	8.0	opacity	pneumonia	0.91
+PNE-1840	2021-09-29	2	Pyrexia. tachycardia. hypoxemia. productive cough.	1	1	0	92.6	8.0	infiltrate	pneumonia	0.95
+PNE-1840	2021-09-30	3	Rapid heart rate. crackles. spo2 < 94%. productive cough.	0	1	1	91.57770784199740	8.155187677722620	infiltrate	pneumonia	0.92
+PNE-1840	2021-10-01	4	T > 38°c. tachycardia. crackles. low oxygen saturation. productive cough.	1	1	1	91.82940169612320	8.25181432444113	infiltrate	pneumonia	0.88
+PNE-4375	2022-10-16	0	Rapid heart rate. productive cough.	0	1	0	96.8	6.8	normal	pneumonia	0.72
+PNE-4375	2022-10-17	1	Rapid heart rate. productive cough.	0	1	0	96.8	6.8	infiltrate	pneumonia	0.75
+PNE-4375	2022-10-18	2	Rapid heart rate. productive cough.	0	1	0	96.8	6.8	consolidation	pneumonia	0.97
+PNE-4375	2022-10-19	3	Pyrexia. rapid heart rate. rales. productive cough.	1	1	1	95.71210874889120	6.994610278510160	normal	pneumonia	0.85
+PNE-4375	2022-10-20	4	Febrile. tachycardia. rales. productive cough.	1	1	1	95.6690136118866	7.138154381675110	infiltrate	pneumonia	0.94
+PNE-5836	2022-07-27	0	Raised body temp. tachycardia. productive cough.	1	1	0	94.2	6.9	effusion	pneumonia	0.92
+PNE-5836	2022-07-28	1	Fever. rapid heart rate. productive cough.	1	1	0	94.2	6.9	normal	pneumonia	0.97
+PNE-5836	2022-07-29	2	Febrile. rapid heart rate. productive cough.	1	1	0	94.2	6.9	opacity	pneumonia	0.72
+PNE-5836	2022-07-30	3	Pyrexia. rapid heart rate. crackles. spo2 < 94%. productive cough.	1	1	1	92.91094844676510	7.106638462071030	normal	pneumonia	0.75
+PNE-5836	2022-07-31	4	Fever. rapid heart rate. crackles. spo2 < 94%. productive cough.	1	1	1	93.14724692693220	7.271777644620310	normal	pneumonia	0.82
+PNE-5155	2020-04-30	0	Pyrexia. rales. productive cough.	1	0	1	94.8	7.4	normal	pneumonia	0.79
+PNE-5155	2020-05-01	1	Raised body temp. rales. productive cough.	1	0	1	94.8	7.4	infiltrate	pneumonia	0.74
+PNE-5155	2020-05-02	2	Raised body temp. rales. productive cough.	1	0	1	94.8	7.4	infiltrate	pneumonia	0.86
+PNE-5155	2020-05-03	3	Fever. rales. hypoxemia. productive cough.	1	0	1	93.57929829535330	7.764280634322380	effusion	pneumonia	0.96
+PNE-5155	2020-05-04	4	Pyrexia. rales. hypoxemia. productive cough.	1	0	1	93.51571921858800	7.762453373277380	effusion	pneumonia	0.86
+PNE-6159	2020-06-25	0	Febrile. rapid heart rate. productive cough.	1	1	0	94.7	7.9	normal	pneumonia	0.8
+PNE-6159	2020-06-26	1	Febrile. tachycardia. productive cough.	1	1	0	94.7	7.9	effusion	pneumonia	0.73
+PNE-6159	2020-06-27	2	T > 38°c. rapid heart rate. productive cough.	1	1	0	94.7	7.9	infiltrate	pneumonia	0.73
+PNE-6159	2020-06-28	3	Rapid heart rate. crackles. productive cough.	0	1	1	94.07452666609910	8.064382192635170	normal	pneumonia	0.86
+PNE-6159	2020-06-29	4	Febrile. rapid heart rate. crackles. spo2 < 94%. productive cough.	1	1	1	93.43282665484140	8.180085895319000	consolidation	pneumonia	0.8
+PNE-8464	2020-10-18	0	Tachycardia. productive cough.	0	1	0	95.5	6.1	opacity	pneumonia	0.71
+PNE-8464	2020-10-19	1	Tachycardia. productive cough.	0	1	0	95.5	6.1	normal	pneumonia	0.98
+PNE-8464	2020-10-20	2	Tachycardia. productive cough.	0	1	0	95.5	6.1	consolidation	pneumonia	0.93
+PNE-8464	2020-10-21	3	Fever. rapid heart rate. crackles. productive cough.	1	1	1	94.08501230718160	6.51605647135231	opacity	pneumonia	0.71
+PNE-8464	2020-10-22	4	Raised body temp. rapid heart rate. rales. productive cough.	1	1	1	94.52133817638180	6.3751336834609500	consolidation	pneumonia	0.93
+PNE-6685	2022-07-09	0	Crackles. spo2 < 94%. productive cough.	0	0	1	93.4	8.1	normal	pneumonia	0.79
+PNE-6685	2022-07-10	1	Crackles. spo2 < 94%. productive cough.	0	0	1	93.4	8.1	consolidation	pneumonia	0.94
+PNE-6685	2022-07-11	2	Rales. spo2 < 94%. productive cough.	0	0	1	93.4	8.1	opacity	pneumonia	0.89
+PNE-6685	2022-07-12	3	Pyrexia. rales. spo2 < 94%. productive cough.	1	0	1	92.79667602064350	8.25949844152844	opacity	pneumonia	0.98
+PNE-6685	2022-07-13	4	Fever. rales. spo2 < 94%. productive cough.	1	0	1	92.63700996123750	8.230078450317420	effusion	pneumonia	0.89
+PNE-5722	2020-05-06	0	Fever. crackles. leukocytosis. productive cough.	1	0	1	94.7	10.4	effusion	pneumonia	0.87
+PNE-5722	2020-05-07	1	Pyrexia. crackles. leukocytosis. productive cough.	1	0	1	94.7	10.4	opacity	pneumonia	0.81
+PNE-5722	2020-05-08	2	Pyrexia. rales. elevated wbc. productive cough.	1	0	1	94.7	10.4	infiltrate	pneumonia	0.72
+PNE-5722	2020-05-09	3	Crackles. spo2 < 94%. leukocytosis. productive cough.	0	0	1	93.62657519074690	10.603940269477000	normal	pneumonia	0.72
+PNE-5722	2020-05-10	4	Fever. crackles. low oxygen saturation. elevated wbc. productive cough.	1	0	1	93.97095224710260	10.835387984652100	infiltrate	pneumonia	0.78
+PNE-9089	2020-07-09	0	Pyrexia. tachycardia. crackles. hypoxemia. productive cough.	1	1	1	93.0	7.9	consolidation	pneumonia	0.86
+PNE-9089	2020-07-10	1	Fever. rapid heart rate. rales. low oxygen saturation. productive cough.	1	1	1	93.0	7.9	infiltrate	pneumonia	0.74
+PNE-9089	2020-07-11	2	Raised body temp. tachycardia. rales. hypoxemia. productive cough.	1	1	1	93.0	7.9	opacity	pneumonia	0.8
+PNE-9089	2020-07-12	3	Fever. rapid heart rate. rales. low oxygen saturation. productive cough.	1	1	1	92.35179855572260	8.181521215408830	consolidation	pneumonia	0.82
+PNE-9089	2020-07-13	4	Fever. tachycardia. crackles. spo2 < 94%. productive cough.	1	1	1	92.38437724141210	8.140678760526670	normal	pneumonia	0.82
+PNE-8050	2020-08-23	0	Rapid heart rate. rales. productive cough.	0	1	1	95.5	8.4	opacity	pneumonia	0.98
+PNE-8050	2020-08-24	1	Tachycardia. crackles. productive cough.	0	1	1	95.5	8.4	consolidation	pneumonia	0.7
+PNE-8050	2020-08-25	2	Tachycardia. rales. productive cough.	0	1	1	95.5	8.4	effusion	pneumonia	0.83
+PNE-8050	2020-08-26	3	Rapid heart rate. crackles. productive cough.	0	1	1	94.29673707284830	8.673374458572190	normal	pneumonia	0.97
+PNE-8050	2020-08-27	4	Raised body temp. rapid heart rate. crackles. productive cough.	1	1	1	94.70746410967670	8.894150480939220	effusion	pneumonia	0.76
+PNE-2623	2022-03-28	0	Fever. tachycardia. crackles. productive cough.	1	1	1	97.0	9.7	consolidation	pneumonia	0.76
+PNE-2623	2022-03-29	1	Febrile. tachycardia. crackles. productive cough.	1	1	1	97.0	9.7	consolidation	pneumonia	0.74
+PNE-2623	2022-03-30	2	Fever. rapid heart rate. rales. productive cough.	1	1	1	97.0	9.7	consolidation	pneumonia	0.77
+PNE-2623	2022-03-31	3	Rapid heart rate. rales. leukocytosis. productive cough.	0	1	1	96.36644085892750	10.063783684059300	opacity	pneumonia	0.76
+PNE-2623	2022-04-01	4	Febrile. rapid heart rate. crackles. elevated wbc. productive cough.	1	1	1	96.3901157347134	10.140311991485000	infiltrate	pneumonia	0.71
+PNE-6038	2022-10-24	0	Crackles. productive cough.	0	0	1	94.3	7.3	effusion	pneumonia	0.89
+PNE-6038	2022-10-25	1	Crackles. productive cough.	0	0	1	94.3	7.3	opacity	pneumonia	0.84
+PNE-6038	2022-10-26	2	Crackles. productive cough.	0	0	1	94.3	7.3	infiltrate	pneumonia	0.8
+PNE-6038	2022-10-27	3	Crackles. low oxygen saturation. productive cough.	0	0	1	92.95547919369250	7.6988668542149000	effusion	pneumonia	0.75
+PNE-6038	2022-10-28	4	Raised body temp. rales. low oxygen saturation. productive cough.	1	0	1	93.41508608528720	7.6412352268048700	infiltrate	pneumonia	0.92
+PNE-5687	2020-05-21	0	Leukocytosis. productive cough.	0	0	0	96.4	10.4	effusion	pneumonia	0.88
+PNE-5687	2020-05-22	1	Leukocytosis. productive cough.	0	0	0	96.4	10.4	infiltrate	pneumonia	0.92
+PNE-5687	2020-05-23	2	Elevated wbc. productive cough.	0	0	0	96.4	10.4	consolidation	pneumonia	0.75
+PNE-5687	2020-05-24	3	Rales. leukocytosis. productive cough.	0	0	1	95.47048913015270	10.712866721340200	normal	pneumonia	0.98
+PNE-5687	2020-05-25	4	Rales. leukocytosis. productive cough.	0	0	1	95.67797073411800	10.737105817654700	consolidation	pneumonia	0.93
+PNE-7115	2021-08-04	0	Febrile. productive cough.	1	0	0	96.8	9.8	opacity	pneumonia	0.78
+PNE-7115	2021-08-05	1	Pyrexia. productive cough.	1	0	0	96.8	9.8	consolidation	pneumonia	0.76
+PNE-7115	2021-08-06	2	Febrile. productive cough.	1	0	0	96.8	9.8	effusion	pneumonia	0.95
+PNE-7115	2021-08-07	3	Febrile. rales. productive cough.	1	0	1	96.24738077884100	9.902476876755870	normal	pneumonia	0.95
+PNE-7115	2021-08-08	4	Febrile. rales. leukocytosis. productive cough.	1	0	1	96.23062436978620	10.251800404459500	normal	pneumonia	0.96
+PNE-6505	2021-12-20	0	Fever. rapid heart rate. low oxygen saturation. productive cough.	1	1	0	93.6	8.9	infiltrate	pneumonia	0.75
+PNE-6505	2021-12-21	1	T > 38°c. rapid heart rate. hypoxemia. productive cough.	1	1	0	93.6	8.9	opacity	pneumonia	0.97
+PNE-6505	2021-12-22	2	Pyrexia. rapid heart rate. spo2 < 94%. productive cough.	1	1	0	93.6	8.9	effusion	pneumonia	0.91
+PNE-6505	2021-12-23	3	Raised body temp. rapid heart rate. crackles. spo2 < 94%. productive cough.	1	1	1	92.14655255878390	9.13233780249242	opacity	pneumonia	0.92
+PNE-6505	2021-12-24	4	Febrile. rapid heart rate. crackles. hypoxemia. productive cough.	1	1	1	92.65236583677530	9.279024076281960	opacity	pneumonia	0.91
+PNE-1069	2021-06-29	0	Pyrexia. rapid heart rate. rales. elevated wbc. productive cough.	1	1	1	97.6	10.2	infiltrate	pneumonia	0.94
+PNE-1069	2021-06-30	1	T > 38°c. tachycardia. rales. leukocytosis. productive cough.	1	1	1	97.6	10.2	effusion	pneumonia	0.84
+PNE-1069	2021-07-01	2	T > 38°c. rapid heart rate. rales. leukocytosis. productive cough.	1	1	1	97.6	10.2	opacity	pneumonia	0.91
+PNE-1069	2021-07-02	3	Raised body temp. rapid heart rate. crackles. leukocytosis. productive cough.	1	1	1	96.30866504836830	10.356866061585000	effusion	pneumonia	0.86
+PNE-1069	2021-07-03	4	Pyrexia. rapid heart rate. crackles. elevated wbc. productive cough.	1	1	1	97.0338008364435	10.437339592949400	normal	pneumonia	0.79
+PNE-3487	2020-01-10	0	Fever. rales. low oxygen saturation. elevated wbc. productive cough.	1	0	1	92.8	10.1	normal	pneumonia	0.72
+PNE-3487	2020-01-11	1	T > 38°c. rales. spo2 < 94%. elevated wbc. productive cough.	1	0	1	92.8	10.1	opacity	pneumonia	0.82
+PNE-3487	2020-01-12	2	Fever. crackles. low oxygen saturation. leukocytosis. productive cough.	1	0	1	92.8	10.1	normal	pneumonia	0.74
+PNE-3487	2020-01-13	3	Febrile. rales. low oxygen saturation. leukocytosis. productive cough.	1	0	1	91.76622425700280	10.375659890073900	consolidation	pneumonia	0.88
+PNE-3487	2020-01-14	4	Raised body temp. rales. low oxygen saturation. leukocytosis. productive cough.	1	0	1	91.80286553446890	10.53269844412050	opacity	pneumonia	0.95
+PNE-7964	2021-05-02	0	Tachycardia. productive cough.	0	1	0	95.3	8.7	infiltrate	pneumonia	0.95
+PNE-7964	2021-05-03	1	Rapid heart rate. productive cough.	0	1	0	95.3	8.7	opacity	pneumonia	0.89
+PNE-7964	2021-05-04	2	Rapid heart rate. productive cough.	0	1	0	95.3	8.7	effusion	pneumonia	0.95
+PNE-7964	2021-05-05	3	T > 38°c. rapid heart rate. rales. productive cough.	1	1	1	94.0899117836088	9.078241732954980	consolidation	pneumonia	0.7
+PNE-7964	2021-05-06	4	Pyrexia. tachycardia. crackles. productive cough.	1	1	1	94.26985792870290	9.03346907027803	opacity	pneumonia	0.92
+PNE-7385	2021-11-20	0	T > 38°c. productive cough.	1	0	0	97.8	7.0	normal	pneumonia	0.81
+PNE-7385	2021-11-21	1	Pyrexia. productive cough.	1	0	0	97.8	7.0	opacity	pneumonia	0.74
+PNE-7385	2021-11-22	2	Raised body temp. productive cough.	1	0	0	97.8	7.0	consolidation	pneumonia	0.91
+PNE-7385	2021-11-23	3	Rales. productive cough.	0	0	1	96.68210545346410	7.432000982113930	consolidation	pneumonia	0.91
+PNE-7385	2021-11-24	4	Crackles. productive cough.	0	0	1	96.61700781642600	7.481578770682490	infiltrate	pneumonia	0.82
+PNE-8067	2022-08-08	0	Rales. productive cough.	0	0	1	96.1	7.0	effusion	pneumonia	0.71
+PNE-8067	2022-08-09	1	Rales. productive cough.	0	0	1	96.1	7.0	effusion	pneumonia	0.72
+PNE-8067	2022-08-10	2	Rales. productive cough.	0	0	1	96.1	7.0	effusion	pneumonia	0.72
+PNE-8067	2022-08-11	3	Febrile. rales. productive cough.	1	0	1	95.15167606525520	7.412654481075520	opacity	pneumonia	0.96
+PNE-8067	2022-08-12	4	T > 38°c. rales. productive cough.	1	0	1	95.14284744472330	7.185987694081820	effusion	pneumonia	0.92
+PNE-7090	2022-10-12	0	Fever. rales. productive cough.	1	0	1	96.5	7.6	infiltrate	pneumonia	0.95
+PNE-7090	2022-10-13	1	Raised body temp. rales. productive cough.	1	0	1	96.5	7.6	opacity	pneumonia	0.94
+PNE-7090	2022-10-14	2	Fever. crackles. productive cough.	1	0	1	96.5	7.6	effusion	pneumonia	0.98
+PNE-7090	2022-10-15	3	Fever. crackles. productive cough.	1	0	1	95.16293350206980	8.071775566668270	infiltrate	pneumonia	0.96
+PNE-7090	2022-10-16	4	T > 38°c. crackles. productive cough.	1	0	1	95.44486654257680	8.017548377279200	effusion	pneumonia	0.83
+PNE-5920	2021-06-27	0	Raised body temp. tachycardia. rales. productive cough.	1	1	1	97.8	9.3	effusion	pneumonia	0.99
+PNE-5920	2021-06-28	1	Febrile. rapid heart rate. crackles. productive cough.	1	1	1	97.8	9.3	infiltrate	pneumonia	0.8
+PNE-5920	2021-06-29	2	Fever. tachycardia. crackles. productive cough.	1	1	1	97.8	9.3	opacity	pneumonia	0.93
+PNE-5920	2021-06-30	3	Raised body temp. rapid heart rate. rales. productive cough.	1	1	1	97.09386342348730	9.418355749118180	opacity	pneumonia	0.92
+PNE-5920	2021-07-01	4	Fever. rapid heart rate. crackles. productive cough.	1	1	1	96.4848294775573	9.725165832705990	normal	pneumonia	0.8
+PNE-7283	2022-04-13	0	Pyrexia. tachycardia. rales. productive cough.	1	1	1	95.4	9.8	infiltrate	pneumonia	0.98
+PNE-7283	2022-04-14	1	T > 38°c. rapid heart rate. crackles. productive cough.	1	1	1	95.4	9.8	infiltrate	pneumonia	0.77
+PNE-7283	2022-04-15	2	T > 38°c. rapid heart rate. crackles. productive cough.	1	1	1	95.4	9.8	normal	pneumonia	0.73
+PNE-7283	2022-04-16	3	T > 38°c. rapid heart rate. rales. leukocytosis. productive cough.	1	1	1	94.10603693964740	10.235377365625800	consolidation	pneumonia	0.92
+PNE-7283	2022-04-17	4	Raised body temp. tachycardia. crackles. productive cough.	1	1	1	94.32331442143310	9.93389343542689	opacity	pneumonia	0.93
+PNE-8154	2021-09-02	0	Tachycardia. crackles. hypoxemia. elevated wbc. productive cough.	0	1	1	92.5	10.2	opacity	pneumonia	0.81
+PNE-8154	2021-09-03	1	Rapid heart rate. crackles. spo2 < 94%. elevated wbc. productive cough.	0	1	1	92.5	10.2	infiltrate	pneumonia	0.9
+PNE-8154	2021-09-04	2	Tachycardia. crackles. hypoxemia. elevated wbc. productive cough.	0	1	1	92.5	10.2	infiltrate	pneumonia	0.93
+PNE-8154	2021-09-05	3	Raised body temp. tachycardia. crackles. low oxygen saturation. leukocytosis. productive cough.	1	1	1	91.05010432460310	10.627224997781200	infiltrate	pneumonia	0.98
+PNE-8154	2021-09-06	4	Febrile. rapid heart rate. rales. low oxygen saturation. elevated wbc. productive cough.	1	1	1	91.30591125964950	10.365250758549900	effusion	pneumonia	0.83
+PNE-3938	2022-06-17	0	Leukocytosis. productive cough.	0	0	0	96.8	10.5	infiltrate	pneumonia	0.86
+PNE-3938	2022-06-18	1	Leukocytosis. productive cough.	0	0	0	96.8	10.5	opacity	pneumonia	0.92
+PNE-3938	2022-06-19	2	Leukocytosis. productive cough.	0	0	0	96.8	10.5	consolidation	pneumonia	0.82
+PNE-3938	2022-06-20	3	Febrile. rales. elevated wbc. productive cough.	1	0	1	95.71313710409070	10.745011451290500	consolidation	pneumonia	0.86
+PNE-3938	2022-06-21	4	Fever. rales. leukocytosis. productive cough.	1	0	1	95.58705125433710	10.798578076219000	consolidation	pneumonia	0.81
+PNE-3580	2020-11-23	0	Raised body temp. tachycardia. productive cough.	1	1	0	94.6	9.2	infiltrate	pneumonia	0.85
+PNE-3580	2020-11-24	1	Raised body temp. rapid heart rate. productive cough.	1	1	0	94.6	9.2	normal	pneumonia	0.83
+PNE-3580	2020-11-25	2	Fever. rapid heart rate. productive cough.	1	1	0	94.6	9.2	normal	pneumonia	0.76
+PNE-3580	2020-11-26	3	Pyrexia. tachycardia. rales. hypoxemia. productive cough.	1	1	1	93.56855077256720	9.52315642569109	effusion	pneumonia	0.78
+PNE-3580	2020-11-27	4	Raised body temp. tachycardia. rales. hypoxemia. productive cough.	1	1	1	93.89059645844260	9.648352384783270	opacity	pneumonia	0.74
+PNE-2237	2021-08-26	0	T > 38°c. rales. productive cough.	1	0	1	97.0	8.6	consolidation	pneumonia	0.92
+PNE-2237	2021-08-27	1	Pyrexia. crackles. productive cough.	1	0	1	97.0	8.6	normal	pneumonia	0.81
+PNE-2237	2021-08-28	2	Pyrexia. rales. productive cough.	1	0	1	97.0	8.6	opacity	pneumonia	0.93
+PNE-2237	2021-08-29	3	Fever. rales. productive cough.	1	0	1	95.98521008563900	8.805257671375440	normal	pneumonia	0.71
+PNE-2237	2021-08-30	4	Raised body temp. rales. productive cough.	1	0	1	95.89410514809170	9.017140289845120	consolidation	pneumonia	0.94
+PNE-6661	2021-03-04	0	Raised body temp. crackles. hypoxemia. productive cough.	1	0	1	93.5	7.0	effusion	pneumonia	0.8
+PNE-6661	2021-03-05	1	T > 38°c. rales. hypoxemia. productive cough.	1	0	1	93.5	7.0	normal	pneumonia	0.76
+PNE-6661	2021-03-06	2	Raised body temp. crackles. spo2 < 94%. productive cough.	1	0	1	93.5	7.0	effusion	pneumonia	0.98
+PNE-6661	2021-03-07	3	Febrile. rales. spo2 < 94%. productive cough.	1	0	1	92.627358964993	7.300924684429310	consolidation	pneumonia	0.88
+PNE-6661	2021-03-08	4	Febrile. crackles. low oxygen saturation. productive cough.	1	0	1	92.2800153249645	7.14844861226454	opacity	pneumonia	0.94
+PNE-5280	2022-08-07	0	Productive cough.	0	0	0	96.7	8.0	opacity	pneumonia	0.83
+PNE-5280	2022-08-08	1	Productive cough.	0	0	0	96.7	8.0	consolidation	pneumonia	0.87
+PNE-5280	2022-08-09	2	Productive cough.	0	0	0	96.7	8.0	effusion	pneumonia	0.9
+PNE-5280	2022-08-10	3	Fever. rales. productive cough.	1	0	1	96.09787956230380	8.439379234023970	infiltrate	pneumonia	0.7
+PNE-5280	2022-08-11	4	Raised body temp. crackles. productive cough.	1	0	1	95.52588282654950	8.296970717655050	opacity	pneumonia	0.76
+PNE-6748	2021-08-11	0	Rapid heart rate. rales. productive cough.	0	1	1	96.1	9.6	effusion	pneumonia	0.76
+PNE-6748	2021-08-12	1	Tachycardia. rales. productive cough.	0	1	1	96.1	9.6	opacity	pneumonia	0.97
+PNE-6748	2021-08-13	2	Rapid heart rate. crackles. productive cough.	0	1	1	96.1	9.6	consolidation	pneumonia	0.85
+PNE-6748	2021-08-14	3	T > 38°c. rapid heart rate. crackles. productive cough.	1	1	1	94.6949881599384	9.895472328523020	effusion	pneumonia	0.76
+PNE-6748	2021-08-15	4	T > 38°c. rapid heart rate. rales. productive cough.	1	1	1	95.57172823196080	9.711110551908500	normal	pneumonia	0.91
+PNE-6732	2020-02-29	0	Fever. rales. productive cough.	1	0	1	97.1	6.3	opacity	pneumonia	0.74
+PNE-6732	2020-03-01	1	Raised body temp. rales. productive cough.	1	0	1	97.1	6.3	consolidation	pneumonia	0.81
+PNE-6732	2020-03-02	2	Pyrexia. rales. productive cough.	1	0	1	97.1	6.3	infiltrate	pneumonia	0.87
+PNE-6732	2020-03-03	3	Crackles. productive cough.	0	0	1	96.08301686706470	6.771572295250610	infiltrate	pneumonia	0.91
+PNE-6732	2020-03-04	4	Raised body temp. crackles. productive cough.	1	0	1	95.88831383536640	6.758312439199080	consolidation	pneumonia	0.97
+PNE-5747	2020-04-26	0	Crackles. hypoxemia. productive cough.	0	0	1	92.8	9.4	opacity	pneumonia	0.83
+PNE-5747	2020-04-27	1	Rales. hypoxemia. productive cough.	0	0	1	92.8	9.4	normal	pneumonia	0.98
+PNE-5747	2020-04-28	2	Rales. low oxygen saturation. productive cough.	0	0	1	92.8	9.4	infiltrate	pneumonia	0.75
+PNE-5747	2020-04-29	3	Febrile. crackles. spo2 < 94%. productive cough.	1	0	1	91.68826764339930	9.714023436404620	opacity	pneumonia	0.82
+PNE-5747	2020-04-30	4	T > 38°c. rales. hypoxemia. productive cough.	1	0	1	91.60250959406260	9.652482157183660	normal	pneumonia	0.8
+PNE-8441	2022-07-03	0	Raised body temp. low oxygen saturation. productive cough.	1	0	0	92.3	9.1	infiltrate	pneumonia	0.8
+PNE-8441	2022-07-04	1	T > 38°c. hypoxemia. productive cough.	1	0	0	92.3	9.1	consolidation	pneumonia	0.94
+PNE-8441	2022-07-05	2	Fever. hypoxemia. productive cough.	1	0	0	92.3	9.1	infiltrate	pneumonia	0.79
+PNE-8441	2022-07-06	3	T > 38°c. crackles. hypoxemia. productive cough.	1	0	1	90.9156917161672	9.37893571922876	consolidation	pneumonia	0.88
+PNE-8441	2022-07-07	4	T > 38°c. crackles. low oxygen saturation. productive cough.	1	0	1	91.58045645478520	9.329170126987520	infiltrate	pneumonia	0.93
+PNE-2000	2021-12-25	0	Rapid heart rate. rales. low oxygen saturation. productive cough.	0	1	1	93.1	8.4	opacity	pneumonia	0.89
+PNE-2000	2021-12-26	1	Rapid heart rate. crackles. low oxygen saturation. productive cough.	0	1	1	93.1	8.4	infiltrate	pneumonia	0.82
+PNE-2000	2021-12-27	2	Tachycardia. rales. spo2 < 94%. productive cough.	0	1	1	93.1	8.4	effusion	pneumonia	0.75
+PNE-2000	2021-12-28	3	Tachycardia. crackles. low oxygen saturation. productive cough.	0	1	1	92.19189205040540	8.618959426836050	normal	pneumonia	0.72
+PNE-2000	2021-12-29	4	Febrile. tachycardia. crackles. hypoxemia. productive cough.	1	1	1	91.94773246275600	8.642965994757420	opacity	pneumonia	0.85
+PNE-7444	2021-03-02	0	Rales. productive cough.	0	0	1	95.2	8.6	effusion	pneumonia	0.98
+PNE-7444	2021-03-03	1	Crackles. productive cough.	0	0	1	95.2	8.6	consolidation	pneumonia	0.71
+PNE-7444	2021-03-04	2	Rales. productive cough.	0	0	1	95.2	8.6	normal	pneumonia	0.99
+PNE-7444	2021-03-05	3	Rales. productive cough.	0	0	1	94.20740317720860	8.958496073538070	infiltrate	pneumonia	0.85
+PNE-7444	2021-03-06	4	T > 38°c. rales. spo2 < 94%. productive cough.	1	0	1	93.79968691774850	9.02812530876465	effusion	pneumonia	0.96
+PNE-2338	2021-05-15	0	T > 38°c. tachycardia. rales. productive cough.	1	1	1	97.0	9.0	infiltrate	pneumonia	0.79
+PNE-2338	2021-05-16	1	T > 38°c. rapid heart rate. rales. productive cough.	1	1	1	97.0	9.0	consolidation	pneumonia	0.75
+PNE-2338	2021-05-17	2	Pyrexia. tachycardia. crackles. productive cough.	1	1	1	97.0	9.0	normal	pneumonia	0.94
+PNE-2338	2021-05-18	3	Fever. rapid heart rate. rales. productive cough.	1	1	1	96.42303455303030	9.20279253652685	effusion	pneumonia	0.98
+PNE-2338	2021-05-19	4	T > 38°c. tachycardia. rales. productive cough.	1	1	1	95.92466061433980	9.383985452337840	consolidation	pneumonia	0.85
+PNE-4071	2022-09-18	0	Febrile. rapid heart rate. rales. productive cough.	1	1	1	98.0	7.8	infiltrate	pneumonia	0.92
+PNE-4071	2022-09-19	1	Fever. tachycardia. rales. productive cough.	1	1	1	98.0	7.8	infiltrate	pneumonia	0.96
+PNE-4071	2022-09-20	2	Pyrexia. tachycardia. rales. productive cough.	1	1	1	98.0	7.8	consolidation	pneumonia	0.76
+PNE-4071	2022-09-21	3	T > 38°c. tachycardia. rales. productive cough.	1	1	1	97.02940272292830	8.119933428468890	consolidation	pneumonia	0.99
+PNE-4071	2022-09-22	4	Rapid heart rate. crackles. productive cough.	0	1	1	96.50538477691800	7.962902951475670	normal	pneumonia	0.86
+PNE-1600	2022-09-03	0	Rapid heart rate. low oxygen saturation. productive cough.	0	1	0	92.1	8.7	opacity	pneumonia	0.93
+PNE-1600	2022-09-04	1	Rapid heart rate. hypoxemia. productive cough.	0	1	0	92.1	8.7	infiltrate	pneumonia	0.91
+PNE-1600	2022-09-05	2	Tachycardia. spo2 < 94%. productive cough.	0	1	0	92.1	8.7	infiltrate	pneumonia	0.95
+PNE-1600	2022-09-06	3	Pyrexia. rapid heart rate. crackles. low oxygen saturation. productive cough.	1	1	1	90.728780086148	9.165726175199230	opacity	pneumonia	0.7
+PNE-1600	2022-09-07	4	Pyrexia. rapid heart rate. crackles. low oxygen saturation. productive cough.	1	1	1	91.43155321551400	9.100116763302750	opacity	pneumonia	0.99
+PNE-2641	2020-10-22	0	T > 38°c. rapid heart rate. elevated wbc. productive cough.	1	1	0	97.9	10.4	consolidation	pneumonia	0.87
+PNE-2641	2020-10-23	1	Fever. tachycardia. leukocytosis. productive cough.	1	1	0	97.9	10.4	opacity	pneumonia	0.8
+PNE-2641	2020-10-24	2	Febrile. rapid heart rate. leukocytosis. productive cough.	1	1	0	97.9	10.4	consolidation	pneumonia	0.88
+PNE-2641	2020-10-25	3	Raised body temp. tachycardia. rales. elevated wbc. productive cough.	1	1	1	96.54042324573590	10.772777537692200	infiltrate	pneumonia	0.94
+PNE-2641	2020-10-26	4	Febrile. rapid heart rate. rales. elevated wbc. productive cough.	1	1	1	96.71443072671480	10.826943027448300	infiltrate	pneumonia	0.71
+PNE-8726	2021-02-05	0	Fever. rapid heart rate. productive cough.	1	1	0	94.4	6.7	effusion	pneumonia	0.76
+PNE-8726	2021-02-06	1	T > 38°c. tachycardia. productive cough.	1	1	0	94.4	6.7	effusion	pneumonia	0.74
+PNE-8726	2021-02-07	2	Febrile. rapid heart rate. productive cough.	1	1	0	94.4	6.7	normal	pneumonia	0.91
+PNE-8726	2021-02-08	3	Pyrexia. rapid heart rate. crackles. low oxygen saturation. productive cough.	1	1	1	93.05317684360920	7.15510671558227	normal	pneumonia	0.89
+PNE-8726	2021-02-09	4	Rapid heart rate. rales. low oxygen saturation. productive cough.	0	1	1	93.30513792793960	6.941052519743600	infiltrate	pneumonia	0.93
+PNE-1626	2021-08-15	0	Fever. spo2 < 94%. elevated wbc. productive cough.	1	0	0	93.7	10.1	consolidation	pneumonia	0.73
+PNE-1626	2021-08-16	1	Raised body temp. low oxygen saturation. elevated wbc. productive cough.	1	0	0	93.7	10.1	infiltrate	pneumonia	0.95
+PNE-1626	2021-08-17	2	Fever. hypoxemia. elevated wbc. productive cough.	1	0	0	93.7	10.1	infiltrate	pneumonia	0.73
+PNE-1626	2021-08-18	3	Fever. crackles. low oxygen saturation. leukocytosis. productive cough.	1	0	1	92.70034214432140	10.504911669845300	normal	pneumonia	0.85
+PNE-1626	2021-08-19	4	Raised body temp. crackles. hypoxemia. elevated wbc. productive cough.	1	0	1	92.33239762339610	10.285262838642400	opacity	pneumonia	0.9
+PNE-7744	2020-03-17	0	Raised body temp. rapid heart rate. hypoxemia. productive cough.	1	1	0	92.7	8.2	normal	pneumonia	0.86
+PNE-7744	2020-03-18	1	Raised body temp. tachycardia. spo2 < 94%. productive cough.	1	1	0	92.7	8.2	opacity	pneumonia	0.92
+PNE-7744	2020-03-19	2	Raised body temp. rapid heart rate. low oxygen saturation. productive cough.	1	1	0	92.7	8.2	effusion	pneumonia	0.7
+PNE-7744	2020-03-20	3	T > 38°c. rapid heart rate. crackles. low oxygen saturation. productive cough.	1	1	1	92.16418038310230	8.38659367686022	opacity	pneumonia	0.75
+PNE-7744	2020-03-21	4	T > 38°c. rapid heart rate. rales. low oxygen saturation. productive cough.	1	1	1	91.92013442559470	8.604134590593260	opacity	pneumonia	0.94
+PNE-1212	2020-05-18	0	Pyrexia. productive cough.	1	0	0	94.8	7.3	normal	pneumonia	0.96
+PNE-1212	2020-05-19	1	T > 38°c. productive cough.	1	0	0	94.8	7.3	normal	pneumonia	0.86
+PNE-1212	2020-05-20	2	Fever. productive cough.	1	0	0	94.8	7.3	consolidation	pneumonia	0.97
+PNE-1212	2020-05-21	3	T > 38°c. crackles. low oxygen saturation. productive cough.	1	0	1	93.522011994935	7.505591153992890	consolidation	pneumonia	0.96
+PNE-1212	2020-05-22	4	T > 38°c. crackles. productive cough.	1	0	1	94.29920929537410	7.516083498387890	normal	pneumonia	0.83
+PNE-3952	2021-11-15	0	Febrile. rapid heart rate. rales. productive cough.	1	1	1	94.3	6.5	infiltrate	pneumonia	0.92
+PNE-3952	2021-11-16	1	Fever. tachycardia. crackles. productive cough.	1	1	1	94.3	6.5	consolidation	pneumonia	0.84
+PNE-3952	2021-11-17	2	Pyrexia. rapid heart rate. crackles. productive cough.	1	1	1	94.3	6.5	opacity	pneumonia	0.98
+PNE-3952	2021-11-18	3	Pyrexia. tachycardia. rales. spo2 < 94%. productive cough.	1	1	1	93.65858587161780	6.71052661461751	effusion	pneumonia	0.72
+PNE-3952	2021-11-19	4	Fever. tachycardia. crackles. hypoxemia. productive cough.	1	1	1	93.40119155889590	6.6161237906336400	infiltrate	pneumonia	0.94
+PNE-4386	2020-12-23	0	Raised body temp. productive cough.	1	0	0	95.5	6.6	consolidation	pneumonia	0.77
+PNE-4386	2020-12-24	1	Raised body temp. productive cough.	1	0	0	95.5	6.6	infiltrate	pneumonia	0.83
+PNE-4386	2020-12-25	2	Fever. productive cough.	1	0	0	95.5	6.6	normal	pneumonia	0.83
+PNE-4386	2020-12-26	3	Raised body temp. crackles. productive cough.	1	0	1	94.11478013598730	7.033350438039710	consolidation	pneumonia	0.99
+PNE-4386	2020-12-27	4	T > 38°c. rales. productive cough.	1	0	1	94.26616053690680	6.947661293917420	infiltrate	pneumonia	0.76
+PNE-2798	2020-09-30	0	Fever. crackles. productive cough.	1	0	1	94.0	9.0	normal	pneumonia	0.77
+PNE-2798	2020-10-01	1	Raised body temp. crackles. productive cough.	1	0	1	94.0	9.0	infiltrate	pneumonia	0.99
+PNE-2798	2020-10-02	2	Febrile. crackles. productive cough.	1	0	1	94.0	9.0	opacity	pneumonia	0.88
+PNE-2798	2020-10-03	3	Febrile. crackles. hypoxemia. productive cough.	1	0	1	92.73044015112450	9.46417276787517	effusion	pneumonia	0.91
+PNE-2798	2020-10-04	4	Pyrexia. rales. hypoxemia. productive cough.	1	0	1	93.03056586011630	9.263737923409850	effusion	pneumonia	0.76
+PNE-8248	2020-06-18	0	Febrile. tachycardia. hypoxemia. leukocytosis. productive cough.	1	1	0	92.4	10.1	effusion	pneumonia	0.88
+PNE-8248	2020-06-19	1	Pyrexia. rapid heart rate. spo2 < 94%. leukocytosis. productive cough.	1	1	0	92.4	10.1	normal	pneumonia	0.84
+PNE-8248	2020-06-20	2	T > 38°c. tachycardia. low oxygen saturation. leukocytosis. productive cough.	1	1	0	92.4	10.1	normal	pneumonia	0.99
+PNE-8248	2020-06-21	3	T > 38°c. tachycardia. rales. spo2 < 94%. elevated wbc. productive cough.	1	1	1	91.69258086753220	10.254980395428400	effusion	pneumonia	0.9
+PNE-8248	2020-06-22	4	T > 38°c. rapid heart rate. rales. hypoxemia. leukocytosis. productive cough.	1	1	1	90.90016047977020	10.487014006036900	consolidation	pneumonia	0.87
+PNE-1222	2020-12-27	0	Pyrexia. tachycardia. crackles. productive cough.	1	1	1	97.2	8.2	infiltrate	pneumonia	0.84
+PNE-1222	2020-12-28	1	Pyrexia. rapid heart rate. rales. productive cough.	1	1	1	97.2	8.2	infiltrate	pneumonia	0.8
+PNE-1222	2020-12-29	2	T > 38°c. rapid heart rate. rales. productive cough.	1	1	1	97.2	8.2	consolidation	pneumonia	0.71
+PNE-1222	2020-12-30	3	Fever. tachycardia. rales. productive cough.	1	1	1	96.31146513177510	8.555609297537040	effusion	pneumonia	0.82
+PNE-1222	2020-12-31	4	T > 38°c. tachycardia. crackles. productive cough.	1	1	1	96.18359689327580	8.65245895790897	effusion	pneumonia	0.73
+PNE-1538	2021-09-06	0	Febrile. crackles. productive cough.	1	0	1	95.5	8.7	consolidation	pneumonia	0.98
+PNE-1538	2021-09-07	1	Raised body temp. rales. productive cough.	1	0	1	95.5	8.7	opacity	pneumonia	0.74
+PNE-1538	2021-09-08	2	Pyrexia. rales. productive cough.	1	0	1	95.5	8.7	infiltrate	pneumonia	0.83
+PNE-1538	2021-09-09	3	Pyrexia. crackles. productive cough.	1	0	1	94.98974232991900	9.193234873940640	infiltrate	pneumonia	0.88
+PNE-1538	2021-09-10	4	Pyrexia. crackles. productive cough.	1	0	1	94.12174521285930	9.032463595819670	effusion	pneumonia	0.83
+PNE-2286	2021-06-23	0	Raised body temp. rales. spo2 < 94%. productive cough.	1	0	1	92.3	7.9	effusion	pneumonia	0.86
+PNE-2286	2021-06-24	1	Pyrexia. crackles. spo2 < 94%. productive cough.	1	0	1	92.3	7.9	infiltrate	pneumonia	0.82
+PNE-2286	2021-06-25	2	Febrile. crackles. low oxygen saturation. productive cough.	1	0	1	92.3	7.9	effusion	pneumonia	0.72
+PNE-2286	2021-06-26	3	Fever. crackles. low oxygen saturation. productive cough.	1	0	1	90.8277285666339	8.383009796687080	normal	pneumonia	0.85
+PNE-2286	2021-06-27	4	Raised body temp. crackles. spo2 < 94%. productive cough.	1	0	1	91.25250681797270	8.121884193848360	normal	pneumonia	0.81
+PNE-3747	2020-02-12	0	Febrile. rapid heart rate. productive cough.	1	1	0	97.0	7.5	infiltrate	pneumonia	0.76
+PNE-3747	2020-02-13	1	Raised body temp. tachycardia. productive cough.	1	1	0	97.0	7.5	opacity	pneumonia	0.72
+PNE-3747	2020-02-14	2	Fever. rapid heart rate. productive cough.	1	1	0	97.0	7.5	consolidation	pneumonia	0.94
+PNE-3747	2020-02-15	3	Fever. tachycardia. crackles. productive cough.	1	1	1	96.3741370498174	7.78405147742727	normal	pneumonia	0.86
+PNE-3747	2020-02-16	4	Raised body temp. tachycardia. crackles. productive cough.	1	1	1	95.58012977896890	7.682526012125560	infiltrate	pneumonia	0.71
+PNE-3151	2021-03-05	0	Pyrexia. rapid heart rate. hypoxemia. productive cough.	1	1	0	92.0	6.4	opacity	pneumonia	0.9
+PNE-3151	2021-03-06	1	Pyrexia. rapid heart rate. low oxygen saturation. productive cough.	1	1	0	92.0	6.4	normal	pneumonia	0.71
+PNE-3151	2021-03-07	2	Fever. tachycardia. hypoxemia. productive cough.	1	1	0	92.0	6.4	normal	pneumonia	0.9
+PNE-3151	2021-03-08	3	T > 38°c. tachycardia. rales. low oxygen saturation. productive cough.	1	1	1	91.41966395435760	6.669568560276510	infiltrate	pneumonia	0.87
+PNE-3151	2021-03-09	4	Raised body temp. rapid heart rate. rales. spo2 < 94%. productive cough.	1	1	1	90.73996622113160	6.571413034027790	effusion	pneumonia	0.97
+PNE-5525	2022-05-16	0	Febrile. hypoxemia. productive cough.	1	0	0	92.9	6.4	normal	pneumonia	0.75
+PNE-5525	2022-05-17	1	Febrile. spo2 < 94%. productive cough.	1	0	0	92.9	6.4	infiltrate	pneumonia	0.82
+PNE-5525	2022-05-18	2	Febrile. spo2 < 94%. productive cough.	1	0	0	92.9	6.4	infiltrate	pneumonia	0.92
+PNE-5525	2022-05-19	3	Raised body temp. rales. spo2 < 94%. productive cough.	1	0	1	92.22316161687790	6.622474435138590	normal	pneumonia	0.99
+PNE-5525	2022-05-20	4	Raised body temp. rales. low oxygen saturation. productive cough.	1	0	1	92.27666796866010	6.639057146966160	normal	pneumonia	0.95
+PNE-5615	2020-11-24	0	Febrile. tachycardia. crackles. productive cough.	1	1	1	95.8	10.0	effusion	pneumonia	0.96
+PNE-5615	2020-11-25	1	Fever. tachycardia. rales. productive cough.	1	1	1	95.8	10.0	normal	pneumonia	0.73
+PNE-5615	2020-11-26	2	T > 38°c. rapid heart rate. crackles. productive cough.	1	1	1	95.8	10.0	consolidation	pneumonia	0.95
+PNE-5615	2020-11-27	3	Febrile. tachycardia. rales. elevated wbc. productive cough.	1	1	1	95.1307861799272	10.35083665202250	infiltrate	pneumonia	0.84
+PNE-5615	2020-11-28	4	T > 38°c. tachycardia. crackles. leukocytosis. productive cough.	1	1	1	94.34247433898440	10.143241606183700	normal	pneumonia	0.86
+PNE-7568	2022-11-05	0	Pyrexia. tachycardia. crackles. productive cough.	1	1	1	97.8	8.0	opacity	pneumonia	0.98
+PNE-7568	2022-11-06	1	Raised body temp. tachycardia. crackles. productive cough.	1	1	1	97.8	8.0	infiltrate	pneumonia	0.78
+PNE-7568	2022-11-07	2	Fever. rapid heart rate. rales. productive cough.	1	1	1	97.8	8.0	consolidation	pneumonia	0.94
+PNE-7568	2022-11-08	3	Pyrexia. rapid heart rate. crackles. productive cough.	1	1	1	97.00579944377300	8.295245064864490	opacity	pneumonia	0.73
+PNE-7568	2022-11-09	4	Raised body temp. rapid heart rate. rales. productive cough.	1	1	1	96.69257643949600	8.180761272023580	infiltrate	pneumonia	0.87
+PNE-1474	2022-04-09	0	Fever. rapid heart rate. crackles. low oxygen saturation. productive cough.	1	1	1	92.0	8.5	effusion	pneumonia	0.78
+PNE-1474	2022-04-10	1	T > 38°c. tachycardia. rales. low oxygen saturation. productive cough.	1	1	1	92.0	8.5	consolidation	pneumonia	0.89
+PNE-1474	2022-04-11	2	T > 38°c. tachycardia. crackles. low oxygen saturation. productive cough.	1	1	1	92.0	8.5	effusion	pneumonia	0.93
+PNE-1474	2022-04-12	3	Febrile. tachycardia. rales. low oxygen saturation. productive cough.	1	1	1	91.00382073654130	8.72669805799204	opacity	pneumonia	0.9
+PNE-1474	2022-04-13	4	Raised body temp. tachycardia. rales. low oxygen saturation. productive cough.	1	1	1	90.90416555929370	8.76347001305612	consolidation	pneumonia	0.97
+PNE-5331	2020-03-07	0	T > 38°c. tachycardia. crackles. productive cough.	1	1	1	94.4	7.1	opacity	pneumonia	0.71
+PNE-5331	2020-03-08	1	Fever. rapid heart rate. crackles. productive cough.	1	1	1	94.4	7.1	consolidation	pneumonia	0.93
+PNE-5331	2020-03-09	2	T > 38°c. tachycardia. rales. productive cough.	1	1	1	94.4	7.1	consolidation	pneumonia	0.92
+PNE-5331	2020-03-10	3	Febrile. tachycardia. rales. spo2 < 94%. productive cough.	1	1	1	93.23232437611600	7.347302093243060	normal	pneumonia	0.7
+PNE-5331	2020-03-11	4	Pyrexia. tachycardia. rales. hypoxemia. productive cough.	1	1	1	92.9807941819619	7.375979732965440	normal	pneumonia	0.79
+PNE-8477	2022-01-25	0	T > 38°c. productive cough.	1	0	0	95.8	9.6	consolidation	pneumonia	0.93
+PNE-8477	2022-01-26	1	T > 38°c. productive cough.	1	0	0	95.8	9.6	infiltrate	pneumonia	0.87
+PNE-8477	2022-01-27	2	Fever. productive cough.	1	0	0	95.8	9.6	effusion	pneumonia	0.95
+PNE-8477	2022-01-28	3	T > 38°c. rales. productive cough.	1	0	1	94.87814378100440	9.959013312534150	consolidation	pneumonia	0.8
+PNE-8477	2022-01-29	4	T > 38°c. crackles. leukocytosis. productive cough.	1	0	1	94.4146168248173	10.094670685378700	opacity	pneumonia	0.92
+PNE-5280	2021-01-28	0	Pyrexia. crackles. productive cough.	1	0	1	96.2	9.9	consolidation	pneumonia	0.79
+PNE-5280	2021-01-29	1	Raised body temp. rales. productive cough.	1	0	1	96.2	9.9	normal	pneumonia	0.86
+PNE-5280	2021-01-30	2	Raised body temp. crackles. productive cough.	1	0	1	96.2	9.9	normal	pneumonia	0.95
+PNE-5280	2021-01-31	3	Crackles. elevated wbc. productive cough.	0	0	1	95.44222036923430	10.125796171829000	normal	pneumonia	0.95
+PNE-5280	2021-02-01	4	Febrile. crackles. leukocytosis. productive cough.	1	0	1	94.94484411396960	10.117715292518000	consolidation	pneumonia	0.74
+PNE-6406	2021-04-16	0	T > 38°c. rales. productive cough.	1	0	1	97.6	6.9	normal	pneumonia	0.89
+PNE-6406	2021-04-17	1	Febrile. rales. productive cough.	1	0	1	97.6	6.9	infiltrate	pneumonia	0.76
+PNE-6406	2021-04-18	2	Pyrexia. rales. productive cough.	1	0	1	97.6	6.9	opacity	pneumonia	0.97
+PNE-6406	2021-04-19	3	Fever. rales. productive cough.	1	0	1	97.09560679451190	7.07782847699587	opacity	pneumonia	0.77
+PNE-6406	2021-04-20	4	Fever. crackles. productive cough.	1	0	1	96.25928324553390	7.170823657112620	effusion	pneumonia	0.8
+PNE-1879	2022-10-19	0	Rapid heart rate. crackles. productive cough.	0	1	1	96.8	9.5	effusion	pneumonia	0.74
+PNE-1879	2022-10-20	1	Rapid heart rate. rales. productive cough.	0	1	1	96.8	9.5	effusion	pneumonia	0.8
+PNE-1879	2022-10-21	2	Rapid heart rate. rales. productive cough.	0	1	1	96.8	9.5	consolidation	pneumonia	0.8
+PNE-1879	2022-10-22	3	Tachycardia. rales. productive cough.	0	1	1	96.13101775708200	9.659091607306910	normal	pneumonia	0.73
+PNE-1879	2022-10-23	4	Rapid heart rate. rales. productive cough.	0	1	1	95.76844983655030	9.622784378779090	effusion	pneumonia	0.73
+PNE-8758	2020-02-18	0	Productive cough.	0	0	0	96.3	7.3	infiltrate	pneumonia	0.77
+PNE-8758	2020-02-19	1	Productive cough.	0	0	0	96.3	7.3	infiltrate	pneumonia	0.89
+PNE-8758	2020-02-20	2	Productive cough.	0	0	0	96.3	7.3	normal	pneumonia	0.96
+PNE-8758	2020-02-21	3	T > 38°c. crackles. productive cough.	1	0	1	95.69325068911870	7.661859789859900	consolidation	pneumonia	0.95
+PNE-8758	2020-02-22	4	Pyrexia. rales. productive cough.	1	0	1	95.54213163638190	7.672341309186850	consolidation	pneumonia	0.87
+PNE-7554	2021-01-15	0	Febrile. tachycardia. productive cough.	1	1	0	96.2	9.4	opacity	pneumonia	0.87
+PNE-7554	2021-01-16	1	Fever. tachycardia. productive cough.	1	1	0	96.2	9.4	opacity	pneumonia	0.85
+PNE-7554	2021-01-17	2	Febrile. tachycardia. productive cough.	1	1	0	96.2	9.4	infiltrate	pneumonia	0.77
+PNE-7554	2021-01-18	3	Tachycardia. rales. productive cough.	0	1	1	95.15712368830800	9.500407854209060	effusion	pneumonia	0.71
+PNE-7554	2021-01-19	4	Rapid heart rate. rales. productive cough.	0	1	1	95.36724432907380	9.706119050421050	normal	pneumonia	0.86
+PNE-2456	2022-03-29	0	Fever. productive cough.	1	0	0	97.6	6.5	effusion	pneumonia	0.8
+PNE-2456	2022-03-30	1	T > 38°c. productive cough.	1	0	0	97.6	6.5	opacity	pneumonia	0.84
+PNE-2456	2022-03-31	2	Raised body temp. productive cough.	1	0	0	97.6	6.5	effusion	pneumonia	0.96
+PNE-2456	2022-04-01	3	Fever. crackles. productive cough.	1	0	1	96.94849769211930	6.827274077704930	opacity	pneumonia	0.85
+PNE-2456	2022-04-02	4	Fever. rales. productive cough.	1	0	1	96.68420658156620	6.787800172990520	opacity	pneumonia	0.95
+PNE-5233	2021-10-20	0	Fever. tachycardia. rales. low oxygen saturation. productive cough.	1	1	1	92.4	8.5	consolidation	pneumonia	0.76
+PNE-5233	2021-10-21	1	T > 38°c. rapid heart rate. crackles. low oxygen saturation. productive cough.	1	1	1	92.4	8.5	consolidation	pneumonia	0.85
+PNE-5233	2021-10-22	2	Febrile. tachycardia. rales. low oxygen saturation. productive cough.	1	1	1	92.4	8.5	normal	pneumonia	0.72
+PNE-5233	2021-10-23	3	Febrile. tachycardia. crackles. hypoxemia. productive cough.	1	1	1	91.55761349858310	8.89076687842244	opacity	pneumonia	0.97
+PNE-5233	2021-10-24	4	Raised body temp. tachycardia. rales. hypoxemia. productive cough.	1	1	1	91.12657601205860	8.797786144824150	infiltrate	pneumonia	0.96
+PNE-4719	2020-02-15	0	Rapid heart rate. rales. productive cough.	0	1	1	94.6	9.0	infiltrate	pneumonia	0.78
+PNE-4719	2020-02-16	1	Rapid heart rate. rales. productive cough.	0	1	1	94.6	9.0	normal	pneumonia	0.92
+PNE-4719	2020-02-17	2	Tachycardia. crackles. productive cough.	0	1	1	94.6	9.0	normal	pneumonia	0.92
+PNE-4719	2020-02-18	3	Febrile. tachycardia. crackles. hypoxemia. productive cough.	1	1	1	93.20800986729150	9.17150621374256	effusion	pneumonia	0.71
+PNE-4719	2020-02-19	4	Pyrexia. tachycardia. crackles. low oxygen saturation. productive cough.	1	1	1	93.27297403825720	9.128704250493220	infiltrate	pneumonia	0.85
+PNE-3708	2021-06-13	0	Tachycardia. productive cough.	0	1	0	95.3	9.4	consolidation	pneumonia	0.76
+PNE-3708	2021-06-14	1	Tachycardia. productive cough.	0	1	0	95.3	9.4	consolidation	pneumonia	0.8
+PNE-3708	2021-06-15	2	Tachycardia. productive cough.	0	1	0	95.3	9.4	consolidation	pneumonia	0.94
+PNE-3708	2021-06-16	3	T > 38°c. tachycardia. rales. productive cough.	1	1	1	94.75181451104750	9.895139988481570	infiltrate	pneumonia	0.83
+PNE-3708	2021-06-17	4	Fever. tachycardia. rales. hypoxemia. productive cough.	1	1	1	93.81607112136390	9.761557900252350	normal	pneumonia	0.82
+PNE-5366	2020-05-23	0	Pyrexia. crackles. leukocytosis. productive cough.	1	0	1	95.1	10.2	consolidation	pneumonia	0.85
+PNE-5366	2020-05-24	1	Raised body temp. crackles. elevated wbc. productive cough.	1	0	1	95.1	10.2	infiltrate	pneumonia	0.78
+PNE-5366	2020-05-25	2	T > 38°c. rales. leukocytosis. productive cough.	1	0	1	95.1	10.2	consolidation	pneumonia	0.86
+PNE-5366	2020-05-26	3	Rales. low oxygen saturation. leukocytosis. productive cough.	0	0	1	93.717790291758	10.536639031012900	infiltrate	pneumonia	0.75
+PNE-5366	2020-05-27	4	Crackles. leukocytosis. productive cough.	0	0	1	94.29239101634260	10.302749779924800	opacity	pneumonia	0.73
+PNE-6410	2021-07-23	0	Pyrexia. productive cough.	1	0	0	96.9	6.1	effusion	pneumonia	0.83
+PNE-6410	2021-07-24	1	T > 38°c. productive cough.	1	0	0	96.9	6.1	effusion	pneumonia	0.99
+PNE-6410	2021-07-25	2	Pyrexia. productive cough.	1	0	0	96.9	6.1	consolidation	pneumonia	0.95
+PNE-6410	2021-07-26	3	Febrile. rales. productive cough.	1	0	1	95.54622896754	6.328601389886170	effusion	pneumonia	0.73
+PNE-6410	2021-07-27	4	Crackles. productive cough.	0	0	1	95.5110006020639	6.288690583865570	infiltrate	pneumonia	0.81
+PNE-8839	2022-02-05	0	Febrile. crackles. productive cough.	1	0	1	97.7	8.0	opacity	pneumonia	0.75
+PNE-8839	2022-02-06	1	Pyrexia. crackles. productive cough.	1	0	1	97.7	8.0	infiltrate	pneumonia	0.79
+PNE-8839	2022-02-07	2	Pyrexia. crackles. productive cough.	1	0	1	97.7	8.0	opacity	pneumonia	0.95
+PNE-8839	2022-02-08	3	Pyrexia. rales. productive cough.	1	0	1	96.46583719551410	8.18669914553066	consolidation	pneumonia	0.81
+PNE-8839	2022-02-09	4	Pyrexia. rales. productive cough.	1	0	1	96.95035213959810	8.283753368764540	infiltrate	pneumonia	0.84
+PNE-9617	2022-05-27	0	Crackles. hypoxemia. productive cough.	0	0	1	93.9	9.1	normal	pneumonia	0.78
+PNE-9617	2022-05-28	1	Crackles. hypoxemia. productive cough.	0	0	1	93.9	9.1	effusion	pneumonia	0.87
+PNE-9617	2022-05-29	2	Rales. hypoxemia. productive cough.	0	0	1	93.9	9.1	normal	pneumonia	0.79
+PNE-9617	2022-05-30	3	Pyrexia. crackles. spo2 < 94%. productive cough.	1	0	1	92.53118970980410	9.474596681783310	consolidation	pneumonia	0.75
+PNE-9617	2022-05-31	4	Fever. rales. low oxygen saturation. productive cough.	1	0	1	92.757009653375	9.414492356905350	consolidation	pneumonia	0.86
+PNE-2182	2022-02-25	0	T > 38°c. low oxygen saturation. productive cough.	1	0	0	93.6	8.6	normal	pneumonia	0.76
+PNE-2182	2022-02-26	1	Pyrexia. hypoxemia. productive cough.	1	0	0	93.6	8.6	infiltrate	pneumonia	0.91
+PNE-2182	2022-02-27	2	Raised body temp. hypoxemia. productive cough.	1	0	0	93.6	8.6	infiltrate	pneumonia	0.77
+PNE-2182	2022-02-28	3	Rales. spo2 < 94%. productive cough.	0	0	1	92.6150146430052	8.838397574438820	consolidation	pneumonia	0.93
+PNE-2182	2022-03-01	4	Pyrexia. rales. low oxygen saturation. productive cough.	1	0	1	92.47637752157950	8.784534918824520	infiltrate	pneumonia	0.85
+PNE-5662	2021-02-02	0	Fever. rapid heart rate. rales. productive cough.	1	1	1	96.9	9.4	normal	pneumonia	0.91
+PNE-5662	2021-02-03	1	T > 38°c. rapid heart rate. rales. productive cough.	1	1	1	96.9	9.4	effusion	pneumonia	0.73
+PNE-5662	2021-02-04	2	Raised body temp. rapid heart rate. rales. productive cough.	1	1	1	96.9	9.4	infiltrate	pneumonia	0.78
+PNE-5662	2021-02-05	3	Tachycardia. rales. productive cough.	0	1	1	95.61109475509740	9.86332209044676	opacity	pneumonia	0.97
+PNE-5662	2021-02-06	4	Raised body temp. tachycardia. crackles. productive cough.	1	1	1	95.67083346899600	9.796543112377030	normal	pneumonia	0.9
+PNE-6453	2021-10-24	0	Fever. crackles. productive cough.	1	0	1	94.3	10.0	opacity	pneumonia	0.77
+PNE-6453	2021-10-25	1	Pyrexia. crackles. productive cough.	1	0	1	94.3	10.0	opacity	pneumonia	0.88
+PNE-6453	2021-10-26	2	Raised body temp. crackles. productive cough.	1	0	1	94.3	10.0	effusion	pneumonia	0.95
+PNE-6453	2021-10-27	3	T > 38°c. rales. spo2 < 94%. elevated wbc. productive cough.	1	0	1	93.09048286368120	10.319093414677700	opacity	pneumonia	0.95
+PNE-6453	2021-10-28	4	Raised body temp. crackles. hypoxemia. leukocytosis. productive cough.	1	0	1	93.08286330445740	10.168280460102400	normal	pneumonia	0.91
+PNE-4063	2020-09-17	0	T > 38°c. rapid heart rate. low oxygen saturation. productive cough.	1	1	0	92.3	7.1	effusion	pneumonia	0.73
+PNE-4063	2020-09-18	1	Raised body temp. tachycardia. spo2 < 94%. productive cough.	1	1	0	92.3	7.1	infiltrate	pneumonia	0.71
+PNE-4063	2020-09-19	2	Fever. tachycardia. spo2 < 94%. productive cough.	1	1	0	92.3	7.1	infiltrate	pneumonia	0.82
+PNE-4063	2020-09-20	3	Raised body temp. rapid heart rate. rales. spo2 < 94%. productive cough.	1	1	1	91.01924141354960	7.340934266054950	opacity	pneumonia	0.74
+PNE-4063	2020-09-21	4	Pyrexia. tachycardia. crackles. low oxygen saturation. productive cough.	1	1	1	91.43198071168760	7.264648482233470	consolidation	pneumonia	0.79
+PNE-3310	2021-02-28	0	Raised body temp. tachycardia. productive cough.	1	1	0	94.9	6.9	normal	pneumonia	0.87
+PNE-3310	2021-03-01	1	T > 38°c. tachycardia. productive cough.	1	1	0	94.9	6.9	effusion	pneumonia	0.75
+PNE-3310	2021-03-02	2	Febrile. rapid heart rate. productive cough.	1	1	0	94.9	6.9	consolidation	pneumonia	0.77
+PNE-3310	2021-03-03	3	Tachycardia. crackles. hypoxemia. productive cough.	0	1	1	93.67063938398520	7.1667336673637000	consolidation	pneumonia	0.84
+PNE-3310	2021-03-04	4	T > 38°c. rapid heart rate. rales. productive cough.	1	1	1	94.12288637408290	7.27808098499594	consolidation	pneumonia	0.73
+PNE-3874	2020-03-04	0	Tachycardia. crackles. low oxygen saturation. productive cough.	0	1	1	92.3	8.9	effusion	pneumonia	0.72
+PNE-3874	2020-03-05	1	Rapid heart rate. rales. spo2 < 94%. productive cough.	0	1	1	92.3	8.9	effusion	pneumonia	0.84
+PNE-3874	2020-03-06	2	Tachycardia. crackles. low oxygen saturation. productive cough.	0	1	1	92.3	8.9	effusion	pneumonia	0.92
+PNE-3874	2020-03-07	3	Raised body temp. tachycardia. rales. hypoxemia. productive cough.	1	1	1	90.97898993674570	9.334949747995110	normal	pneumonia	0.94
+PNE-3874	2020-03-08	4	Raised body temp. rapid heart rate. crackles. hypoxemia. productive cough.	1	1	1	91.22527521356830	9.023539272930100	opacity	pneumonia	0.96
+PNE-2891	2020-09-11	0	Raised body temp. rapid heart rate. low oxygen saturation. productive cough.	1	1	0	93.9	8.9	effusion	pneumonia	0.79
+PNE-2891	2020-09-12	1	Raised body temp. tachycardia. low oxygen saturation. productive cough.	1	1	0	93.9	8.9	infiltrate	pneumonia	0.71
+PNE-2891	2020-09-13	2	Fever. tachycardia. hypoxemia. productive cough.	1	1	0	93.9	8.9	infiltrate	pneumonia	0.7
+PNE-2891	2020-09-14	3	Tachycardia. crackles. low oxygen saturation. productive cough.	0	1	1	93.32489793077810	9.129265808440670	infiltrate	pneumonia	0.79
+PNE-2891	2020-09-15	4	Fever. tachycardia. rales. spo2 < 94%. productive cough.	1	1	1	92.91974519966260	9.05815084859357	consolidation	pneumonia	0.85
+PNE-3530	2021-06-05	0	Febrile. rales. productive cough.	1	0	1	95.0	7.8	consolidation	pneumonia	0.84
+PNE-3530	2021-06-06	1	Fever. rales. productive cough.	1	0	1	95.0	7.8	normal	pneumonia	0.91
+PNE-3530	2021-06-07	2	Febrile. rales. productive cough.	1	0	1	95.0	7.8	normal	pneumonia	0.82
+PNE-3530	2021-06-08	3	Fever. crackles. hypoxemia. productive cough.	1	0	1	93.62113265882960	8.199801880281570	opacity	pneumonia	0.94
+PNE-3530	2021-06-09	4	T > 38°c. crackles. hypoxemia. productive cough.	1	0	1	93.62296248121060	8.028828218837650	normal	pneumonia	0.9
+PNE-9675	2020-05-12	0	T > 38°c. tachycardia. crackles. productive cough.	1	1	1	95.9	6.5	opacity	pneumonia	0.95
+PNE-9675	2020-05-13	1	Raised body temp. rapid heart rate. rales. productive cough.	1	1	1	95.9	6.5	infiltrate	pneumonia	0.94
+PNE-9675	2020-05-14	2	Pyrexia. tachycardia. crackles. productive cough.	1	1	1	95.9	6.5	normal	pneumonia	0.94
+PNE-9675	2020-05-15	3	T > 38°c. rapid heart rate. crackles. productive cough.	1	1	1	95.00940442660250	6.950062540821830	effusion	pneumonia	0.83
+PNE-9675	2020-05-16	4	T > 38°c. rapid heart rate. rales. productive cough.	1	1	1	95.2628334563182	6.933986301785710	infiltrate	pneumonia	0.99
+PNE-6379	2022-06-12	0	Tachycardia. crackles. spo2 < 94%. productive cough.	0	1	1	92.8	8.5	normal	pneumonia	0.88
+PNE-6379	2022-06-13	1	Tachycardia. rales. low oxygen saturation. productive cough.	0	1	1	92.8	8.5	normal	pneumonia	0.96
+PNE-6379	2022-06-14	2	Rapid heart rate. crackles. hypoxemia. productive cough.	0	1	1	92.8	8.5	consolidation	pneumonia	0.91
+PNE-6379	2022-06-15	3	Pyrexia. rapid heart rate. rales. hypoxemia. productive cough.	1	1	1	91.76816198432190	8.970131477891360	effusion	pneumonia	0.76
+PNE-6379	2022-06-16	4	Rapid heart rate. rales. hypoxemia. productive cough.	0	1	1	92.00331722780740	8.659699953829460	effusion	pneumonia	0.99
+PNE-1463	2020-06-23	0	Pyrexia. productive cough.	1	0	0	97.2	6.7	infiltrate	pneumonia	0.8
+PNE-1463	2020-06-24	1	Pyrexia. productive cough.	1	0	0	97.2	6.7	normal	pneumonia	0.77
+PNE-1463	2020-06-25	2	Fever. productive cough.	1	0	0	97.2	6.7	normal	pneumonia	0.81
+PNE-1463	2020-06-26	3	Febrile. rales. productive cough.	1	0	1	96.16146758539700	6.922933658416430	effusion	pneumonia	0.86
+PNE-1463	2020-06-27	4	Fever. crackles. productive cough.	1	0	1	96.38398732612210	7.152272107807710	normal	pneumonia	0.98
+PNE-4449	2020-03-15	0	T > 38°c. tachycardia. rales. spo2 < 94%. productive cough.	1	1	1	93.3	7.3	infiltrate	pneumonia	0.78
+PNE-4449	2020-03-16	1	Raised body temp. rapid heart rate. rales. spo2 < 94%. productive cough.	1	1	1	93.3	7.3	consolidation	pneumonia	0.83
+PNE-4449	2020-03-17	2	Fever. tachycardia. crackles. spo2 < 94%. productive cough.	1	1	1	93.3	7.3	normal	pneumonia	0.8
+PNE-4449	2020-03-18	3	Tachycardia. rales. hypoxemia. productive cough.	0	1	1	92.75597316540410	7.726147901358350	infiltrate	pneumonia	0.89
+PNE-4449	2020-03-19	4	Tachycardia. rales. spo2 < 94%. productive cough.	0	1	1	92.77734061558990	7.638123770934010	effusion	pneumonia	0.86
+PNE-3617	2022-12-06	0	Raised body temp. tachycardia. rales. productive cough.	1	1	1	95.5	7.9	opacity	pneumonia	0.9
+PNE-3617	2022-12-07	1	Raised body temp. tachycardia. rales. productive cough.	1	1	1	95.5	7.9	opacity	pneumonia	0.85
+PNE-3617	2022-12-08	2	T > 38°c. tachycardia. crackles. productive cough.	1	1	1	95.5	7.9	normal	pneumonia	0.86
+PNE-3617	2022-12-09	3	Raised body temp. rapid heart rate. crackles. productive cough.	1	1	1	94.39343431280080	8.122163161720080	infiltrate	pneumonia	0.97
+PNE-3617	2022-12-10	4	T > 38°c. rapid heart rate. crackles. productive cough.	1	1	1	94.7190955091152	8.282035017995850	opacity	pneumonia	0.74
+PNE-2481	2022-01-24	0	Pyrexia. hypoxemia. productive cough.	1	0	0	92.0	9.6	opacity	pneumonia	0.77
+PNE-2481	2022-01-25	1	Raised body temp. low oxygen saturation. productive cough.	1	0	0	92.0	9.6	effusion	pneumonia	0.91
+PNE-2481	2022-01-26	2	Febrile. hypoxemia. productive cough.	1	0	0	92.0	9.6	consolidation	pneumonia	0.87
+PNE-2481	2022-01-27	3	T > 38°c. rales. spo2 < 94%. leukocytosis. productive cough.	1	0	1	91.09584824698720	10.029092978417500	infiltrate	pneumonia	0.73
+PNE-2481	2022-01-28	4	Crackles. spo2 < 94%. productive cough.	0	0	1	90.8123930138101	9.771630225496280	normal	pneumonia	0.77
+PNE-7702	2020-09-06	0	Tachycardia. productive cough.	0	1	0	95.0	9.4	opacity	pneumonia	0.72
+PNE-7702	2020-09-07	1	Rapid heart rate. productive cough.	0	1	0	95.0	9.4	consolidation	pneumonia	0.83
+PNE-7702	2020-09-08	2	Rapid heart rate. productive cough.	0	1	0	95.0	9.4	opacity	pneumonia	0.74
+PNE-7702	2020-09-09	3	Pyrexia. rapid heart rate. rales. productive cough.	1	1	1	94.26772811816260	9.761635143788340	normal	pneumonia	0.98
+PNE-7702	2020-09-10	4	Febrile. tachycardia. rales. productive cough.	1	1	1	94.496764261775	9.630178626366520	normal	pneumonia	0.73
+PNE-2587	2020-02-12	0	Rapid heart rate. productive cough.	0	1	0	95.7	9.1	consolidation	pneumonia	0.97
+PNE-2587	2020-02-13	1	Tachycardia. productive cough.	0	1	0	95.7	9.1	consolidation	pneumonia	0.94
+PNE-2587	2020-02-14	2	Rapid heart rate. productive cough.	0	1	0	95.7	9.1	effusion	pneumonia	0.81
+PNE-2587	2020-02-15	3	Pyrexia. rapid heart rate. rales. productive cough.	1	1	1	94.35651838958000	9.461399456517460	effusion	pneumonia	0.97
+PNE-2587	2020-02-16	4	Pyrexia. tachycardia. crackles. productive cough.	1	1	1	94.75943949900510	9.451425448777550	normal	pneumonia	0.86
+PNE-9171	2020-10-11	0	Tachycardia. productive cough.	0	1	0	95.7	7.3	infiltrate	pneumonia	0.75
+PNE-9171	2020-10-12	1	Tachycardia. productive cough.	0	1	0	95.7	7.3	normal	pneumonia	0.86
+PNE-9171	2020-10-13	2	Tachycardia. productive cough.	0	1	0	95.7	7.3	consolidation	pneumonia	0.96
+PNE-9171	2020-10-14	3	T > 38°c. tachycardia. crackles. productive cough.	1	1	1	94.38851916739350	7.727451903352690	normal	pneumonia	0.91
+PNE-9171	2020-10-15	4	Rapid heart rate. rales. productive cough.	0	1	1	94.5388544678925	7.4851528030633200	infiltrate	pneumonia	0.93
+PNE-8202	2020-06-04	0	T > 38°c. rapid heart rate. crackles. hypoxemia. productive cough.	1	1	1	93.5	9.3	opacity	pneumonia	0.84
+PNE-8202	2020-06-05	1	Raised body temp. rapid heart rate. rales. spo2 < 94%. productive cough.	1	1	1	93.5	9.3	consolidation	pneumonia	0.8
+PNE-8202	2020-06-06	2	Pyrexia. tachycardia. rales. hypoxemia. productive cough.	1	1	1	93.5	9.3	consolidation	pneumonia	0.88
+PNE-8202	2020-06-07	3	Tachycardia. rales. spo2 < 94%. productive cough.	0	1	1	92.13543485756250	9.451849288501410	consolidation	pneumonia	0.76
+PNE-8202	2020-06-08	4	T > 38°c. tachycardia. rales. low oxygen saturation. productive cough.	1	1	1	92.27340647106770	9.558112510958950	opacity	pneumonia	0.81
+PNE-3764	2022-08-14	0	Pyrexia. rapid heart rate. rales. productive cough.	1	1	1	95.2	9.7	effusion	pneumonia	0.77
+PNE-3764	2022-08-15	1	Fever. rapid heart rate. rales. productive cough.	1	1	1	95.2	9.7	normal	pneumonia	0.98
+PNE-3764	2022-08-16	2	Febrile. rapid heart rate. crackles. productive cough.	1	1	1	95.2	9.7	normal	pneumonia	0.83
+PNE-3764	2022-08-17	3	Pyrexia. tachycardia. rales. productive cough.	1	1	1	94.63452363056620	9.86501402619565	normal	pneumonia	0.72
+PNE-3764	2022-08-18	4	T > 38°c. tachycardia. rales. spo2 < 94%. leukocytosis. productive cough.	1	1	1	93.72590055283110	10.044070090925100	normal	pneumonia	0.7
+PNE-4376	2021-11-25	0	Raised body temp. tachycardia. rales. elevated wbc. productive cough.	1	1	1	94.6	10.2	effusion	pneumonia	0.96
+PNE-4376	2021-11-26	1	Fever. rapid heart rate. rales. leukocytosis. productive cough.	1	1	1	94.6	10.2	infiltrate	pneumonia	0.92
+PNE-4376	2021-11-27	2	Fever. tachycardia. rales. elevated wbc. productive cough.	1	1	1	94.6	10.2	normal	pneumonia	0.96
+PNE-4376	2021-11-28	3	Febrile. rapid heart rate. crackles. spo2 < 94%. elevated wbc. productive cough.	1	1	1	93.82442819979690	10.633648439229400	infiltrate	pneumonia	0.78
+PNE-4376	2021-11-29	4	Tachycardia. rales. spo2 < 94%. elevated wbc. productive cough.	0	1	1	93.45992469483750	10.358348780839900	consolidation	pneumonia	0.76
+PNE-9395	2021-11-09	0	Pyrexia. crackles. hypoxemia. productive cough.	1	0	1	93.0	8.2	consolidation	pneumonia	0.89
+PNE-9395	2021-11-10	1	Pyrexia. rales. low oxygen saturation. productive cough.	1	0	1	93.0	8.2	normal	pneumonia	0.94
+PNE-9395	2021-11-11	2	Raised body temp. crackles. hypoxemia. productive cough.	1	0	1	93.0	8.2	normal	pneumonia	0.8
+PNE-9395	2021-11-12	3	Febrile. crackles. low oxygen saturation. productive cough.	1	0	1	91.68270262532250	8.563121296210470	infiltrate	pneumonia	0.84
+PNE-9395	2021-11-13	4	Raised body temp. crackles. hypoxemia. productive cough.	1	0	1	92.03886908334840	8.421014947634710	opacity	pneumonia	0.77
+PNE-5643	2021-12-15	0	Tachycardia. low oxygen saturation. productive cough.	0	1	0	93.1	9.1	normal	pneumonia	0.8
+PNE-5643	2021-12-16	1	Rapid heart rate. low oxygen saturation. productive cough.	0	1	0	93.1	9.1	effusion	pneumonia	0.73
+PNE-5643	2021-12-17	2	Tachycardia. low oxygen saturation. productive cough.	0	1	0	93.1	9.1	consolidation	pneumonia	0.88
+PNE-5643	2021-12-18	3	Raised body temp. rapid heart rate. crackles. low oxygen saturation. productive cough.	1	1	1	91.76321002842540	9.269393996503130	effusion	pneumonia	0.75
+PNE-5643	2021-12-19	4	Pyrexia. tachycardia. rales. hypoxemia. productive cough.	1	1	1	92.176284762101	9.595469100854660	infiltrate	pneumonia	0.74
+PUL-9908	2022-06-01	0	Pyrexia. bilateral basal crepitations.	1	0	0	97.2	8.9	consolidation	pulmonary edema	0.75
+PUL-9908	2022-06-02	1	Febrile. bilateral basal crepitations.	1	0	0	97.2	8.9	effusion	pulmonary edema	0.7
+PUL-9908	2022-06-03	2	Febrile. bilateral basal crepitations.	1	0	0	97.2	8.9	infiltrate	pulmonary edema	0.63
+PUL-9908	2022-06-04	3	Raised body temp. bilateral basal crepitations.	1	0	0	96.62413273625710	9.0848779644885	effusion	pulmonary edema	0.48
+PUL-9908	2022-06-05	4	Bilateral basal crepitations.	0	0	0	96.27101749786590	9.25501888924494	infiltrate	pulmonary edema	0.43
+PUL-9083	2020-10-20	0	Pyrexia. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	95.0	6.5	opacity	pulmonary edema	0.65
+PUL-9083	2020-10-21	1	Raised body temp. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	95.0	6.5	normal	pulmonary edema	0.47
+PUL-9083	2020-10-22	2	Pyrexia. tachycardia. crackles. bilateral basal crepitations.	1	1	1	95.0	6.5	infiltrate	pulmonary edema	0.5
+PUL-9083	2020-10-23	3	Fever. tachycardia. rales. hypoxemia. bilateral basal crepitations.	1	1	1	93.99329310264630	6.7509200583997000	effusion	pulmonary edema	0.83
+PUL-9083	2020-10-24	4	Fever. rapid heart rate. crackles. hypoxemia. bilateral basal crepitations.	1	1	1	93.84653140045280	6.770992481712210	effusion	pulmonary edema	0.78
+PUL-1716	2021-02-28	0	Pyrexia. tachycardia. rales. spo2 < 94%. bilateral basal crepitations.	1	1	1	93.0	7.0	consolidation	pulmonary edema	0.78
+PUL-1716	2021-03-01	1	Febrile. tachycardia. rales. hypoxemia. bilateral basal crepitations.	1	1	1	93.0	7.0	consolidation	pulmonary edema	0.36
+PUL-1716	2021-03-02	2	T > 38°c. tachycardia. rales. hypoxemia. bilateral basal crepitations.	1	1	1	93.0	7.0	infiltrate	pulmonary edema	0.45
+PUL-1716	2021-03-03	3	T > 38°c. tachycardia. crackles. spo2 < 94%. bilateral basal crepitations.	1	1	1	92.20758625060870	7.256477021976040	infiltrate	pulmonary edema	0.72
+PUL-1716	2021-03-04	4	Raised body temp. tachycardia. rales. hypoxemia. bilateral basal crepitations.	1	1	1	91.65218660814250	7.457842377276720	infiltrate	pulmonary edema	0.82
+PUL-8242	2020-02-20	0	Leukocytosis. bilateral basal crepitations.	0	0	0	94.3	10.3	effusion	pulmonary edema	0.68
+PUL-8242	2020-02-21	1	Leukocytosis. bilateral basal crepitations.	0	0	0	94.3	10.3	effusion	pulmonary edema	0.4
+PUL-8242	2020-02-22	2	Elevated wbc. bilateral basal crepitations.	0	0	0	94.3	10.3	effusion	pulmonary edema	0.37
+PUL-8242	2020-02-23	3	Febrile. hypoxemia. leukocytosis. bilateral basal crepitations.	1	0	0	93.06108275465110	10.461048197440900	normal	pulmonary edema	0.72
+PUL-8242	2020-02-24	4	Spo2 < 94%. elevated wbc. bilateral basal crepitations.	0	0	0	93.59066018387330	10.69541775183310	infiltrate	pulmonary edema	0.78
+PUL-5384	2021-10-01	0	Fever. bilateral basal crepitations.	1	0	0	94.2	7.9	normal	pulmonary edema	0.43
+PUL-5384	2021-10-02	1	Fever. bilateral basal crepitations.	1	0	0	94.2	7.9	opacity	pulmonary edema	0.65
+PUL-5384	2021-10-03	2	Raised body temp. bilateral basal crepitations.	1	0	0	94.2	7.9	opacity	pulmonary edema	0.55
+PUL-5384	2021-10-04	3	Pyrexia. hypoxemia. bilateral basal crepitations.	1	0	0	92.95685143267920	8.395610072502010	opacity	pulmonary edema	0.66
+PUL-5384	2021-10-05	4	Pyrexia. low oxygen saturation. bilateral basal crepitations.	1	0	0	93.44990567730860	8.270287499918840	effusion	pulmonary edema	0.43
+PUL-2744	2022-09-26	0	Spo2 < 94%. bilateral basal crepitations.	0	0	0	92.3	6.7	opacity	pulmonary edema	0.32
+PUL-2744	2022-09-27	1	Spo2 < 94%. bilateral basal crepitations.	0	0	0	92.3	6.7	opacity	pulmonary edema	0.72
+PUL-2744	2022-09-28	2	Hypoxemia. bilateral basal crepitations.	0	0	0	92.3	6.7	normal	pulmonary edema	0.53
+PUL-2744	2022-09-29	3	Raised body temp. spo2 < 94%. bilateral basal crepitations.	1	0	0	90.99128421750700	7.172618254455460	opacity	pulmonary edema	0.44
+PUL-2744	2022-09-30	4	Fever. spo2 < 94%. bilateral basal crepitations.	1	0	0	91.76591763075750	6.853366452873920	consolidation	pulmonary edema	0.82
+PUL-3225	2022-12-13	0	Pyrexia. tachycardia. crackles. elevated wbc. bilateral basal crepitations.	1	1	1	96.2	10.4	opacity	pulmonary edema	0.46
+PUL-3225	2022-12-14	1	T > 38°c. tachycardia. crackles. elevated wbc. bilateral basal crepitations.	1	1	1	96.2	10.4	infiltrate	pulmonary edema	0.46
+PUL-3225	2022-12-15	2	Febrile. tachycardia. crackles. leukocytosis. bilateral basal crepitations.	1	1	1	96.2	10.4	consolidation	pulmonary edema	0.79
+PUL-3225	2022-12-16	3	Fever. rapid heart rate. rales. leukocytosis. bilateral basal crepitations.	1	1	1	95.10948087283420	10.5956181888507	infiltrate	pulmonary edema	0.77
+PUL-3225	2022-12-17	4	Fever. rapid heart rate. rales. leukocytosis. bilateral basal crepitations.	1	1	1	95.55983102660370	10.77601438061550	infiltrate	pulmonary edema	0.32
+PUL-8193	2021-03-26	0	Fever. crackles. hypoxemia. leukocytosis. bilateral basal crepitations.	1	0	1	93.4	10.4	infiltrate	pulmonary edema	0.71
+PUL-8193	2021-03-27	1	Pyrexia. rales. spo2 < 94%. leukocytosis. bilateral basal crepitations.	1	0	1	93.4	10.4	infiltrate	pulmonary edema	0.61
+PUL-8193	2021-03-28	2	Febrile. rales. spo2 < 94%. leukocytosis. bilateral basal crepitations.	1	0	1	93.4	10.4	consolidation	pulmonary edema	0.78
+PUL-8193	2021-03-29	3	Raised body temp. rales. low oxygen saturation. leukocytosis. bilateral basal crepitations.	1	0	1	92.1842377088879	10.570630323949300	opacity	pulmonary edema	0.45
+PUL-8193	2021-03-30	4	T > 38°c. rales. low oxygen saturation. leukocytosis. bilateral basal crepitations.	1	0	1	92.73112560758570	10.68792703092220	infiltrate	pulmonary edema	0.77
+PUL-1017	2020-01-07	0	T > 38°c. tachycardia. bilateral basal crepitations.	1	1	0	95.9	9.4	opacity	pulmonary edema	0.67
+PUL-1017	2020-01-08	1	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	95.9	9.4	infiltrate	pulmonary edema	0.64
+PUL-1017	2020-01-09	2	Raised body temp. tachycardia. bilateral basal crepitations.	1	1	0	95.9	9.4	normal	pulmonary edema	0.69
+PUL-1017	2020-01-10	3	Fever. tachycardia. bilateral basal crepitations.	1	1	0	94.80105465578450	9.735198947114320	consolidation	pulmonary edema	0.78
+PUL-1017	2020-01-11	4	Pyrexia. tachycardia. bilateral basal crepitations.	1	1	0	94.44819071083800	9.867230090227900	effusion	pulmonary edema	0.69
+PUL-6536	2021-11-11	0	Pyrexia. tachycardia. bilateral basal crepitations.	1	1	0	96.7	8.6	consolidation	pulmonary edema	0.37
+PUL-6536	2021-11-12	1	Pyrexia. tachycardia. bilateral basal crepitations.	1	1	0	96.7	8.6	infiltrate	pulmonary edema	0.67
+PUL-6536	2021-11-13	2	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	96.7	8.6	opacity	pulmonary edema	0.58
+PUL-6536	2021-11-14	3	Raised body temp. tachycardia. bilateral basal crepitations.	1	1	0	95.6822673149522	8.92576215772184	infiltrate	pulmonary edema	0.42
+PUL-6536	2021-11-15	4	Fever. tachycardia. bilateral basal crepitations.	1	1	0	96.0676706416739	8.705606704029010	infiltrate	pulmonary edema	0.36
+PUL-2488	2022-11-07	0	Fever. tachycardia. rales. elevated wbc. bilateral basal crepitations.	1	1	1	95.3	10.4	infiltrate	pulmonary edema	0.85
+PUL-2488	2022-11-08	1	Raised body temp. rapid heart rate. crackles. elevated wbc. bilateral basal crepitations.	1	1	1	95.3	10.4	opacity	pulmonary edema	0.74
+PUL-2488	2022-11-09	2	Raised body temp. rapid heart rate. rales. elevated wbc. bilateral basal crepitations.	1	1	1	95.3	10.4	infiltrate	pulmonary edema	0.5
+PUL-2488	2022-11-10	3	Febrile. tachycardia. rales. hypoxemia. leukocytosis. bilateral basal crepitations.	1	1	1	93.97260341060980	10.820400357103600	normal	pulmonary edema	0.32
+PUL-2488	2022-11-11	4	Fever. tachycardia. rales. hypoxemia. elevated wbc. bilateral basal crepitations.	1	1	1	93.9449884767332	10.552290633767800	normal	pulmonary edema	0.81
+PUL-9461	2022-07-03	0	Fever. tachycardia. low oxygen saturation. leukocytosis. bilateral basal crepitations.	1	1	0	92.3	10.4	normal	pulmonary edema	0.64
+PUL-9461	2022-07-04	1	Fever. tachycardia. hypoxemia. leukocytosis. bilateral basal crepitations.	1	1	0	92.3	10.4	effusion	pulmonary edema	0.52
+PUL-9461	2022-07-05	2	Raised body temp. rapid heart rate. hypoxemia. elevated wbc. bilateral basal crepitations.	1	1	0	92.3	10.4	normal	pulmonary edema	0.46
+PUL-9461	2022-07-06	3	Rapid heart rate. hypoxemia. elevated wbc. bilateral basal crepitations.	0	1	0	90.82169621390330	10.673155355108600	consolidation	pulmonary edema	0.31
+PUL-9461	2022-07-07	4	Fever. rapid heart rate. spo2 < 94%. elevated wbc. bilateral basal crepitations.	1	1	0	91.1028845121092	10.84252117932410	effusion	pulmonary edema	0.76
+PUL-2026	2020-02-08	0	Fever. rapid heart rate. crackles. low oxygen saturation. bilateral basal crepitations.	1	1	1	92.0	8.8	consolidation	pulmonary edema	0.45
+PUL-2026	2020-02-09	1	Pyrexia. tachycardia. crackles. spo2 < 94%. bilateral basal crepitations.	1	1	1	92.0	8.8	effusion	pulmonary edema	0.77
+PUL-2026	2020-02-10	2	Pyrexia. tachycardia. rales. hypoxemia. bilateral basal crepitations.	1	1	1	92.0	8.8	opacity	pulmonary edema	0.33
+PUL-2026	2020-02-11	3	Rapid heart rate. crackles. spo2 < 94%. bilateral basal crepitations.	0	1	1	90.51964784667010	9.028572913432560	consolidation	pulmonary edema	0.77
+PUL-2026	2020-02-12	4	Fever. rapid heart rate. crackles. spo2 < 94%. bilateral basal crepitations.	1	1	1	90.80314424235520	9.149484646253600	consolidation	pulmonary edema	0.59
+PUL-4784	2021-01-02	0	Febrile. bilateral basal crepitations.	1	0	0	95.2	7.7	normal	pulmonary edema	0.65
+PUL-4784	2021-01-03	1	T > 38°c. bilateral basal crepitations.	1	0	0	95.2	7.7	infiltrate	pulmonary edema	0.3
+PUL-4784	2021-01-04	2	Fever. bilateral basal crepitations.	1	0	0	95.2	7.7	effusion	pulmonary edema	0.5
+PUL-4784	2021-01-05	3	Raised body temp. bilateral basal crepitations.	1	0	0	94.12592528700990	7.934834391195270	opacity	pulmonary edema	0.75
+PUL-4784	2021-01-06	4	Pyrexia. spo2 < 94%. bilateral basal crepitations.	1	0	0	93.9701922816204	8.18636128061724	infiltrate	pulmonary edema	0.62
+PUL-4972	2022-06-09	0	Raised body temp. rapid heart rate. bilateral basal crepitations.	1	1	0	94.6	6.9	effusion	pulmonary edema	0.42
+PUL-4972	2022-06-10	1	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	94.6	6.9	normal	pulmonary edema	0.67
+PUL-4972	2022-06-11	2	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	94.6	6.9	opacity	pulmonary edema	0.8
+PUL-4972	2022-06-12	3	Pyrexia. tachycardia. spo2 < 94%. bilateral basal crepitations.	1	1	0	93.14275616742260	7.380824168040360	effusion	pulmonary edema	0.37
+PUL-4972	2022-06-13	4	Raised body temp. tachycardia. hypoxemia. bilateral basal crepitations.	1	1	0	93.75960919831650	7.203002496171320	infiltrate	pulmonary edema	0.37
+PUL-5314	2021-12-27	0	Rapid heart rate. rales. bilateral basal crepitations.	0	1	1	97.0	6.8	consolidation	pulmonary edema	0.82
+PUL-5314	2021-12-28	1	Rapid heart rate. rales. bilateral basal crepitations.	0	1	1	97.0	6.8	normal	pulmonary edema	0.64
+PUL-5314	2021-12-29	2	Tachycardia. rales. bilateral basal crepitations.	0	1	1	97.0	6.8	normal	pulmonary edema	0.49
+PUL-5314	2021-12-30	3	Fever. tachycardia. rales. bilateral basal crepitations.	1	1	1	95.51107426879030	7.086387858271370	opacity	pulmonary edema	0.56
+PUL-5314	2021-12-31	4	T > 38°c. tachycardia. rales. bilateral basal crepitations.	1	1	1	96.19424026553350	6.904557617985330	normal	pulmonary edema	0.82
+PUL-2129	2020-07-28	0	Fever. rapid heart rate. bilateral basal crepitations.	1	1	0	96.2	9.8	opacity	pulmonary edema	0.6
+PUL-2129	2020-07-29	1	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	96.2	9.8	normal	pulmonary edema	0.34
+PUL-2129	2020-07-30	2	Fever. tachycardia. bilateral basal crepitations.	1	1	0	96.2	9.8	consolidation	pulmonary edema	0.83
+PUL-2129	2020-07-31	3	Tachycardia. leukocytosis. bilateral basal crepitations.	0	1	0	95.15200270447010	10.101817377038700	effusion	pulmonary edema	0.8
+PUL-2129	2020-08-01	4	Pyrexia. tachycardia. elevated wbc. bilateral basal crepitations.	1	1	0	95.36082490841510	10.239256245941400	opacity	pulmonary edema	0.35
+PUL-6127	2020-03-21	0	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	95.3	7.4	normal	pulmonary edema	0.37
+PUL-6127	2020-03-22	1	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	95.3	7.4	infiltrate	pulmonary edema	0.67
+PUL-6127	2020-03-23	2	Rapid heart rate. rales. bilateral basal crepitations.	0	1	1	95.3	7.4	opacity	pulmonary edema	0.36
+PUL-6127	2020-03-24	3	T > 38°c. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	94.24703034495330	7.50117135473144	infiltrate	pulmonary edema	0.45
+PUL-6127	2020-03-25	4	Tachycardia. rales. bilateral basal crepitations.	0	1	1	94.53860882099070	7.573713433716900	consolidation	pulmonary edema	0.36
+PUL-5822	2022-02-06	0	Tachycardia. bilateral basal crepitations.	0	1	0	96.9	7.9	effusion	pulmonary edema	0.36
+PUL-5822	2022-02-07	1	Tachycardia. bilateral basal crepitations.	0	1	0	96.9	7.9	infiltrate	pulmonary edema	0.55
+PUL-5822	2022-02-08	2	Tachycardia. bilateral basal crepitations.	0	1	0	96.9	7.9	infiltrate	pulmonary edema	0.51
+PUL-5822	2022-02-09	3	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	96.238024911542	8.22173318419535	effusion	pulmonary edema	0.69
+PUL-5822	2022-02-10	4	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	96.1295383251378	8.125119841520440	effusion	pulmonary edema	0.84
+PUL-8338	2022-05-14	0	Pyrexia. bilateral basal crepitations.	1	0	0	97.6	9.8	normal	pulmonary edema	0.33
+PUL-8338	2022-05-15	1	Febrile. bilateral basal crepitations.	1	0	0	97.6	9.8	infiltrate	pulmonary edema	0.41
+PUL-8338	2022-05-16	2	T > 38°c. bilateral basal crepitations.	1	0	0	97.6	9.8	consolidation	pulmonary edema	0.58
+PUL-8338	2022-05-17	3	Febrile. leukocytosis. bilateral basal crepitations.	1	0	0	96.47075944527660	10.262341513989300	normal	pulmonary edema	0.71
+PUL-8338	2022-05-18	4	Pyrexia. elevated wbc. bilateral basal crepitations.	1	0	0	96.9201688191287	10.025804817238200	infiltrate	pulmonary edema	0.33
+PUL-3672	2022-08-24	0	Spo2 < 94%. bilateral basal crepitations.	0	0	0	93.4	9.7	effusion	pulmonary edema	0.3
+PUL-3672	2022-08-25	1	Low oxygen saturation. bilateral basal crepitations.	0	0	0	93.4	9.7	consolidation	pulmonary edema	0.55
+PUL-3672	2022-08-26	2	Low oxygen saturation. bilateral basal crepitations.	0	0	0	93.4	9.7	infiltrate	pulmonary edema	0.83
+PUL-3672	2022-08-27	3	Spo2 < 94%. leukocytosis. bilateral basal crepitations.	0	0	0	92.37197020468400	10.082742884503500	consolidation	pulmonary edema	0.82
+PUL-3672	2022-08-28	4	Fever. spo2 < 94%. elevated wbc. bilateral basal crepitations.	1	0	0	92.07529081415580	10.015893368747300	consolidation	pulmonary edema	0.64
+PUL-7985	2021-07-05	0	Febrile. tachycardia. bilateral basal crepitations.	1	1	0	94.6	8.4	opacity	pulmonary edema	0.43
+PUL-7985	2021-07-06	1	Febrile. tachycardia. bilateral basal crepitations.	1	1	0	94.6	8.4	effusion	pulmonary edema	0.34
+PUL-7985	2021-07-07	2	T > 38°c. rapid heart rate. bilateral basal crepitations.	1	1	0	94.6	8.4	opacity	pulmonary edema	0.84
+PUL-7985	2021-07-08	3	Tachycardia. spo2 < 94%. bilateral basal crepitations.	0	1	0	93.54670238050760	8.764075586728270	normal	pulmonary edema	0.4
+PUL-7985	2021-07-09	4	Pyrexia. rapid heart rate. hypoxemia. bilateral basal crepitations.	1	1	0	93.86865704276160	8.583394498947990	opacity	pulmonary edema	0.59
+PUL-3735	2020-09-11	0	Febrile. rales. low oxygen saturation. bilateral basal crepitations.	1	0	1	92.8	9.9	consolidation	pulmonary edema	0.42
+PUL-3735	2020-09-12	1	Febrile. crackles. hypoxemia. bilateral basal crepitations.	1	0	1	92.8	9.9	consolidation	pulmonary edema	0.44
+PUL-3735	2020-09-13	2	Raised body temp. crackles. spo2 < 94%. bilateral basal crepitations.	1	0	1	92.8	9.9	normal	pulmonary edema	0.72
+PUL-3735	2020-09-14	3	T > 38°c. crackles. hypoxemia. elevated wbc. bilateral basal crepitations.	1	0	1	92.12965560179720	10.034108001018400	opacity	pulmonary edema	0.69
+PUL-3735	2020-09-15	4	T > 38°c. crackles. low oxygen saturation. elevated wbc. bilateral basal crepitations.	1	0	1	91.46595950527280	10.335369462053800	consolidation	pulmonary edema	0.61
+PUL-9903	2021-09-13	0	Febrile. bilateral basal crepitations.	1	0	0	94.8	7.8	normal	pulmonary edema	0.4
+PUL-9903	2021-09-14	1	Pyrexia. bilateral basal crepitations.	1	0	0	94.8	7.8	opacity	pulmonary edema	0.85
+PUL-9903	2021-09-15	2	Febrile. bilateral basal crepitations.	1	0	0	94.8	7.8	opacity	pulmonary edema	0.62
+PUL-9903	2021-09-16	3	Fever. bilateral basal crepitations.	1	0	0	94.00619273409950	8.123201575723240	normal	pulmonary edema	0.82
+PUL-9903	2021-09-17	4	Bilateral basal crepitations.	0	0	0	94.18478632596290	7.912269682568500	effusion	pulmonary edema	0.5
+PUL-6814	2022-06-26	0	Rapid heart rate. bilateral basal crepitations.	0	1	0	96.9	6.0	consolidation	pulmonary edema	0.38
+PUL-6814	2022-06-27	1	Rapid heart rate. bilateral basal crepitations.	0	1	0	96.9	6.0	opacity	pulmonary edema	0.7
+PUL-6814	2022-06-28	2	Tachycardia. bilateral basal crepitations.	0	1	0	96.9	6.0	effusion	pulmonary edema	0.35
+PUL-6814	2022-06-29	3	Fever. tachycardia. bilateral basal crepitations.	1	1	0	96.23168586004780	6.317300255694270	consolidation	pulmonary edema	0.49
+PUL-6814	2022-06-30	4	Rapid heart rate. bilateral basal crepitations.	0	1	0	96.1135300994198	6.189769260192960	opacity	pulmonary edema	0.56
+PUL-1396	2022-12-08	0	Rales. bilateral basal crepitations.	0	0	1	96.1	7.2	infiltrate	pulmonary edema	0.45
+PUL-1396	2022-12-09	1	Crackles. bilateral basal crepitations.	0	0	1	96.1	7.2	opacity	pulmonary edema	0.48
+PUL-1396	2022-12-10	2	Rales. bilateral basal crepitations.	0	0	1	96.1	7.2	effusion	pulmonary edema	0.77
+PUL-1396	2022-12-11	3	Crackles. bilateral basal crepitations.	0	0	1	95.02221479726330	7.4974916919267600	infiltrate	pulmonary edema	0.38
+PUL-1396	2022-12-12	4	Crackles. bilateral basal crepitations.	0	0	1	95.5809553143229	7.494098905758690	effusion	pulmonary edema	0.51
+PUL-6948	2022-04-03	0	Febrile. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	97.4	6.5	normal	pulmonary edema	0.65
+PUL-6948	2022-04-04	1	Pyrexia. tachycardia. rales. bilateral basal crepitations.	1	1	1	97.4	6.5	consolidation	pulmonary edema	0.32
+PUL-6948	2022-04-05	2	T > 38°c. tachycardia. rales. bilateral basal crepitations.	1	1	1	97.4	6.5	opacity	pulmonary edema	0.47
+PUL-6948	2022-04-06	3	Pyrexia. tachycardia. crackles. bilateral basal crepitations.	1	1	1	96.84397703233080	6.849506045252570	effusion	pulmonary edema	0.6
+PUL-6948	2022-04-07	4	Febrile. tachycardia. crackles. bilateral basal crepitations.	1	1	1	96.24443016289740	6.86403389619201	normal	pulmonary edema	0.84
+PUL-5221	2022-03-16	0	Bilateral basal crepitations.	0	0	0	96.8	6.4	opacity	pulmonary edema	0.78
+PUL-5221	2022-03-17	1	Bilateral basal crepitations.	0	0	0	96.8	6.4	consolidation	pulmonary edema	0.51
+PUL-5221	2022-03-18	2	Bilateral basal crepitations.	0	0	0	96.8	6.4	infiltrate	pulmonary edema	0.59
+PUL-5221	2022-03-19	3	T > 38°c. bilateral basal crepitations.	1	0	0	96.1485385824312	6.547897657366540	effusion	pulmonary edema	0.72
+PUL-5221	2022-03-20	4	Bilateral basal crepitations.	0	0	0	96.22698752498660	6.891106711531220	effusion	pulmonary edema	0.82
+PUL-1641	2021-08-17	0	Pyrexia. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	97.3	8.0	opacity	pulmonary edema	0.85
+PUL-1641	2021-08-18	1	Raised body temp. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	97.3	8.0	infiltrate	pulmonary edema	0.49
+PUL-1641	2021-08-19	2	Pyrexia. tachycardia. crackles. bilateral basal crepitations.	1	1	1	97.3	8.0	consolidation	pulmonary edema	0.72
+PUL-1641	2021-08-20	3	Fever. tachycardia. crackles. bilateral basal crepitations.	1	1	1	96.6463803239788	8.34856100571984	consolidation	pulmonary edema	0.56
+PUL-1641	2021-08-21	4	Raised body temp. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	96.39314337825980	8.193547678845710	effusion	pulmonary edema	0.41
+PUL-2557	2022-08-31	0	Pyrexia. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	97.0	7.8	opacity	pulmonary edema	0.65
+PUL-2557	2022-09-01	1	Febrile. tachycardia. rales. bilateral basal crepitations.	1	1	1	97.0	7.8	consolidation	pulmonary edema	0.58
+PUL-2557	2022-09-02	2	Fever. tachycardia. rales. bilateral basal crepitations.	1	1	1	97.0	7.8	infiltrate	pulmonary edema	0.69
+PUL-2557	2022-09-03	3	Febrile. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	95.93311922608330	7.987971309774650	consolidation	pulmonary edema	0.65
+PUL-2557	2022-09-04	4	Fever. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	96.28221099319120	8.131207524271710	infiltrate	pulmonary edema	0.77
+PUL-6489	2022-09-04	0	Fever. tachycardia. hypoxemia. bilateral basal crepitations.	1	1	0	92.1	9.3	effusion	pulmonary edema	0.66
+PUL-6489	2022-09-05	1	T > 38°c. rapid heart rate. spo2 < 94%. bilateral basal crepitations.	1	1	0	92.1	9.3	consolidation	pulmonary edema	0.67
+PUL-6489	2022-09-06	2	Raised body temp. rapid heart rate. spo2 < 94%. bilateral basal crepitations.	1	1	0	92.1	9.3	normal	pulmonary edema	0.45
+PUL-6489	2022-09-07	3	Rapid heart rate. low oxygen saturation. bilateral basal crepitations.	0	1	0	90.62975684397380	9.712609213836210	opacity	pulmonary edema	0.85
+PUL-6489	2022-09-08	4	Raised body temp. tachycardia. spo2 < 94%. bilateral basal crepitations.	1	1	0	91.33588062142890	9.462097777581490	infiltrate	pulmonary edema	0.79
+PUL-2306	2020-05-11	0	Raised body temp. bilateral basal crepitations.	1	0	0	95.5	8.6	infiltrate	pulmonary edema	0.65
+PUL-2306	2020-05-12	1	Pyrexia. bilateral basal crepitations.	1	0	0	95.5	8.6	normal	pulmonary edema	0.61
+PUL-2306	2020-05-13	2	Febrile. bilateral basal crepitations.	1	0	0	95.5	8.6	opacity	pulmonary edema	0.82
+PUL-2306	2020-05-14	3	Febrile. bilateral basal crepitations.	1	0	0	94.65212335685250	8.890720061694800	infiltrate	pulmonary edema	0.62
+PUL-2306	2020-05-15	4	Bilateral basal crepitations.	0	0	0	94.76504296383590	9.003284664603010	normal	pulmonary edema	0.57
+PUL-8333	2021-05-16	0	Pyrexia. crackles. spo2 < 94%. bilateral basal crepitations.	1	0	1	92.2	8.2	consolidation	pulmonary edema	0.7
+PUL-8333	2021-05-17	1	Raised body temp. crackles. spo2 < 94%. bilateral basal crepitations.	1	0	1	92.2	8.2	normal	pulmonary edema	0.77
+PUL-8333	2021-05-18	2	Pyrexia. crackles. low oxygen saturation. bilateral basal crepitations.	1	0	1	92.2	8.2	effusion	pulmonary edema	0.32
+PUL-8333	2021-05-19	3	Crackles. spo2 < 94%. bilateral basal crepitations.	0	0	1	90.81525166781560	8.63369579188775	infiltrate	pulmonary edema	0.34
+PUL-8333	2021-05-20	4	T > 38°c. crackles. low oxygen saturation. bilateral basal crepitations.	1	0	1	90.9891264976321	8.525649753270860	infiltrate	pulmonary edema	0.69
+PUL-8836	2021-01-26	0	Febrile. tachycardia. bilateral basal crepitations.	1	1	0	94.3	8.0	opacity	pulmonary edema	0.81
+PUL-8836	2021-01-27	1	Fever. tachycardia. bilateral basal crepitations.	1	1	0	94.3	8.0	consolidation	pulmonary edema	0.42
+PUL-8836	2021-01-28	2	T > 38°c. tachycardia. bilateral basal crepitations.	1	1	0	94.3	8.0	infiltrate	pulmonary edema	0.49
+PUL-8836	2021-01-29	3	Fever. rapid heart rate. spo2 < 94%. bilateral basal crepitations.	1	1	0	93.32913870586560	8.251358169646820	consolidation	pulmonary edema	0.41
+PUL-8836	2021-01-30	4	Rapid heart rate. hypoxemia. bilateral basal crepitations.	0	1	0	92.85959249560000	8.251576395181120	normal	pulmonary edema	0.57
+PUL-3396	2022-02-05	0	T > 38°c. bilateral basal crepitations.	1	0	0	95.5	8.4	normal	pulmonary edema	0.5
+PUL-3396	2022-02-06	1	T > 38°c. bilateral basal crepitations.	1	0	0	95.5	8.4	normal	pulmonary edema	0.8
+PUL-3396	2022-02-07	2	Febrile. bilateral basal crepitations.	1	0	0	95.5	8.4	infiltrate	pulmonary edema	0.34
+PUL-3396	2022-02-08	3	Febrile. bilateral basal crepitations.	1	0	0	94.99815714922820	8.500465307989880	infiltrate	pulmonary edema	0.36
+PUL-3396	2022-02-09	4	Bilateral basal crepitations.	0	0	0	94.60137423969390	8.761976297799370	opacity	pulmonary edema	0.36
+PUL-6510	2021-01-11	0	Febrile. bilateral basal crepitations.	1	0	0	94.7	9.4	normal	pulmonary edema	0.68
+PUL-6510	2021-01-12	1	Raised body temp. bilateral basal crepitations.	1	0	0	94.7	9.4	normal	pulmonary edema	0.79
+PUL-6510	2021-01-13	2	Fever. bilateral basal crepitations.	1	0	0	94.7	9.4	normal	pulmonary edema	0.47
+PUL-6510	2021-01-14	3	Raised body temp. low oxygen saturation. bilateral basal crepitations.	1	0	0	93.28914429897540	9.82549485088284	opacity	pulmonary edema	0.42
+PUL-6510	2021-01-15	4	Raised body temp. spo2 < 94%. bilateral basal crepitations.	1	0	0	93.49871955729060	9.521819863935690	normal	pulmonary edema	0.46
+PUL-2824	2022-04-09	0	Bilateral basal crepitations.	0	0	0	94.9	9.5	normal	pulmonary edema	0.74
+PUL-2824	2022-04-10	1	Bilateral basal crepitations.	0	0	0	94.9	9.5	opacity	pulmonary edema	0.74
+PUL-2824	2022-04-11	2	Bilateral basal crepitations.	0	0	0	94.9	9.5	infiltrate	pulmonary edema	0.35
+PUL-2824	2022-04-12	3	Bilateral basal crepitations.	0	0	0	94.06926535779920	9.970601656659250	consolidation	pulmonary edema	0.31
+PUL-2824	2022-04-13	4	Raised body temp. hypoxemia. bilateral basal crepitations.	1	0	0	93.98901680036330	9.755895244437970	opacity	pulmonary edema	0.6
+PUL-6618	2021-11-18	0	Fever. crackles. low oxygen saturation. bilateral basal crepitations.	1	0	1	93.3	8.6	normal	pulmonary edema	0.34
+PUL-6618	2021-11-19	1	Febrile. crackles. spo2 < 94%. bilateral basal crepitations.	1	0	1	93.3	8.6	normal	pulmonary edema	0.32
+PUL-6618	2021-11-20	2	Raised body temp. crackles. low oxygen saturation. bilateral basal crepitations.	1	0	1	93.3	8.6	infiltrate	pulmonary edema	0.36
+PUL-6618	2021-11-21	3	Raised body temp. rales. low oxygen saturation. bilateral basal crepitations.	1	0	1	92.47278710094720	8.87118206829856	effusion	pulmonary edema	0.48
+PUL-6618	2021-11-22	4	Febrile. crackles. spo2 < 94%. bilateral basal crepitations.	1	0	1	92.0764379856491	8.96064425627992	consolidation	pulmonary edema	0.33
+PUL-9478	2022-09-27	0	Pyrexia. tachycardia. bilateral basal crepitations.	1	1	0	96.1	7.0	infiltrate	pulmonary edema	0.58
+PUL-9478	2022-09-28	1	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	96.1	7.0	consolidation	pulmonary edema	0.47
+PUL-9478	2022-09-29	2	Fever. tachycardia. bilateral basal crepitations.	1	1	0	96.1	7.0	infiltrate	pulmonary edema	0.42
+PUL-9478	2022-09-30	3	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	95.19732100654160	7.355180207572860	opacity	pulmonary edema	0.32
+PUL-9478	2022-10-01	4	Rapid heart rate. bilateral basal crepitations.	0	1	0	94.94643097269390	7.299109304041740	effusion	pulmonary edema	0.85
+PUL-9812	2021-07-16	0	Tachycardia. rales. leukocytosis. bilateral basal crepitations.	0	1	1	94.8	10.2	infiltrate	pulmonary edema	0.45
+PUL-9812	2021-07-17	1	Tachycardia. rales. elevated wbc. bilateral basal crepitations.	0	1	1	94.8	10.2	opacity	pulmonary edema	0.41
+PUL-9812	2021-07-18	2	Tachycardia. rales. leukocytosis. bilateral basal crepitations.	0	1	1	94.8	10.2	consolidation	pulmonary edema	0.38
+PUL-9812	2021-07-19	3	Raised body temp. tachycardia. crackles. hypoxemia. leukocytosis. bilateral basal crepitations.	1	1	1	93.5706105889439	10.586560160841100	infiltrate	pulmonary edema	0.67
+PUL-9812	2021-07-20	4	Fever. rapid heart rate. crackles. leukocytosis. bilateral basal crepitations.	1	1	1	94.12906831426410	10.55143600687260	infiltrate	pulmonary edema	0.43
+PUL-3222	2021-04-29	0	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	95.4	8.5	normal	pulmonary edema	0.6
+PUL-3222	2021-04-30	1	Tachycardia. rales. bilateral basal crepitations.	0	1	1	95.4	8.5	effusion	pulmonary edema	0.54
+PUL-3222	2021-05-01	2	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	95.4	8.5	consolidation	pulmonary edema	0.32
+PUL-3222	2021-05-02	3	Rapid heart rate. rales. bilateral basal crepitations.	0	1	1	94.63553457780940	8.670725901195720	infiltrate	pulmonary edema	0.63
+PUL-3222	2021-05-03	4	T > 38°c. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	94.16529333457450	8.908676930086780	normal	pulmonary edema	0.36
+PUL-5116	2020-01-24	0	Rapid heart rate. low oxygen saturation. bilateral basal crepitations.	0	1	0	93.7	8.0	normal	pulmonary edema	0.36
+PUL-5116	2020-01-25	1	Tachycardia. hypoxemia. bilateral basal crepitations.	0	1	0	93.7	8.0	infiltrate	pulmonary edema	0.62
+PUL-5116	2020-01-26	2	Rapid heart rate. low oxygen saturation. bilateral basal crepitations.	0	1	0	93.7	8.0	infiltrate	pulmonary edema	0.66
+PUL-5116	2020-01-27	3	Fever. tachycardia. spo2 < 94%. bilateral basal crepitations.	1	1	0	93.1910195966578	8.219729045926000	normal	pulmonary edema	0.48
+PUL-5116	2020-01-28	4	T > 38°c. rapid heart rate. spo2 < 94%. bilateral basal crepitations.	1	1	0	92.23985260169200	8.251906792209510	normal	pulmonary edema	0.83
+PUL-1828	2022-12-13	0	Febrile. rapid heart rate. crackles. low oxygen saturation. bilateral basal crepitations.	1	1	1	92.3	6.4	normal	pulmonary edema	0.73
+PUL-1828	2022-12-14	1	Pyrexia. tachycardia. rales. hypoxemia. bilateral basal crepitations.	1	1	1	92.3	6.4	opacity	pulmonary edema	0.8
+PUL-1828	2022-12-15	2	Fever. tachycardia. rales. hypoxemia. bilateral basal crepitations.	1	1	1	92.3	6.4	normal	pulmonary edema	0.45
+PUL-1828	2022-12-16	3	Raised body temp. rapid heart rate. crackles. low oxygen saturation. bilateral basal crepitations.	1	1	1	91.24153156506990	6.897226181320400	opacity	pulmonary edema	0.66
+PUL-1828	2022-12-17	4	Febrile. tachycardia. rales. spo2 < 94%. bilateral basal crepitations.	1	1	1	91.643042020931	6.7830365624944500	consolidation	pulmonary edema	0.77
+PUL-5897	2020-07-03	0	Rapid heart rate. low oxygen saturation. bilateral basal crepitations.	0	1	0	92.2	7.1	consolidation	pulmonary edema	0.5
+PUL-5897	2020-07-04	1	Tachycardia. spo2 < 94%. bilateral basal crepitations.	0	1	0	92.2	7.1	effusion	pulmonary edema	0.52
+PUL-5897	2020-07-05	2	Tachycardia. low oxygen saturation. bilateral basal crepitations.	0	1	0	92.2	7.1	opacity	pulmonary edema	0.55
+PUL-5897	2020-07-06	3	Pyrexia. tachycardia. hypoxemia. bilateral basal crepitations.	1	1	0	91.12864397236330	7.400647548503850	normal	pulmonary edema	0.33
+PUL-5897	2020-07-07	4	T > 38°c. rapid heart rate. low oxygen saturation. bilateral basal crepitations.	1	1	0	90.73322446612800	7.404237894340390	normal	pulmonary edema	0.61
+PUL-7243	2021-09-04	0	T > 38°c. tachycardia. bilateral basal crepitations.	1	1	0	97.0	7.7	consolidation	pulmonary edema	0.77
+PUL-7243	2021-09-05	1	Febrile. tachycardia. bilateral basal crepitations.	1	1	0	97.0	7.7	normal	pulmonary edema	0.75
+PUL-7243	2021-09-06	2	T > 38°c. tachycardia. bilateral basal crepitations.	1	1	0	97.0	7.7	opacity	pulmonary edema	0.72
+PUL-7243	2021-09-07	3	Tachycardia. bilateral basal crepitations.	0	1	0	95.99521215560860	8.073542845657630	normal	pulmonary edema	0.81
+PUL-7243	2021-09-08	4	Fever. rapid heart rate. bilateral basal crepitations.	1	1	0	95.8036676818336	8.081975093391400	consolidation	pulmonary edema	0.32
+PUL-4143	2021-11-22	0	T > 38°c. rales. low oxygen saturation. bilateral basal crepitations.	1	0	1	93.3	7.0	consolidation	pulmonary edema	0.55
+PUL-4143	2021-11-23	1	Raised body temp. rales. spo2 < 94%. bilateral basal crepitations.	1	0	1	93.3	7.0	infiltrate	pulmonary edema	0.37
+PUL-4143	2021-11-24	2	T > 38°c. rales. spo2 < 94%. bilateral basal crepitations.	1	0	1	93.3	7.0	effusion	pulmonary edema	0.53
+PUL-4143	2021-11-25	3	Pyrexia. crackles. spo2 < 94%. bilateral basal crepitations.	1	0	1	92.48425378451190	7.453911839333930	normal	pulmonary edema	0.81
+PUL-4143	2021-11-26	4	Rales. spo2 < 94%. bilateral basal crepitations.	0	0	1	92.26987885192750	7.143280664224220	infiltrate	pulmonary edema	0.75
+PUL-2635	2022-12-16	0	Fever. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	98.0	9.7	consolidation	pulmonary edema	0.6
+PUL-2635	2022-12-17	1	T > 38°c. tachycardia. crackles. bilateral basal crepitations.	1	1	1	98.0	9.7	infiltrate	pulmonary edema	0.43
+PUL-2635	2022-12-18	2	Raised body temp. tachycardia. rales. bilateral basal crepitations.	1	1	1	98.0	9.7	consolidation	pulmonary edema	0.69
+PUL-2635	2022-12-19	3	Febrile. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	96.57326198744470	9.955830018226830	infiltrate	pulmonary edema	0.31
+PUL-2635	2022-12-20	4	Fever. rapid heart rate. rales. elevated wbc. bilateral basal crepitations.	1	1	1	97.23976890222640	10.062496118941100	infiltrate	pulmonary edema	0.55
+PUL-2955	2020-10-03	0	T > 38°c. bilateral basal crepitations.	1	0	0	94.7	9.1	infiltrate	pulmonary edema	0.81
+PUL-2955	2020-10-04	1	T > 38°c. bilateral basal crepitations.	1	0	0	94.7	9.1	effusion	pulmonary edema	0.84
+PUL-2955	2020-10-05	2	Febrile. bilateral basal crepitations.	1	0	0	94.7	9.1	consolidation	pulmonary edema	0.55
+PUL-2955	2020-10-06	3	Pyrexia. hypoxemia. bilateral basal crepitations.	1	0	0	93.91604388200310	9.324839181416790	normal	pulmonary edema	0.44
+PUL-2955	2020-10-07	4	Fever. bilateral basal crepitations.	1	0	0	94.18102747308990	9.318982287142200	opacity	pulmonary edema	0.4
+PUL-5266	2022-11-22	0	Raised body temp. bilateral basal crepitations.	1	0	0	97.7	7.2	opacity	pulmonary edema	0.66
+PUL-5266	2022-11-23	1	Pyrexia. bilateral basal crepitations.	1	0	0	97.7	7.2	opacity	pulmonary edema	0.8
+PUL-5266	2022-11-24	2	T > 38°c. bilateral basal crepitations.	1	0	0	97.7	7.2	effusion	pulmonary edema	0.65
+PUL-5266	2022-11-25	3	Fever. bilateral basal crepitations.	1	0	0	96.68126031937270	7.521433326866900	opacity	pulmonary edema	0.43
+PUL-5266	2022-11-26	4	Bilateral basal crepitations.	0	0	0	96.41207028087490	7.456155845326000	normal	pulmonary edema	0.41
+PUL-9167	2020-07-02	0	Tachycardia. bilateral basal crepitations.	0	1	0	95.0	8.8	normal	pulmonary edema	0.34
+PUL-9167	2020-07-03	1	Tachycardia. bilateral basal crepitations.	0	1	0	95.0	8.8	consolidation	pulmonary edema	0.31
+PUL-9167	2020-07-04	2	Tachycardia. bilateral basal crepitations.	0	1	0	95.0	8.8	normal	pulmonary edema	0.35
+PUL-9167	2020-07-05	3	Rapid heart rate. low oxygen saturation. bilateral basal crepitations.	0	1	0	93.5767552648683	9.029374927525970	effusion	pulmonary edema	0.81
+PUL-9167	2020-07-06	4	Febrile. rapid heart rate. spo2 < 94%. bilateral basal crepitations.	1	1	0	93.7192592887177	8.992532252681440	consolidation	pulmonary edema	0.32
+PUL-6816	2020-01-07	0	Pyrexia. leukocytosis. bilateral basal crepitations.	1	0	0	95.0	10.1	effusion	pulmonary edema	0.51
+PUL-6816	2020-01-08	1	Fever. elevated wbc. bilateral basal crepitations.	1	0	0	95.0	10.1	consolidation	pulmonary edema	0.35
+PUL-6816	2020-01-09	2	Fever. elevated wbc. bilateral basal crepitations.	1	0	0	95.0	10.1	opacity	pulmonary edema	0.52
+PUL-6816	2020-01-10	3	Pyrexia. leukocytosis. bilateral basal crepitations.	1	0	0	94.0736066380622	10.559775381969400	normal	pulmonary edema	0.61
+PUL-6816	2020-01-11	4	Pyrexia. hypoxemia. elevated wbc. bilateral basal crepitations.	1	0	0	93.9014730656288	10.233146930314200	effusion	pulmonary edema	0.32
+PUL-4631	2020-01-12	0	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	94.8	9.7	consolidation	pulmonary edema	0.5
+PUL-4631	2020-01-13	1	Raised body temp. tachycardia. bilateral basal crepitations.	1	1	0	94.8	9.7	consolidation	pulmonary edema	0.59
+PUL-4631	2020-01-14	2	Febrile. tachycardia. bilateral basal crepitations.	1	1	0	94.8	9.7	consolidation	pulmonary edema	0.32
+PUL-4631	2020-01-15	3	Fever. rapid heart rate. low oxygen saturation. elevated wbc. bilateral basal crepitations.	1	1	0	93.85167861752790	10.148192883927200	opacity	pulmonary edema	0.61
+PUL-4631	2020-01-16	4	Pyrexia. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	93.61530182946730	9.924151757006860	consolidation	pulmonary edema	0.62
+PUL-9827	2020-01-31	0	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	94.3	6.3	effusion	pulmonary edema	0.31
+PUL-9827	2020-02-01	1	Raised body temp. tachycardia. bilateral basal crepitations.	1	1	0	94.3	6.3	infiltrate	pulmonary edema	0.76
+PUL-9827	2020-02-02	2	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	94.3	6.3	opacity	pulmonary edema	0.35
+PUL-9827	2020-02-03	3	Raised body temp. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	93.7669330977953	6.730125779174200	infiltrate	pulmonary edema	0.74
+PUL-9827	2020-02-04	4	Pyrexia. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	93.5330336875309	6.680297904222770	effusion	pulmonary edema	0.56
+PUL-6476	2020-12-15	0	T > 38°c. tachycardia. crackles. bilateral basal crepitations.	1	1	1	97.2	7.8	infiltrate	pulmonary edema	0.84
+PUL-6476	2020-12-16	1	T > 38°c. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	97.2	7.8	normal	pulmonary edema	0.41
+PUL-6476	2020-12-17	2	Febrile. tachycardia. crackles. bilateral basal crepitations.	1	1	1	97.2	7.8	consolidation	pulmonary edema	0.83
+PUL-6476	2020-12-18	3	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	96.61149952963630	8.029499370760950	opacity	pulmonary edema	0.62
+PUL-6476	2020-12-19	4	Pyrexia. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	96.22693005657750	8.2787855676794	effusion	pulmonary edema	0.45
+PUL-8841	2021-09-04	0	Pyrexia. tachycardia. rales. hypoxemia. bilateral basal crepitations.	1	1	1	92.2	9.4	normal	pulmonary edema	0.53
+PUL-8841	2021-09-05	1	Raised body temp. rapid heart rate. rales. hypoxemia. bilateral basal crepitations.	1	1	1	92.2	9.4	opacity	pulmonary edema	0.74
+PUL-8841	2021-09-06	2	Fever. rapid heart rate. rales. low oxygen saturation. bilateral basal crepitations.	1	1	1	92.2	9.4	normal	pulmonary edema	0.46
+PUL-8841	2021-09-07	3	Fever. rapid heart rate. crackles. low oxygen saturation. bilateral basal crepitations.	1	1	1	91.48115007385620	9.629984986671550	consolidation	pulmonary edema	0.84
+PUL-8841	2021-09-08	4	Raised body temp. rapid heart rate. rales. hypoxemia. bilateral basal crepitations.	1	1	1	90.84138759383320	9.738366122496490	consolidation	pulmonary edema	0.55
+PUL-2550	2020-09-17	0	Pyrexia. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	94.4	7.2	effusion	pulmonary edema	0.54
+PUL-2550	2020-09-18	1	T > 38°c. tachycardia. crackles. bilateral basal crepitations.	1	1	1	94.4	7.2	effusion	pulmonary edema	0.83
+PUL-2550	2020-09-19	2	Raised body temp. tachycardia. rales. bilateral basal crepitations.	1	1	1	94.4	7.2	infiltrate	pulmonary edema	0.58
+PUL-2550	2020-09-20	3	Pyrexia. tachycardia. crackles. hypoxemia. bilateral basal crepitations.	1	1	1	93.23450131271990	7.478735800196760	opacity	pulmonary edema	0.81
+PUL-2550	2020-09-21	4	Pyrexia. rapid heart rate. rales. hypoxemia. bilateral basal crepitations.	1	1	1	93.07452515515160	7.482427891182070	consolidation	pulmonary edema	0.64
+PUL-2921	2022-11-12	0	Fever. bilateral basal crepitations.	1	0	0	94.4	9.5	effusion	pulmonary edema	0.73
+PUL-2921	2022-11-13	1	Fever. bilateral basal crepitations.	1	0	0	94.4	9.5	effusion	pulmonary edema	0.78
+PUL-2921	2022-11-14	2	Febrile. bilateral basal crepitations.	1	0	0	94.4	9.5	infiltrate	pulmonary edema	0.66
+PUL-2921	2022-11-15	3	Pyrexia. hypoxemia. bilateral basal crepitations.	1	0	0	93.3738442249724	9.712671721238750	normal	pulmonary edema	0.4
+PUL-2921	2022-11-16	4	Raised body temp. spo2 < 94%. bilateral basal crepitations.	1	0	0	93.64275741194440	9.707562618822100	opacity	pulmonary edema	0.51
+PUL-1848	2020-01-23	0	Tachycardia. rales. leukocytosis. bilateral basal crepitations.	0	1	1	97.2	10.3	infiltrate	pulmonary edema	0.52
+PUL-1848	2020-01-24	1	Rapid heart rate. rales. leukocytosis. bilateral basal crepitations.	0	1	1	97.2	10.3	normal	pulmonary edema	0.83
+PUL-1848	2020-01-25	2	Rapid heart rate. crackles. leukocytosis. bilateral basal crepitations.	0	1	1	97.2	10.3	opacity	pulmonary edema	0.7
+PUL-1848	2020-01-26	3	Fever. rapid heart rate. crackles. leukocytosis. bilateral basal crepitations.	1	1	1	95.80350189388040	10.616196377970000	consolidation	pulmonary edema	0.77
+PUL-1848	2020-01-27	4	Fever. rapid heart rate. crackles. elevated wbc. bilateral basal crepitations.	1	1	1	95.73129610465210	10.757590486899500	normal	pulmonary edema	0.79
+PUL-7285	2020-04-29	0	Pyrexia. tachycardia. bilateral basal crepitations.	1	1	0	97.8	6.9	opacity	pulmonary edema	0.61
+PUL-7285	2020-04-30	1	Raised body temp. tachycardia. bilateral basal crepitations.	1	1	0	97.8	6.9	normal	pulmonary edema	0.76
+PUL-7285	2020-05-01	2	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	97.8	6.9	consolidation	pulmonary edema	0.58
+PUL-7285	2020-05-02	3	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	96.8777388301708	7.269317736858880	consolidation	pulmonary edema	0.43
+PUL-7285	2020-05-03	4	Raised body temp. tachycardia. bilateral basal crepitations.	1	1	0	96.9336777199406	7.22570388676206	infiltrate	pulmonary edema	0.74
+PUL-6871	2022-03-29	0	Crackles. low oxygen saturation. bilateral basal crepitations.	0	0	1	92.2	7.1	infiltrate	pulmonary edema	0.54
+PUL-6871	2022-03-30	1	Crackles. spo2 < 94%. bilateral basal crepitations.	0	0	1	92.2	7.1	opacity	pulmonary edema	0.73
+PUL-6871	2022-03-31	2	Rales. low oxygen saturation. bilateral basal crepitations.	0	0	1	92.2	7.1	effusion	pulmonary edema	0.56
+PUL-6871	2022-04-01	3	Fever. rales. spo2 < 94%. bilateral basal crepitations.	1	0	1	91.27405580534130	7.2433800239525500	effusion	pulmonary edema	0.79
+PUL-6871	2022-04-02	4	Febrile. crackles. low oxygen saturation. bilateral basal crepitations.	1	0	1	91.12963958682910	7.584505769729530	consolidation	pulmonary edema	0.42
+PUL-1675	2021-06-14	0	T > 38°c. rales. bilateral basal crepitations.	1	0	1	94.9	9.5	normal	pulmonary edema	0.41
+PUL-1675	2021-06-15	1	Febrile. crackles. bilateral basal crepitations.	1	0	1	94.9	9.5	consolidation	pulmonary edema	0.5
+PUL-1675	2021-06-16	2	Febrile. crackles. bilateral basal crepitations.	1	0	1	94.9	9.5	normal	pulmonary edema	0.36
+PUL-1675	2021-06-17	3	Febrile. crackles. bilateral basal crepitations.	1	0	1	94.39361392102600	9.905460625201270	infiltrate	pulmonary edema	0.34
+PUL-1675	2021-06-18	4	Fever. crackles. hypoxemia. bilateral basal crepitations.	1	0	1	93.97025967391390	9.9819235534361	opacity	pulmonary edema	0.76
+PUL-1891	2021-05-17	0	T > 38°c. spo2 < 94%. bilateral basal crepitations.	1	0	0	93.8	10.0	infiltrate	pulmonary edema	0.43
+PUL-1891	2021-05-18	1	Febrile. hypoxemia. bilateral basal crepitations.	1	0	0	93.8	10.0	infiltrate	pulmonary edema	0.73
+PUL-1891	2021-05-19	2	T > 38°c. spo2 < 94%. bilateral basal crepitations.	1	0	0	93.8	10.0	opacity	pulmonary edema	0.69
+PUL-1891	2021-05-20	3	Raised body temp. low oxygen saturation. leukocytosis. bilateral basal crepitations.	1	0	0	92.37346352755680	10.471031272387700	normal	pulmonary edema	0.65
+PUL-1891	2021-05-21	4	Raised body temp. hypoxemia. elevated wbc. bilateral basal crepitations.	1	0	0	92.44375325699370	10.184934329908700	infiltrate	pulmonary edema	0.39
+PUL-8359	2020-12-16	0	Tachycardia. rales. bilateral basal crepitations.	0	1	1	94.0	10.0	effusion	pulmonary edema	0.58
+PUL-8359	2020-12-17	1	Rapid heart rate. rales. bilateral basal crepitations.	0	1	1	94.0	10.0	effusion	pulmonary edema	0.47
+PUL-8359	2020-12-18	2	Rapid heart rate. crackles. bilateral basal crepitations.	0	1	1	94.0	10.0	consolidation	pulmonary edema	0.35
+PUL-8359	2020-12-19	3	Raised body temp. rapid heart rate. crackles. low oxygen saturation. elevated wbc. bilateral basal crepitations.	1	1	1	93.39426094983360	10.208984379959900	opacity	pulmonary edema	0.83
+PUL-8359	2020-12-20	4	Raised body temp. rapid heart rate. crackles. spo2 < 94%. leukocytosis. bilateral basal crepitations.	1	1	1	93.23097602242860	10.26364062069420	normal	pulmonary edema	0.55
+PUL-7557	2021-03-06	0	Febrile. crackles. bilateral basal crepitations.	1	0	1	97.9	9.0	normal	pulmonary edema	0.74
+PUL-7557	2021-03-07	1	Raised body temp. crackles. bilateral basal crepitations.	1	0	1	97.9	9.0	normal	pulmonary edema	0.53
+PUL-7557	2021-03-08	2	Pyrexia. rales. bilateral basal crepitations.	1	0	1	97.9	9.0	effusion	pulmonary edema	0.81
+PUL-7557	2021-03-09	3	Crackles. bilateral basal crepitations.	0	0	1	96.5565900469902	9.243922960998610	consolidation	pulmonary edema	0.82
+PUL-7557	2021-03-10	4	Raised body temp. rales. bilateral basal crepitations.	1	0	1	97.30072424703610	9.489143169535010	normal	pulmonary edema	0.39
+PUL-5869	2022-08-15	0	Febrile. bilateral basal crepitations.	1	0	0	95.7	6.2	effusion	pulmonary edema	0.59
+PUL-5869	2022-08-16	1	Pyrexia. bilateral basal crepitations.	1	0	0	95.7	6.2	consolidation	pulmonary edema	0.73
+PUL-5869	2022-08-17	2	Pyrexia. bilateral basal crepitations.	1	0	0	95.7	6.2	consolidation	pulmonary edema	0.6
+PUL-5869	2022-08-18	3	Pyrexia. bilateral basal crepitations.	1	0	0	94.33145412185070	6.6133351037197400	infiltrate	pulmonary edema	0.36
+PUL-5869	2022-08-19	4	Bilateral basal crepitations.	0	0	0	95.1210080061963	6.512425076460580	opacity	pulmonary edema	0.8
+PUL-4267	2020-05-07	0	Fever. rapid heart rate. rales. elevated wbc. bilateral basal crepitations.	1	1	1	95.2	10.2	normal	pulmonary edema	0.61
+PUL-4267	2020-05-08	1	Fever. tachycardia. crackles. leukocytosis. bilateral basal crepitations.	1	1	1	95.2	10.2	opacity	pulmonary edema	0.81
+PUL-4267	2020-05-09	2	Fever. tachycardia. crackles. leukocytosis. bilateral basal crepitations.	1	1	1	95.2	10.2	opacity	pulmonary edema	0.65
+PUL-4267	2020-05-10	3	Rapid heart rate. rales. spo2 < 94%. leukocytosis. bilateral basal crepitations.	0	1	1	93.77321479597060	10.530652164762600	normal	pulmonary edema	0.3
+PUL-4267	2020-05-11	4	Tachycardia. rales. spo2 < 94%. elevated wbc. bilateral basal crepitations.	0	1	1	93.80882686653370	10.610942965175700	infiltrate	pulmonary edema	0.53
+PUL-8994	2021-07-04	0	Raised body temp. low oxygen saturation. bilateral basal crepitations.	1	0	0	93.9	8.1	opacity	pulmonary edema	0.79
+PUL-8994	2021-07-05	1	T > 38°c. hypoxemia. bilateral basal crepitations.	1	0	0	93.9	8.1	effusion	pulmonary edema	0.8
+PUL-8994	2021-07-06	2	Fever. spo2 < 94%. bilateral basal crepitations.	1	0	0	93.9	8.1	normal	pulmonary edema	0.63
+PUL-8994	2021-07-07	3	Fever. low oxygen saturation. bilateral basal crepitations.	1	0	0	92.60031546806380	8.275744874559350	opacity	pulmonary edema	0.45
+PUL-8994	2021-07-08	4	Fever. spo2 < 94%. bilateral basal crepitations.	1	0	0	92.76188555482650	8.211484041152930	infiltrate	pulmonary edema	0.84
+PUL-1870	2021-08-09	0	Febrile. tachycardia. bilateral basal crepitations.	1	1	0	95.4	9.7	opacity	pulmonary edema	0.51
+PUL-1870	2021-08-10	1	T > 38°c. rapid heart rate. bilateral basal crepitations.	1	1	0	95.4	9.7	consolidation	pulmonary edema	0.47
+PUL-1870	2021-08-11	2	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	95.4	9.7	infiltrate	pulmonary edema	0.85
+PUL-1870	2021-08-12	3	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	94.5432751778173	9.845658256690150	opacity	pulmonary edema	0.66
+PUL-1870	2021-08-13	4	Tachycardia. hypoxemia. elevated wbc. bilateral basal crepitations.	0	1	0	93.97416243244100	10.138799736524200	effusion	pulmonary edema	0.44
+PUL-4827	2020-03-27	0	T > 38°c. crackles. bilateral basal crepitations.	1	0	1	96.3	8.3	consolidation	pulmonary edema	0.69
+PUL-4827	2020-03-28	1	Raised body temp. crackles. bilateral basal crepitations.	1	0	1	96.3	8.3	normal	pulmonary edema	0.73
+PUL-4827	2020-03-29	2	Pyrexia. crackles. bilateral basal crepitations.	1	0	1	96.3	8.3	infiltrate	pulmonary edema	0.31
+PUL-4827	2020-03-30	3	Raised body temp. crackles. bilateral basal crepitations.	1	0	1	95.42989665870550	8.50750031933841	normal	pulmonary edema	0.41
+PUL-4827	2020-03-31	4	Fever. rales. bilateral basal crepitations.	1	0	1	94.86966326454490	8.663863610317670	infiltrate	pulmonary edema	0.42
+PUL-4017	2020-11-25	0	Fever. rales. leukocytosis. bilateral basal crepitations.	1	0	1	95.8	10.1	infiltrate	pulmonary edema	0.57
+PUL-4017	2020-11-26	1	Raised body temp. crackles. leukocytosis. bilateral basal crepitations.	1	0	1	95.8	10.1	effusion	pulmonary edema	0.55
+PUL-4017	2020-11-27	2	Febrile. rales. leukocytosis. bilateral basal crepitations.	1	0	1	95.8	10.1	opacity	pulmonary edema	0.45
+PUL-4017	2020-11-28	3	Raised body temp. crackles. leukocytosis. bilateral basal crepitations.	1	0	1	95.04362550726220	10.382239604252600	infiltrate	pulmonary edema	0.77
+PUL-4017	2020-11-29	4	Crackles. leukocytosis. bilateral basal crepitations.	0	0	1	94.38190991580680	10.351593042367100	effusion	pulmonary edema	0.46
+PUL-4200	2022-08-20	0	Pyrexia. tachycardia. rales. bilateral basal crepitations.	1	1	1	97.8	6.0	normal	pulmonary edema	0.64
+PUL-4200	2022-08-21	1	Fever. tachycardia. crackles. bilateral basal crepitations.	1	1	1	97.8	6.0	infiltrate	pulmonary edema	0.36
+PUL-4200	2022-08-22	2	T > 38°c. tachycardia. crackles. bilateral basal crepitations.	1	1	1	97.8	6.0	consolidation	pulmonary edema	0.83
+PUL-4200	2022-08-23	3	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	96.72276064040380	6.1242390083042100	opacity	pulmonary edema	0.78
+PUL-4200	2022-08-24	4	Pyrexia. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	97.11568659691070	6.215087174867620	opacity	pulmonary edema	0.5
+PUL-8220	2021-11-03	0	Raised body temp. crackles. low oxygen saturation. bilateral basal crepitations.	1	0	1	92.4	9.5	normal	pulmonary edema	0.37
+PUL-8220	2021-11-04	1	Pyrexia. rales. spo2 < 94%. bilateral basal crepitations.	1	0	1	92.4	9.5	infiltrate	pulmonary edema	0.45
+PUL-8220	2021-11-05	2	Febrile. crackles. hypoxemia. bilateral basal crepitations.	1	0	1	92.4	9.5	infiltrate	pulmonary edema	0.49
+PUL-8220	2021-11-06	3	T > 38°c. crackles. hypoxemia. bilateral basal crepitations.	1	0	1	91.82410848818400	9.869204461087550	consolidation	pulmonary edema	0.6
+PUL-8220	2021-11-07	4	Febrile. rales. spo2 < 94%. bilateral basal crepitations.	1	0	1	90.92991710899970	9.795709077776580	infiltrate	pulmonary edema	0.69
+PUL-6684	2022-10-27	0	Tachycardia. spo2 < 94%. leukocytosis. bilateral basal crepitations.	0	1	0	92.3	10.3	consolidation	pulmonary edema	0.43
+PUL-6684	2022-10-28	1	Tachycardia. low oxygen saturation. elevated wbc. bilateral basal crepitations.	0	1	0	92.3	10.3	opacity	pulmonary edema	0.53
+PUL-6684	2022-10-29	2	Tachycardia. spo2 < 94%. elevated wbc. bilateral basal crepitations.	0	1	0	92.3	10.3	infiltrate	pulmonary edema	0.58
+PUL-6684	2022-10-30	3	Rapid heart rate. spo2 < 94%. leukocytosis. bilateral basal crepitations.	0	1	0	91.49901079017480	10.405265414559100	effusion	pulmonary edema	0.81
+PUL-6684	2022-10-31	4	Pyrexia. rapid heart rate. hypoxemia. leukocytosis. bilateral basal crepitations.	1	1	0	91.57609760592430	10.575010919336600	infiltrate	pulmonary edema	0.82
+PUL-6403	2022-09-14	0	T > 38°c. tachycardia. hypoxemia. bilateral basal crepitations.	1	1	0	92.6	7.5	effusion	pulmonary edema	0.7
+PUL-6403	2022-09-15	1	Raised body temp. tachycardia. hypoxemia. bilateral basal crepitations.	1	1	0	92.6	7.5	effusion	pulmonary edema	0.32
+PUL-6403	2022-09-16	2	Febrile. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	92.6	7.5	normal	pulmonary edema	0.78
+PUL-6403	2022-09-17	3	Raised body temp. tachycardia. hypoxemia. bilateral basal crepitations.	1	1	0	91.92953186466610	7.6650009268359200	opacity	pulmonary edema	0.82
+PUL-6403	2022-09-18	4	Febrile. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	91.37337637109240	7.6995109417788900	opacity	pulmonary edema	0.31
+PUL-1675	2022-12-30	0	Pyrexia. rales. low oxygen saturation. bilateral basal crepitations.	1	0	1	92.0	9.8	normal	pulmonary edema	0.71
+PUL-1675	2022-12-31	1	Raised body temp. rales. hypoxemia. bilateral basal crepitations.	1	0	1	92.0	9.8	normal	pulmonary edema	0.74
+PUL-1675	2023-01-01	2	Pyrexia. rales. spo2 < 94%. bilateral basal crepitations.	1	0	1	92.0	9.8	consolidation	pulmonary edema	0.48
+PUL-1675	2023-01-02	3	T > 38°c. crackles. low oxygen saturation. leukocytosis. bilateral basal crepitations.	1	0	1	91.22243845937960	10.040426904526800	consolidation	pulmonary edema	0.84
+PUL-1675	2023-01-03	4	Crackles. spo2 < 94%. elevated wbc. bilateral basal crepitations.	0	0	1	90.76085713683120	10.267464695090500	opacity	pulmonary edema	0.45
+PUL-8457	2022-07-06	0	Bilateral basal crepitations.	0	0	0	95.3	8.8	infiltrate	pulmonary edema	0.6
+PUL-8457	2022-07-07	1	Bilateral basal crepitations.	0	0	0	95.3	8.8	infiltrate	pulmonary edema	0.39
+PUL-8457	2022-07-08	2	Bilateral basal crepitations.	0	0	0	95.3	8.8	normal	pulmonary edema	0.6
+PUL-8457	2022-07-09	3	Febrile. bilateral basal crepitations.	1	0	0	94.0895875407504	9.120999126010880	normal	pulmonary edema	0.82
+PUL-8457	2022-07-10	4	Febrile. bilateral basal crepitations.	1	0	0	94.22414720587380	9.151577403534960	consolidation	pulmonary edema	0.39
+PUL-8627	2021-01-22	0	Raised body temp. rapid heart rate. bilateral basal crepitations.	1	1	0	97.3	7.3	effusion	pulmonary edema	0.38
+PUL-8627	2021-01-23	1	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	97.3	7.3	opacity	pulmonary edema	0.49
+PUL-8627	2021-01-24	2	Raised body temp. rapid heart rate. bilateral basal crepitations.	1	1	0	97.3	7.3	normal	pulmonary edema	0.76
+PUL-8627	2021-01-25	3	Fever. tachycardia. bilateral basal crepitations.	1	1	0	96.27877226297850	7.404482750457900	normal	pulmonary edema	0.67
+PUL-8627	2021-01-26	4	Febrile. rapid heart rate. bilateral basal crepitations.	1	1	0	96.70291484916380	7.638156374244790	effusion	pulmonary edema	0.56
+PUL-9567	2021-05-04	0	Rales. bilateral basal crepitations.	0	0	1	96.6	6.8	normal	pulmonary edema	0.51
+PUL-9567	2021-05-05	1	Rales. bilateral basal crepitations.	0	0	1	96.6	6.8	infiltrate	pulmonary edema	0.5
+PUL-9567	2021-05-06	2	Crackles. bilateral basal crepitations.	0	0	1	96.6	6.8	infiltrate	pulmonary edema	0.37
+PUL-9567	2021-05-07	3	Rales. bilateral basal crepitations.	0	0	1	95.98056488831170	7.136743111893120	normal	pulmonary edema	0.61
+PUL-9567	2021-05-08	4	Pyrexia. rales. bilateral basal crepitations.	1	0	1	95.60755831342940	7.029629925254510	effusion	pulmonary edema	0.37
+PUL-3109	2021-07-01	0	Crackles. hypoxemia. bilateral basal crepitations.	0	0	1	93.2	7.0	opacity	pulmonary edema	0.43
+PUL-3109	2021-07-02	1	Rales. spo2 < 94%. bilateral basal crepitations.	0	0	1	93.2	7.0	effusion	pulmonary edema	0.59
+PUL-3109	2021-07-03	2	Rales. low oxygen saturation. bilateral basal crepitations.	0	0	1	93.2	7.0	normal	pulmonary edema	0.68
+PUL-3109	2021-07-04	3	Febrile. rales. spo2 < 94%. bilateral basal crepitations.	1	0	1	92.50098809965660	7.419222587614880	infiltrate	pulmonary edema	0.79
+PUL-3109	2021-07-05	4	Fever. crackles. hypoxemia. bilateral basal crepitations.	1	0	1	91.77992110973800	7.482765703742930	effusion	pulmonary edema	0.66
+PUL-4053	2021-01-14	0	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	95.2	7.0	consolidation	pulmonary edema	0.41
+PUL-4053	2021-01-15	1	Tachycardia. rales. bilateral basal crepitations.	0	1	1	95.2	7.0	opacity	pulmonary edema	0.65
+PUL-4053	2021-01-16	2	Rapid heart rate. crackles. bilateral basal crepitations.	0	1	1	95.2	7.0	opacity	pulmonary edema	0.46
+PUL-4053	2021-01-17	3	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	94.253088403163	7.491873062484300	infiltrate	pulmonary edema	0.45
+PUL-4053	2021-01-18	4	Rapid heart rate. rales. hypoxemia. bilateral basal crepitations.	0	1	1	93.79283615267650	7.429237243230270	opacity	pulmonary edema	0.58
+PUL-9143	2022-10-24	0	Pyrexia. crackles. spo2 < 94%. bilateral basal crepitations.	1	0	1	92.4	6.5	effusion	pulmonary edema	0.52
+PUL-9143	2022-10-25	1	T > 38°c. crackles. hypoxemia. bilateral basal crepitations.	1	0	1	92.4	6.5	effusion	pulmonary edema	0.37
+PUL-9143	2022-10-26	2	Raised body temp. rales. hypoxemia. bilateral basal crepitations.	1	0	1	92.4	6.5	effusion	pulmonary edema	0.69
+PUL-9143	2022-10-27	3	Crackles. low oxygen saturation. bilateral basal crepitations.	0	0	1	91.17628169956080	6.8601809829460100	opacity	pulmonary edema	0.58
+PUL-9143	2022-10-28	4	Pyrexia. rales. spo2 < 94%. bilateral basal crepitations.	1	0	1	90.97535902241370	6.92828757941736	consolidation	pulmonary edema	0.82
+PUL-1894	2020-10-21	0	Tachycardia. bilateral basal crepitations.	0	1	0	97.7	9.1	infiltrate	pulmonary edema	0.6
+PUL-1894	2020-10-22	1	Tachycardia. bilateral basal crepitations.	0	1	0	97.7	9.1	infiltrate	pulmonary edema	0.75
+PUL-1894	2020-10-23	2	Rapid heart rate. bilateral basal crepitations.	0	1	0	97.7	9.1	effusion	pulmonary edema	0.71
+PUL-1894	2020-10-24	3	T > 38°c. tachycardia. bilateral basal crepitations.	1	1	0	96.32465269763590	9.374958454084580	consolidation	pulmonary edema	0.76
+PUL-1894	2020-10-25	4	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	96.39763313551000	9.584816179619920	normal	pulmonary edema	0.66
+PUL-6776	2022-05-19	0	T > 38°c. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	92.0	6.2	infiltrate	pulmonary edema	0.31
+PUL-6776	2022-05-20	1	T > 38°c. tachycardia. hypoxemia. bilateral basal crepitations.	1	1	0	92.0	6.2	effusion	pulmonary edema	0.66
+PUL-6776	2022-05-21	2	Fever. tachycardia. spo2 < 94%. bilateral basal crepitations.	1	1	0	92.0	6.2	opacity	pulmonary edema	0.37
+PUL-6776	2022-05-22	3	Rapid heart rate. low oxygen saturation. bilateral basal crepitations.	0	1	0	90.8551456724604	6.312065416083400	opacity	pulmonary edema	0.3
+PUL-6776	2022-05-23	4	Febrile. tachycardia. spo2 < 94%. bilateral basal crepitations.	1	1	0	90.93345815132390	6.54891759915031	opacity	pulmonary edema	0.34
+PUL-9770	2022-08-30	0	Raised body temp. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	97.3	8.6	normal	pulmonary edema	0.58
+PUL-9770	2022-08-31	1	Pyrexia. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	97.3	8.6	normal	pulmonary edema	0.47
+PUL-9770	2022-09-01	2	Fever. tachycardia. rales. bilateral basal crepitations.	1	1	1	97.3	8.6	consolidation	pulmonary edema	0.69
+PUL-9770	2022-09-02	3	Febrile. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	96.067244951717	8.985200188777790	normal	pulmonary edema	0.63
+PUL-9770	2022-09-03	4	T > 38°c. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	96.46959214041530	9.020766610554330	infiltrate	pulmonary edema	0.43
+PUL-4242	2022-04-17	0	Febrile. rapid heart rate. low oxygen saturation. bilateral basal crepitations.	1	1	0	93.4	8.5	effusion	pulmonary edema	0.68
+PUL-4242	2022-04-18	1	Febrile. tachycardia. spo2 < 94%. bilateral basal crepitations.	1	1	0	93.4	8.5	consolidation	pulmonary edema	0.38
+PUL-4242	2022-04-19	2	T > 38°c. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	93.4	8.5	opacity	pulmonary edema	0.35
+PUL-4242	2022-04-20	3	Rapid heart rate. low oxygen saturation. bilateral basal crepitations.	0	1	0	92.18284890459360	8.713876304271640	normal	pulmonary edema	0.65
+PUL-4242	2022-04-21	4	Fever. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	92.17949095186300	8.943969869132530	normal	pulmonary edema	0.36
+PUL-1583	2021-06-11	0	Pyrexia. hypoxemia. bilateral basal crepitations.	1	0	0	92.1	7.4	consolidation	pulmonary edema	0.44
+PUL-1583	2021-06-12	1	Fever. low oxygen saturation. bilateral basal crepitations.	1	0	0	92.1	7.4	normal	pulmonary edema	0.84
+PUL-1583	2021-06-13	2	Raised body temp. spo2 < 94%. bilateral basal crepitations.	1	0	0	92.1	7.4	normal	pulmonary edema	0.37
+PUL-1583	2021-06-14	3	T > 38°c. spo2 < 94%. bilateral basal crepitations.	1	0	0	91.43985340377120	7.685389403633310	normal	pulmonary edema	0.6
+PUL-1583	2021-06-15	4	T > 38°c. hypoxemia. bilateral basal crepitations.	1	0	0	90.76261715328350	7.702533566646330	consolidation	pulmonary edema	0.44
+PUL-4995	2021-04-03	0	Fever. tachycardia. bilateral basal crepitations.	1	1	0	94.3	7.6	infiltrate	pulmonary edema	0.71
+PUL-4995	2021-04-04	1	Pyrexia. tachycardia. bilateral basal crepitations.	1	1	0	94.3	7.6	consolidation	pulmonary edema	0.81
+PUL-4995	2021-04-05	2	Raised body temp. tachycardia. bilateral basal crepitations.	1	1	0	94.3	7.6	consolidation	pulmonary edema	0.3
+PUL-4995	2021-04-06	3	T > 38°c. tachycardia. hypoxemia. bilateral basal crepitations.	1	1	0	93.50642277890820	7.788495025808240	infiltrate	pulmonary edema	0.77
+PUL-4995	2021-04-07	4	Tachycardia. spo2 < 94%. bilateral basal crepitations.	0	1	0	92.86730906155170	8.078233729492570	consolidation	pulmonary edema	0.41
+PUL-7357	2020-11-22	0	Pyrexia. tachycardia. crackles. bilateral basal crepitations.	1	1	1	96.0	7.7	opacity	pulmonary edema	0.47
+PUL-7357	2020-11-23	1	T > 38°c. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	96.0	7.7	opacity	pulmonary edema	0.34
+PUL-7357	2020-11-24	2	Fever. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	96.0	7.7	infiltrate	pulmonary edema	0.43
+PUL-7357	2020-11-25	3	Febrile. tachycardia. crackles. bilateral basal crepitations.	1	1	1	94.94407600029860	7.826482654591570	opacity	pulmonary edema	0.68
+PUL-7357	2020-11-26	4	Raised body temp. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	94.72238024285190	8.035510579622720	consolidation	pulmonary edema	0.76
+PUL-7869	2021-08-06	0	T > 38°c. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	92.5	6.2	effusion	pulmonary edema	0.83
+PUL-7869	2021-08-07	1	Febrile. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	92.5	6.2	infiltrate	pulmonary edema	0.47
+PUL-7869	2021-08-08	2	Raised body temp. tachycardia. spo2 < 94%. bilateral basal crepitations.	1	1	0	92.5	6.2	opacity	pulmonary edema	0.39
+PUL-7869	2021-08-09	3	Pyrexia. tachycardia. low oxygen saturation. bilateral basal crepitations.	1	1	0	91.87335759362550	6.454187735600870	consolidation	pulmonary edema	0.4
+PUL-7869	2021-08-10	4	T > 38°c. tachycardia. spo2 < 94%. bilateral basal crepitations.	1	1	0	91.44856444953390	6.329247702699040	consolidation	pulmonary edema	0.75
+PUL-1147	2022-02-13	0	T > 38°c. tachycardia. bilateral basal crepitations.	1	1	0	97.1	8.5	consolidation	pulmonary edema	0.57
+PUL-1147	2022-02-14	1	Fever. tachycardia. bilateral basal crepitations.	1	1	0	97.1	8.5	effusion	pulmonary edema	0.75
+PUL-1147	2022-02-15	2	T > 38°c. rapid heart rate. bilateral basal crepitations.	1	1	0	97.1	8.5	normal	pulmonary edema	0.39
+PUL-1147	2022-02-16	3	Rapid heart rate. bilateral basal crepitations.	0	1	0	96.00823321451830	8.633169581834220	opacity	pulmonary edema	0.44
+PUL-1147	2022-02-17	4	Raised body temp. rapid heart rate. bilateral basal crepitations.	1	1	0	96.4511764154572	8.867757434336600	infiltrate	pulmonary edema	0.38
+PUL-6920	2021-05-25	0	Fever. bilateral basal crepitations.	1	0	0	96.5	9.0	consolidation	pulmonary edema	0.5
+PUL-6920	2021-05-26	1	Pyrexia. bilateral basal crepitations.	1	0	0	96.5	9.0	consolidation	pulmonary edema	0.7
+PUL-6920	2021-05-27	2	Febrile. bilateral basal crepitations.	1	0	0	96.5	9.0	effusion	pulmonary edema	0.7
+PUL-6920	2021-05-28	3	Raised body temp. bilateral basal crepitations.	1	0	0	95.67897978546690	9.109494505827360	effusion	pulmonary edema	0.74
+PUL-6920	2021-05-29	4	Pyrexia. bilateral basal crepitations.	1	0	0	95.25769278296860	9.36673475582887	normal	pulmonary edema	0.68
+PUL-8981	2022-06-17	0	Crackles. bilateral basal crepitations.	0	0	1	97.1	9.4	opacity	pulmonary edema	0.61
+PUL-8981	2022-06-18	1	Crackles. bilateral basal crepitations.	0	0	1	97.1	9.4	infiltrate	pulmonary edema	0.59
+PUL-8981	2022-06-19	2	Rales. bilateral basal crepitations.	0	0	1	97.1	9.4	normal	pulmonary edema	0.7
+PUL-8981	2022-06-20	3	T > 38°c. rales. bilateral basal crepitations.	1	0	1	95.63414392385110	9.844301799669850	consolidation	pulmonary edema	0.83
+PUL-8981	2022-06-21	4	Fever. crackles. bilateral basal crepitations.	1	0	1	96.21957428701220	9.828948100717480	consolidation	pulmonary edema	0.57
+PUL-9151	2021-01-20	0	Fever. crackles. bilateral basal crepitations.	1	0	1	95.6	9.2	infiltrate	pulmonary edema	0.6
+PUL-9151	2021-01-21	1	Raised body temp. rales. bilateral basal crepitations.	1	0	1	95.6	9.2	effusion	pulmonary edema	0.85
+PUL-9151	2021-01-22	2	Febrile. rales. bilateral basal crepitations.	1	0	1	95.6	9.2	opacity	pulmonary edema	0.59
+PUL-9151	2021-01-23	3	Rales. bilateral basal crepitations.	0	0	1	94.74804128997930	9.55856546466024	normal	pulmonary edema	0.78
+PUL-9151	2021-01-24	4	Febrile. rales. bilateral basal crepitations.	1	0	1	94.38202384627310	9.433409905724650	opacity	pulmonary edema	0.76
+PUL-6971	2020-12-16	0	Pyrexia. tachycardia. crackles. bilateral basal crepitations.	1	1	1	97.0	8.9	opacity	pulmonary edema	0.54
+PUL-6971	2020-12-17	1	Fever. tachycardia. rales. bilateral basal crepitations.	1	1	1	97.0	8.9	infiltrate	pulmonary edema	0.46
+PUL-6971	2020-12-18	2	Fever. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	97.0	8.9	infiltrate	pulmonary edema	0.75
+PUL-6971	2020-12-19	3	Fever. tachycardia. crackles. bilateral basal crepitations.	1	1	1	96.14684100015160	9.12147042557795	consolidation	pulmonary edema	0.71
+PUL-6971	2020-12-20	4	Fever. tachycardia. crackles. bilateral basal crepitations.	1	1	1	96.37768393128010	9.127507145108720	opacity	pulmonary edema	0.49
+PUL-9146	2021-09-16	0	T > 38°c. tachycardia. crackles. hypoxemia. bilateral basal crepitations.	1	1	1	93.2	9.6	effusion	pulmonary edema	0.35
+PUL-9146	2021-09-17	1	Raised body temp. tachycardia. rales. low oxygen saturation. bilateral basal crepitations.	1	1	1	93.2	9.6	infiltrate	pulmonary edema	0.57
+PUL-9146	2021-09-18	2	Pyrexia. rapid heart rate. rales. hypoxemia. bilateral basal crepitations.	1	1	1	93.2	9.6	infiltrate	pulmonary edema	0.56
+PUL-9146	2021-09-19	3	Raised body temp. tachycardia. crackles. hypoxemia. bilateral basal crepitations.	1	1	1	91.9587631523254	9.76633364134042	normal	pulmonary edema	0.8
+PUL-9146	2021-09-20	4	Raised body temp. tachycardia. rales. hypoxemia. leukocytosis. bilateral basal crepitations.	1	1	1	92.36774136772460	10.08321930863960	infiltrate	pulmonary edema	0.45
+PUL-6294	2022-03-18	0	T > 38°c. rapid heart rate. leukocytosis. bilateral basal crepitations.	1	1	0	96.5	10.1	effusion	pulmonary edema	0.33
+PUL-6294	2022-03-19	1	Pyrexia. tachycardia. elevated wbc. bilateral basal crepitations.	1	1	0	96.5	10.1	consolidation	pulmonary edema	0.51
+PUL-6294	2022-03-20	2	Raised body temp. tachycardia. elevated wbc. bilateral basal crepitations.	1	1	0	96.5	10.1	effusion	pulmonary edema	0.73
+PUL-6294	2022-03-21	3	Pyrexia. rapid heart rate. leukocytosis. bilateral basal crepitations.	1	1	0	95.0314874486012	10.466560231950400	infiltrate	pulmonary edema	0.56
+PUL-6294	2022-03-22	4	Rapid heart rate. leukocytosis. bilateral basal crepitations.	0	1	0	95.61065616972830	10.254762015779500	effusion	pulmonary edema	0.65
+PUL-5824	2021-08-29	0	T > 38°c. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	96.4	7.0	effusion	pulmonary edema	0.5
+PUL-5824	2021-08-30	1	Fever. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	96.4	7.0	opacity	pulmonary edema	0.55
+PUL-5824	2021-08-31	2	Raised body temp. tachycardia. rales. bilateral basal crepitations.	1	1	1	96.4	7.0	opacity	pulmonary edema	0.81
+PUL-5824	2021-09-01	3	Raised body temp. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	95.32102364696630	7.398111364509170	consolidation	pulmonary edema	0.68
+PUL-5824	2021-09-02	4	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	94.97519664050460	7.22800373490229	consolidation	pulmonary edema	0.67
+PUL-9270	2020-10-17	0	T > 38°c. tachycardia. bilateral basal crepitations.	1	1	0	95.0	8.8	normal	pulmonary edema	0.64
+PUL-9270	2020-10-18	1	Pyrexia. rapid heart rate. bilateral basal crepitations.	1	1	0	95.0	8.8	normal	pulmonary edema	0.62
+PUL-9270	2020-10-19	2	Raised body temp. tachycardia. bilateral basal crepitations.	1	1	0	95.0	8.8	normal	pulmonary edema	0.56
+PUL-9270	2020-10-20	3	Tachycardia. bilateral basal crepitations.	0	1	0	94.18103158032480	8.904253039907440	effusion	pulmonary edema	0.4
+PUL-9270	2020-10-21	4	Raised body temp. tachycardia. spo2 < 94%. bilateral basal crepitations.	1	1	0	93.65470549121740	9.150203854850010	consolidation	pulmonary edema	0.43
+PUL-2032	2021-05-23	0	Pyrexia. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	96.4	7.9	consolidation	pulmonary edema	0.44
+PUL-2032	2021-05-24	1	Febrile. rapid heart rate. crackles. bilateral basal crepitations.	1	1	1	96.4	7.9	effusion	pulmonary edema	0.62
+PUL-2032	2021-05-25	2	T > 38°c. rapid heart rate. rales. bilateral basal crepitations.	1	1	1	96.4	7.9	infiltrate	pulmonary edema	0.84
+PUL-2032	2021-05-26	3	Tachycardia. crackles. bilateral basal crepitations.	0	1	1	95.39878181061010	8.117370020406500	normal	pulmonary edema	0.33
+PUL-2032	2021-05-27	4	Raised body temp. tachycardia. rales. bilateral basal crepitations.	1	1	1	95.02629255328140	8.361984767219820	normal	pulmonary edema	0.7
+PUL-3110	2022-04-22	0	Fever. crackles. spo2 < 94%. bilateral basal crepitations.	1	0	1	93.9	8.9	opacity	pulmonary edema	0.61
+PUL-3110	2022-04-23	1	Febrile. crackles. hypoxemia. bilateral basal crepitations.	1	0	1	93.9	8.9	infiltrate	pulmonary edema	0.53
+PUL-3110	2022-04-24	2	Pyrexia. rales. hypoxemia. bilateral basal crepitations.	1	0	1	93.9	8.9	normal	pulmonary edema	0.56
+PUL-3110	2022-04-25	3	Fever. crackles. low oxygen saturation. bilateral basal crepitations.	1	0	1	92.99266916117500	9.317443452727040	consolidation	pulmonary edema	0.72
+PUL-3110	2022-04-26	4	T > 38°c. crackles. low oxygen saturation. bilateral basal crepitations.	1	0	1	92.535104284359	9.318893396400960	normal	pulmonary edema	0.49
+ATE-1948	2021-11-20	0	Raised body temp. reduced breath sounds.	1	0	0	95.0	8.4	infiltrate	atelectasis	0.4
+ATE-1948	2021-11-21	1	Febrile. reduced breath sounds.	1	0	0	95.0	8.4	infiltrate	atelectasis	0.45
+ATE-1948	2021-11-22	2	Fever. reduced breath sounds.	1	0	0	95.0	8.4	infiltrate	atelectasis	0.8
+ATE-1948	2021-11-23	3	Pyrexia. low oxygen saturation. reduced breath sounds.	1	0	0	93.87918936112500	8.730498082631430	opacity	atelectasis	0.49
+ATE-1948	2021-11-24	4	Fever. reduced breath sounds.	1	0	0	94.43606966871950	8.685355269590040	effusion	atelectasis	0.63
+ATE-4002	2022-08-01	0	Tachycardia. reduced breath sounds.	0	1	0	96.3	7.0	opacity	atelectasis	0.74
+ATE-4002	2022-08-02	1	Rapid heart rate. reduced breath sounds.	0	1	0	96.3	7.0	consolidation	atelectasis	0.79
+ATE-4002	2022-08-03	2	Tachycardia. reduced breath sounds.	0	1	0	96.3	7.0	normal	atelectasis	0.47
+ATE-4002	2022-08-04	3	Raised body temp. tachycardia. reduced breath sounds.	1	1	0	95.61062042960490	7.329186217630780	consolidation	atelectasis	0.56
+ATE-4002	2022-08-05	4	Febrile. tachycardia. reduced breath sounds.	1	1	0	95.52476715525290	7.26048627095609	effusion	atelectasis	0.45
+ATE-2094	2020-04-12	0	Febrile. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	93.1	9.2	opacity	atelectasis	0.81
+ATE-2094	2020-04-13	1	Fever. rapid heart rate. spo2 < 94%. reduced breath sounds.	1	1	0	93.1	9.2	normal	atelectasis	0.7
+ATE-2094	2020-04-14	2	Febrile. rapid heart rate. low oxygen saturation. reduced breath sounds.	1	1	0	93.1	9.2	consolidation	atelectasis	0.81
+ATE-2094	2020-04-15	3	Raised body temp. rapid heart rate. low oxygen saturation. reduced breath sounds.	1	1	0	91.74279923688080	9.540946379529190	infiltrate	atelectasis	0.44
+ATE-2094	2020-04-16	4	Fever. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	91.92705826237790	9.438930118528900	consolidation	atelectasis	0.41
+ATE-9625	2021-11-24	0	Febrile. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	93.8	6.6	effusion	atelectasis	0.38
+ATE-9625	2021-11-25	1	T > 38°c. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	93.8	6.6	consolidation	atelectasis	0.31
+ATE-9625	2021-11-26	2	Febrile. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	93.8	6.6	effusion	atelectasis	0.45
+ATE-9625	2021-11-27	3	Tachycardia. low oxygen saturation. reduced breath sounds.	0	1	0	92.85692916496190	7.0781066613349700	effusion	atelectasis	0.84
+ATE-9625	2021-11-28	4	Fever. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	93.02658630516510	6.962029441827910	opacity	atelectasis	0.81
+ATE-2547	2021-12-21	0	Febrile. rapid heart rate. reduced breath sounds.	1	1	0	96.4	7.3	effusion	atelectasis	0.46
+ATE-2547	2021-12-22	1	T > 38°c. rapid heart rate. reduced breath sounds.	1	1	0	96.4	7.3	opacity	atelectasis	0.48
+ATE-2547	2021-12-23	2	Fever. rapid heart rate. reduced breath sounds.	1	1	0	96.4	7.3	opacity	atelectasis	0.66
+ATE-2547	2021-12-24	3	Pyrexia. tachycardia. reduced breath sounds.	1	1	0	94.92892275718010	7.742366125703150	infiltrate	atelectasis	0.41
+ATE-2547	2021-12-25	4	Tachycardia. reduced breath sounds.	0	1	0	95.57185672981910	7.64208494130891	effusion	atelectasis	0.74
+ATE-2646	2021-03-02	0	Raised body temp. tachycardia. crackles. spo2 < 94%. reduced breath sounds.	1	1	1	92.2	8.1	opacity	atelectasis	0.35
+ATE-2646	2021-03-03	1	Fever. rapid heart rate. crackles. hypoxemia. reduced breath sounds.	1	1	1	92.2	8.1	infiltrate	atelectasis	0.51
+ATE-2646	2021-03-04	2	Pyrexia. tachycardia. crackles. low oxygen saturation. reduced breath sounds.	1	1	1	92.2	8.1	infiltrate	atelectasis	0.59
+ATE-2646	2021-03-05	3	T > 38°c. rapid heart rate. rales. low oxygen saturation. reduced breath sounds.	1	1	1	91.36573485442570	8.222476959218170	infiltrate	atelectasis	0.44
+ATE-2646	2021-03-06	4	Raised body temp. rapid heart rate. crackles. spo2 < 94%. reduced breath sounds.	1	1	1	90.85914282896240	8.23026963723462	consolidation	atelectasis	0.61
+ATE-1293	2022-02-11	0	T > 38°c. tachycardia. reduced breath sounds.	1	1	0	94.6	6.7	consolidation	atelectasis	0.32
+ATE-1293	2022-02-12	1	Fever. tachycardia. reduced breath sounds.	1	1	0	94.6	6.7	normal	atelectasis	0.53
+ATE-1293	2022-02-13	2	Raised body temp. tachycardia. reduced breath sounds.	1	1	0	94.6	6.7	consolidation	atelectasis	0.4
+ATE-1293	2022-02-14	3	Raised body temp. tachycardia. reduced breath sounds.	1	1	0	94.07089175459430	6.8531277704580500	opacity	atelectasis	0.44
+ATE-1293	2022-02-15	4	Pyrexia. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	93.85694146825570	7.195403242468600	normal	atelectasis	0.79
+ATE-9984	2020-12-05	0	T > 38°c. reduced breath sounds.	1	0	0	94.2	8.2	opacity	atelectasis	0.67
+ATE-9984	2020-12-06	1	Raised body temp. reduced breath sounds.	1	0	0	94.2	8.2	effusion	atelectasis	0.63
+ATE-9984	2020-12-07	2	Febrile. reduced breath sounds.	1	0	0	94.2	8.2	consolidation	atelectasis	0.49
+ATE-9984	2020-12-08	3	Low oxygen saturation. reduced breath sounds.	0	0	0	93.20834252675660	8.592571278987520	consolidation	atelectasis	0.6
+ATE-9984	2020-12-09	4	Raised body temp. spo2 < 94%. reduced breath sounds.	1	0	0	93.39048773355300	8.577586255192040	infiltrate	atelectasis	0.3
+ATE-9223	2021-10-23	0	Tachycardia. crackles. hypoxemia. reduced breath sounds.	0	1	1	93.7	7.6	normal	atelectasis	0.65
+ATE-9223	2021-10-24	1	Tachycardia. rales. hypoxemia. reduced breath sounds.	0	1	1	93.7	7.6	normal	atelectasis	0.34
+ATE-9223	2021-10-25	2	Tachycardia. crackles. hypoxemia. reduced breath sounds.	0	1	1	93.7	7.6	effusion	atelectasis	0.84
+ATE-9223	2021-10-26	3	Raised body temp. tachycardia. rales. hypoxemia. reduced breath sounds.	1	1	1	92.41135028856460	8.06057333306733	effusion	atelectasis	0.62
+ATE-9223	2021-10-27	4	Raised body temp. tachycardia. crackles. hypoxemia. reduced breath sounds.	1	1	1	92.27050082381330	8.089669108251620	infiltrate	atelectasis	0.8
+ATE-3748	2020-10-26	0	Raised body temp. rales. spo2 < 94%. reduced breath sounds.	1	0	1	93.8	6.0	consolidation	atelectasis	0.79
+ATE-3748	2020-10-27	1	Pyrexia. crackles. low oxygen saturation. reduced breath sounds.	1	0	1	93.8	6.0	consolidation	atelectasis	0.53
+ATE-3748	2020-10-28	2	Fever. crackles. low oxygen saturation. reduced breath sounds.	1	0	1	93.8	6.0	effusion	atelectasis	0.35
+ATE-3748	2020-10-29	3	Fever. crackles. spo2 < 94%. reduced breath sounds.	1	0	1	92.92094962345960	6.338338678781890	effusion	atelectasis	0.73
+ATE-3748	2020-10-30	4	T > 38°c. rales. spo2 < 94%. reduced breath sounds.	1	0	1	93.2192793650653	6.239667450151980	opacity	atelectasis	0.37
+ATE-9936	2020-02-02	0	Raised body temp. rapid heart rate. crackles. reduced breath sounds.	1	1	1	97.5	8.5	effusion	atelectasis	0.81
+ATE-9936	2020-02-03	1	Pyrexia. tachycardia. crackles. reduced breath sounds.	1	1	1	97.5	8.5	effusion	atelectasis	0.41
+ATE-9936	2020-02-04	2	Febrile. tachycardia. crackles. reduced breath sounds.	1	1	1	97.5	8.5	opacity	atelectasis	0.41
+ATE-9936	2020-02-05	3	Rapid heart rate. crackles. reduced breath sounds.	0	1	1	96.8639304288942	8.79060644759598	infiltrate	atelectasis	0.68
+ATE-9936	2020-02-06	4	Tachycardia. crackles. reduced breath sounds.	0	1	1	96.76904178183870	8.614221706787910	consolidation	atelectasis	0.71
+ATE-3889	2020-10-18	0	T > 38°c. rapid heart rate. reduced breath sounds.	1	1	0	96.3	7.7	infiltrate	atelectasis	0.82
+ATE-3889	2020-10-19	1	Febrile. rapid heart rate. reduced breath sounds.	1	1	0	96.3	7.7	normal	atelectasis	0.74
+ATE-3889	2020-10-20	2	Raised body temp. tachycardia. reduced breath sounds.	1	1	0	96.3	7.7	consolidation	atelectasis	0.81
+ATE-3889	2020-10-21	3	Tachycardia. reduced breath sounds.	0	1	0	95.6929695592654	7.983877972196150	consolidation	atelectasis	0.31
+ATE-3889	2020-10-22	4	Raised body temp. tachycardia. reduced breath sounds.	1	1	0	94.9727396264729	8.148373340095330	normal	atelectasis	0.6
+ATE-8128	2020-10-19	0	Pyrexia. crackles. hypoxemia. elevated wbc. reduced breath sounds.	1	0	1	93.4	10.1	infiltrate	atelectasis	0.42
+ATE-8128	2020-10-20	1	Fever. crackles. low oxygen saturation. elevated wbc. reduced breath sounds.	1	0	1	93.4	10.1	opacity	atelectasis	0.36
+ATE-8128	2020-10-21	2	T > 38°c. rales. hypoxemia. elevated wbc. reduced breath sounds.	1	0	1	93.4	10.1	normal	atelectasis	0.36
+ATE-8128	2020-10-22	3	Fever. rales. hypoxemia. leukocytosis. reduced breath sounds.	1	0	1	92.51174863968110	10.222267718178200	opacity	atelectasis	0.52
+ATE-8128	2020-10-23	4	Pyrexia. rales. low oxygen saturation. elevated wbc. reduced breath sounds.	1	0	1	92.84774860726710	10.21221220847770	normal	atelectasis	0.6
+ATE-8100	2022-04-04	0	T > 38°c. tachycardia. crackles. reduced breath sounds.	1	1	1	97.2	8.1	effusion	atelectasis	0.58
+ATE-8100	2022-04-05	1	Raised body temp. rapid heart rate. crackles. reduced breath sounds.	1	1	1	97.2	8.1	infiltrate	atelectasis	0.68
+ATE-8100	2022-04-06	2	Fever. rapid heart rate. rales. reduced breath sounds.	1	1	1	97.2	8.1	opacity	atelectasis	0.55
+ATE-8100	2022-04-07	3	Rapid heart rate. rales. reduced breath sounds.	0	1	1	95.71570917340480	8.427775802915440	consolidation	atelectasis	0.8
+ATE-8100	2022-04-08	4	Tachycardia. crackles. reduced breath sounds.	0	1	1	95.7440288449409	8.498669975855720	infiltrate	atelectasis	0.3
+ATE-9725	2022-11-23	0	Raised body temp. tachycardia. crackles. spo2 < 94%. reduced breath sounds.	1	1	1	92.8	7.3	normal	atelectasis	0.39
+ATE-9725	2022-11-24	1	Pyrexia. rapid heart rate. crackles. hypoxemia. reduced breath sounds.	1	1	1	92.8	7.3	opacity	atelectasis	0.79
+ATE-9725	2022-11-25	2	Febrile. tachycardia. crackles. low oxygen saturation. reduced breath sounds.	1	1	1	92.8	7.3	normal	atelectasis	0.46
+ATE-9725	2022-11-26	3	T > 38°c. tachycardia. rales. low oxygen saturation. reduced breath sounds.	1	1	1	91.78321191285700	7.6554318567800000	opacity	atelectasis	0.71
+ATE-9725	2022-11-27	4	Raised body temp. rapid heart rate. crackles. low oxygen saturation. reduced breath sounds.	1	1	1	91.49799402474150	7.66507022151665	opacity	atelectasis	0.46
+ATE-6826	2022-03-24	0	Fever. spo2 < 94%. reduced breath sounds.	1	0	0	92.7	9.2	infiltrate	atelectasis	0.55
+ATE-6826	2022-03-25	1	T > 38°c. hypoxemia. reduced breath sounds.	1	0	0	92.7	9.2	normal	atelectasis	0.49
+ATE-6826	2022-03-26	2	Febrile. low oxygen saturation. reduced breath sounds.	1	0	0	92.7	9.2	opacity	atelectasis	0.67
+ATE-6826	2022-03-27	3	Spo2 < 94%. reduced breath sounds.	0	0	0	92.15962147339030	9.380106784932940	consolidation	atelectasis	0.78
+ATE-6826	2022-03-28	4	Febrile. low oxygen saturation. reduced breath sounds.	1	0	0	91.33635461863600	9.592876638349370	infiltrate	atelectasis	0.36
+ATE-1446	2021-02-10	0	Pyrexia. tachycardia. rales. reduced breath sounds.	1	1	1	95.8	9.3	opacity	atelectasis	0.42
+ATE-1446	2021-02-11	1	Fever. tachycardia. crackles. reduced breath sounds.	1	1	1	95.8	9.3	normal	atelectasis	0.69
+ATE-1446	2021-02-12	2	Fever. rapid heart rate. crackles. reduced breath sounds.	1	1	1	95.8	9.3	infiltrate	atelectasis	0.58
+ATE-1446	2021-02-13	3	Pyrexia. tachycardia. crackles. reduced breath sounds.	1	1	1	94.46168752218460	9.70440018855116	normal	atelectasis	0.51
+ATE-1446	2021-02-14	4	Rapid heart rate. rales. reduced breath sounds.	0	1	1	94.97738663396220	9.459401400865210	infiltrate	atelectasis	0.81
+ATE-6182	2022-01-07	0	Low oxygen saturation. reduced breath sounds.	0	0	0	92.7	6.1	opacity	atelectasis	0.56
+ATE-6182	2022-01-08	1	Low oxygen saturation. reduced breath sounds.	0	0	0	92.7	6.1	consolidation	atelectasis	0.46
+ATE-6182	2022-01-09	2	Low oxygen saturation. reduced breath sounds.	0	0	0	92.7	6.1	infiltrate	atelectasis	0.42
+ATE-6182	2022-01-10	3	Febrile. spo2 < 94%. reduced breath sounds.	1	0	0	92.01872503213740	6.339319102901680	infiltrate	atelectasis	0.67
+ATE-6182	2022-01-11	4	Pyrexia. low oxygen saturation. reduced breath sounds.	1	0	0	91.70382445934220	6.254611131176240	infiltrate	atelectasis	0.46
+ATE-8954	2021-07-10	0	Tachycardia. crackles. spo2 < 94%. reduced breath sounds.	0	1	1	92.4	7.4	normal	atelectasis	0.69
+ATE-8954	2021-07-11	1	Rapid heart rate. crackles. hypoxemia. reduced breath sounds.	0	1	1	92.4	7.4	infiltrate	atelectasis	0.77
+ATE-8954	2021-07-12	2	Tachycardia. rales. spo2 < 94%. reduced breath sounds.	0	1	1	92.4	7.4	infiltrate	atelectasis	0.36
+ATE-8954	2021-07-13	3	T > 38°c. tachycardia. rales. low oxygen saturation. reduced breath sounds.	1	1	1	90.96126723284350	7.557496869590910	consolidation	atelectasis	0.52
+ATE-8954	2021-07-14	4	Pyrexia. rapid heart rate. crackles. low oxygen saturation. reduced breath sounds.	1	1	1	91.89803276795880	7.5586329298249700	effusion	atelectasis	0.5
+ATE-7491	2020-06-08	0	Pyrexia. rales. reduced breath sounds.	1	0	1	96.9	8.1	effusion	atelectasis	0.7
+ATE-7491	2020-06-09	1	Fever. rales. reduced breath sounds.	1	0	1	96.9	8.1	infiltrate	atelectasis	0.34
+ATE-7491	2020-06-10	2	T > 38°c. rales. reduced breath sounds.	1	0	1	96.9	8.1	normal	atelectasis	0.35
+ATE-7491	2020-06-11	3	Pyrexia. crackles. reduced breath sounds.	1	0	1	95.42039407002230	8.528491628325640	infiltrate	atelectasis	0.76
+ATE-7491	2020-06-12	4	Rales. reduced breath sounds.	0	0	1	96.33570707897360	8.214360883176960	opacity	atelectasis	0.5
+ATE-3650	2020-09-16	0	Pyrexia. reduced breath sounds.	1	0	0	95.2	6.9	consolidation	atelectasis	0.35
+ATE-3650	2020-09-17	1	Febrile. reduced breath sounds.	1	0	0	95.2	6.9	normal	atelectasis	0.42
+ATE-3650	2020-09-18	2	Raised body temp. reduced breath sounds.	1	0	0	95.2	6.9	effusion	atelectasis	0.52
+ATE-3650	2020-09-19	3	Raised body temp. low oxygen saturation. reduced breath sounds.	1	0	0	93.9204174778892	7.398179206048260	consolidation	atelectasis	0.62
+ATE-3650	2020-09-20	4	T > 38°c. spo2 < 94%. reduced breath sounds.	1	0	0	93.87459401909970	7.096049745095450	normal	atelectasis	0.36
+ATE-3449	2020-01-25	0	Fever. rapid heart rate. rales. hypoxemia. reduced breath sounds.	1	1	1	92.5	8.2	infiltrate	atelectasis	0.38
+ATE-3449	2020-01-26	1	Raised body temp. rapid heart rate. crackles. spo2 < 94%. reduced breath sounds.	1	1	1	92.5	8.2	effusion	atelectasis	0.4
+ATE-3449	2020-01-27	2	Febrile. rapid heart rate. crackles. hypoxemia. reduced breath sounds.	1	1	1	92.5	8.2	consolidation	atelectasis	0.66
+ATE-3449	2020-01-28	3	Rapid heart rate. crackles. spo2 < 94%. reduced breath sounds.	0	1	1	91.1529586844365	8.444778060488110	opacity	atelectasis	0.32
+ATE-3449	2020-01-29	4	Rapid heart rate. rales. spo2 < 94%. reduced breath sounds.	0	1	1	91.51052340958030	8.429265616908370	opacity	atelectasis	0.46
+ATE-6069	2021-01-27	0	Febrile. tachycardia. hypoxemia. reduced breath sounds.	1	1	0	93.2	6.6	infiltrate	atelectasis	0.6
+ATE-6069	2021-01-28	1	Fever. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	93.2	6.6	normal	atelectasis	0.81
+ATE-6069	2021-01-29	2	Fever. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	93.2	6.6	normal	atelectasis	0.62
+ATE-6069	2021-01-30	3	Fever. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	92.44132104339470	7.091289585556360	effusion	atelectasis	0.75
+ATE-6069	2021-01-31	4	T > 38°c. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	91.84440497775170	6.887712307159520	infiltrate	atelectasis	0.72
+ATE-6635	2021-09-20	0	Fever. tachycardia. rales. reduced breath sounds.	1	1	1	97.5	8.5	effusion	atelectasis	0.65
+ATE-6635	2021-09-21	1	Pyrexia. rapid heart rate. crackles. reduced breath sounds.	1	1	1	97.5	8.5	opacity	atelectasis	0.33
+ATE-6635	2021-09-22	2	Febrile. rapid heart rate. rales. reduced breath sounds.	1	1	1	97.5	8.5	infiltrate	atelectasis	0.66
+ATE-6635	2021-09-23	3	Tachycardia. crackles. reduced breath sounds.	0	1	1	96.0744450815744	8.609879701727790	opacity	atelectasis	0.37
+ATE-6635	2021-09-24	4	T > 38°c. rapid heart rate. rales. reduced breath sounds.	1	1	1	96.98917721512670	8.625880228140490	consolidation	atelectasis	0.31
+ATE-3480	2022-08-07	0	T > 38°c. rapid heart rate. leukocytosis. reduced breath sounds.	1	1	0	97.7	10.1	effusion	atelectasis	0.59
+ATE-3480	2022-08-08	1	Febrile. tachycardia. leukocytosis. reduced breath sounds.	1	1	0	97.7	10.1	opacity	atelectasis	0.46
+ATE-3480	2022-08-09	2	T > 38°c. rapid heart rate. elevated wbc. reduced breath sounds.	1	1	0	97.7	10.1	normal	atelectasis	0.36
+ATE-3480	2022-08-10	3	Raised body temp. tachycardia. leukocytosis. reduced breath sounds.	1	1	0	96.86126496620720	10.49138492835090	normal	atelectasis	0.48
+ATE-3480	2022-08-11	4	Febrile. rapid heart rate. leukocytosis. reduced breath sounds.	1	1	0	96.42648800565770	10.349600204976700	opacity	atelectasis	0.41
+ATE-9708	2021-04-26	0	Febrile. reduced breath sounds.	1	0	0	94.8	7.8	infiltrate	atelectasis	0.51
+ATE-9708	2021-04-27	1	T > 38°c. reduced breath sounds.	1	0	0	94.8	7.8	infiltrate	atelectasis	0.34
+ATE-9708	2021-04-28	2	Fever. reduced breath sounds.	1	0	0	94.8	7.8	infiltrate	atelectasis	0.64
+ATE-9708	2021-04-29	3	T > 38°c. low oxygen saturation. reduced breath sounds.	1	0	0	93.66808006890810	8.218469934024650	consolidation	atelectasis	0.55
+ATE-9708	2021-04-30	4	T > 38°c. spo2 < 94%. reduced breath sounds.	1	0	0	93.45983479209060	8.132340820709200	normal	atelectasis	0.62
+ATE-7409	2022-09-10	0	Febrile. tachycardia. reduced breath sounds.	1	1	0	97.9	10.0	effusion	atelectasis	0.47
+ATE-7409	2022-09-11	1	Raised body temp. rapid heart rate. reduced breath sounds.	1	1	0	97.9	10.0	normal	atelectasis	0.42
+ATE-7409	2022-09-12	2	T > 38°c. rapid heart rate. reduced breath sounds.	1	1	0	97.9	10.0	normal	atelectasis	0.31
+ATE-7409	2022-09-13	3	Fever. rapid heart rate. elevated wbc. reduced breath sounds.	1	1	0	97.27002450641880	10.496460068347200	normal	atelectasis	0.56
+ATE-7409	2022-09-14	4	Fever. tachycardia. elevated wbc. reduced breath sounds.	1	1	0	96.5539980618845	10.300498114280500	normal	atelectasis	0.83
+ATE-3545	2020-05-09	0	Rales. hypoxemia. reduced breath sounds.	0	0	1	92.0	7.0	effusion	atelectasis	0.33
+ATE-3545	2020-05-10	1	Crackles. spo2 < 94%. reduced breath sounds.	0	0	1	92.0	7.0	normal	atelectasis	0.54
+ATE-3545	2020-05-11	2	Crackles. low oxygen saturation. reduced breath sounds.	0	0	1	92.0	7.0	consolidation	atelectasis	0.47
+ATE-3545	2020-05-12	3	Febrile. rales. low oxygen saturation. reduced breath sounds.	1	0	1	90.915325824818	7.109963040859200	consolidation	atelectasis	0.45
+ATE-3545	2020-05-13	4	T > 38°c. crackles. hypoxemia. reduced breath sounds.	1	0	1	91.26509294951350	7.254522567835780	opacity	atelectasis	0.36
+ATE-9451	2022-06-10	0	Pyrexia. tachycardia. reduced breath sounds.	1	1	0	96.7	6.7	effusion	atelectasis	0.43
+ATE-9451	2022-06-11	1	Fever. rapid heart rate. reduced breath sounds.	1	1	0	96.7	6.7	opacity	atelectasis	0.46
+ATE-9451	2022-06-12	2	Pyrexia. rapid heart rate. reduced breath sounds.	1	1	0	96.7	6.7	infiltrate	atelectasis	0.49
+ATE-9451	2022-06-13	3	Rapid heart rate. reduced breath sounds.	0	1	0	95.46377628203960	7.079981356920270	consolidation	atelectasis	0.32
+ATE-9451	2022-06-14	4	T > 38°c. rapid heart rate. reduced breath sounds.	1	1	0	95.67455883020380	7.145904527326000	consolidation	atelectasis	0.7
+ATE-2769	2020-01-30	0	Febrile. tachycardia. rales. low oxygen saturation. reduced breath sounds.	1	1	1	92.7	10.0	infiltrate	atelectasis	0.64
+ATE-2769	2020-01-31	1	Febrile. rapid heart rate. rales. spo2 < 94%. reduced breath sounds.	1	1	1	92.7	10.0	opacity	atelectasis	0.41
+ATE-2769	2020-02-01	2	Pyrexia. tachycardia. rales. hypoxemia. reduced breath sounds.	1	1	1	92.7	10.0	infiltrate	atelectasis	0.7
+ATE-2769	2020-02-02	3	Febrile. rapid heart rate. crackles. spo2 < 94%. elevated wbc. reduced breath sounds.	1	1	1	92.08796372883090	10.349681998352400	effusion	atelectasis	0.85
+ATE-2769	2020-02-03	4	Tachycardia. crackles. spo2 < 94%. elevated wbc. reduced breath sounds.	0	1	1	92.05763436183550	10.131910365285200	consolidation	atelectasis	0.75
+ATE-5347	2020-04-02	0	Pyrexia. rapid heart rate. rales. reduced breath sounds.	1	1	1	94.1	8.0	effusion	atelectasis	0.69
+ATE-5347	2020-04-03	1	Fever. tachycardia. rales. reduced breath sounds.	1	1	1	94.1	8.0	opacity	atelectasis	0.8
+ATE-5347	2020-04-04	2	T > 38°c. tachycardia. crackles. reduced breath sounds.	1	1	1	94.1	8.0	opacity	atelectasis	0.53
+ATE-5347	2020-04-05	3	Fever. tachycardia. rales. spo2 < 94%. reduced breath sounds.	1	1	1	93.09566645370920	8.122318487033000	consolidation	atelectasis	0.77
+ATE-5347	2020-04-06	4	Tachycardia. crackles. hypoxemia. reduced breath sounds.	0	1	1	93.37480261429820	8.237615649732820	opacity	atelectasis	0.75
+ATE-5031	2021-10-20	0	Tachycardia. reduced breath sounds.	0	1	0	96.6	6.1	effusion	atelectasis	0.36
+ATE-5031	2021-10-21	1	Tachycardia. reduced breath sounds.	0	1	0	96.6	6.1	consolidation	atelectasis	0.65
+ATE-5031	2021-10-22	2	Rapid heart rate. reduced breath sounds.	0	1	0	96.6	6.1	consolidation	atelectasis	0.74
+ATE-5031	2021-10-23	3	Rapid heart rate. reduced breath sounds.	0	1	0	95.42769819202690	6.296802923248420	infiltrate	atelectasis	0.42
+ATE-5031	2021-10-24	4	Febrile. tachycardia. reduced breath sounds.	1	1	0	95.31913237692240	6.444534574207650	infiltrate	atelectasis	0.72
+ATE-4787	2021-05-31	0	Fever. low oxygen saturation. reduced breath sounds.	1	0	0	92.3	9.4	effusion	atelectasis	0.41
+ATE-4787	2021-06-01	1	Fever. spo2 < 94%. reduced breath sounds.	1	0	0	92.3	9.4	consolidation	atelectasis	0.72
+ATE-4787	2021-06-02	2	Fever. low oxygen saturation. reduced breath sounds.	1	0	0	92.3	9.4	normal	atelectasis	0.4
+ATE-4787	2021-06-03	3	Raised body temp. spo2 < 94%. reduced breath sounds.	1	0	0	91.7751162538849	9.756168287321000	normal	atelectasis	0.78
+ATE-4787	2021-06-04	4	Raised body temp. low oxygen saturation. reduced breath sounds.	1	0	0	91.27121974429030	9.754958850267810	normal	atelectasis	0.3
+ATE-3379	2021-11-01	0	Fever. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	92.1	7.5	opacity	atelectasis	0.35
+ATE-3379	2021-11-02	1	Pyrexia. rapid heart rate. low oxygen saturation. reduced breath sounds.	1	1	0	92.1	7.5	effusion	atelectasis	0.42
+ATE-3379	2021-11-03	2	Fever. tachycardia. spo2 < 94%. reduced breath sounds.	1	1	0	92.1	7.5	consolidation	atelectasis	0.56
+ATE-3379	2021-11-04	3	Febrile. tachycardia. hypoxemia. reduced breath sounds.	1	1	0	90.91993931230320	7.70189296391927	normal	atelectasis	0.54
+ATE-3379	2021-11-05	4	Raised body temp. rapid heart rate. spo2 < 94%. reduced breath sounds.	1	1	0	90.73043029711720	7.990270867501610	effusion	atelectasis	0.41
+ATE-2363	2022-09-27	0	Pyrexia. tachycardia. reduced breath sounds.	1	1	0	96.0	9.1	effusion	atelectasis	0.74
+ATE-2363	2022-09-28	1	Fever. rapid heart rate. reduced breath sounds.	1	1	0	96.0	9.1	opacity	atelectasis	0.53
+ATE-2363	2022-09-29	2	Fever. tachycardia. reduced breath sounds.	1	1	0	96.0	9.1	effusion	atelectasis	0.48
+ATE-2363	2022-09-30	3	Raised body temp. tachycardia. reduced breath sounds.	1	1	0	95.32707532610720	9.42235236722902	consolidation	atelectasis	0.63
+ATE-2363	2022-10-01	4	Raised body temp. rapid heart rate. reduced breath sounds.	1	1	0	95.12860808632200	9.285386726177410	opacity	atelectasis	0.65
+ATE-9510	2021-11-14	0	Febrile. tachycardia. reduced breath sounds.	1	1	0	96.5	8.9	infiltrate	atelectasis	0.4
+ATE-9510	2021-11-15	1	T > 38°c. rapid heart rate. reduced breath sounds.	1	1	0	96.5	8.9	opacity	atelectasis	0.8
+ATE-9510	2021-11-16	2	Febrile. tachycardia. reduced breath sounds.	1	1	0	96.5	8.9	normal	atelectasis	0.51
+ATE-9510	2021-11-17	3	Fever. tachycardia. reduced breath sounds.	1	1	0	95.57166780567430	9.270939924294840	consolidation	atelectasis	0.43
+ATE-9510	2021-11-18	4	Fever. rapid heart rate. reduced breath sounds.	1	1	0	95.65793409828460	9.010209543364250	opacity	atelectasis	0.64
+ATE-8460	2021-02-26	0	Febrile. rapid heart rate. reduced breath sounds.	1	1	0	96.2	6.8	infiltrate	atelectasis	0.7
+ATE-8460	2021-02-27	1	Febrile. tachycardia. reduced breath sounds.	1	1	0	96.2	6.8	opacity	atelectasis	0.79
+ATE-8460	2021-02-28	2	Pyrexia. tachycardia. reduced breath sounds.	1	1	0	96.2	6.8	consolidation	atelectasis	0.58
+ATE-8460	2021-03-01	3	Rapid heart rate. reduced breath sounds.	0	1	0	94.72726318293020	7.039085006137590	opacity	atelectasis	0.57
+ATE-8460	2021-03-02	4	Pyrexia. tachycardia. reduced breath sounds.	1	1	0	95.51904185712140	7.266048112931510	infiltrate	atelectasis	0.51
+ATE-2455	2022-08-14	0	Tachycardia. spo2 < 94%. reduced breath sounds.	0	1	0	93.4	7.8	infiltrate	atelectasis	0.49
+ATE-2455	2022-08-15	1	Rapid heart rate. hypoxemia. reduced breath sounds.	0	1	0	93.4	7.8	consolidation	atelectasis	0.82
+ATE-2455	2022-08-16	2	Tachycardia. spo2 < 94%. reduced breath sounds.	0	1	0	93.4	7.8	normal	atelectasis	0.65
+ATE-2455	2022-08-17	3	T > 38°c. tachycardia. spo2 < 94%. reduced breath sounds.	1	1	0	92.88307139341320	8.291879301004220	effusion	atelectasis	0.41
+ATE-2455	2022-08-18	4	Raised body temp. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	92.55646732066640	8.055310293306020	normal	atelectasis	0.6
+ATE-4779	2022-09-10	0	T > 38°c. rapid heart rate. crackles. reduced breath sounds.	1	1	1	98.0	7.2	consolidation	atelectasis	0.42
+ATE-4779	2022-09-11	1	Fever. tachycardia. rales. reduced breath sounds.	1	1	1	98.0	7.2	opacity	atelectasis	0.64
+ATE-4779	2022-09-12	2	Raised body temp. rapid heart rate. rales. reduced breath sounds.	1	1	1	98.0	7.2	normal	atelectasis	0.67
+ATE-4779	2022-09-13	3	Raised body temp. tachycardia. rales. reduced breath sounds.	1	1	1	97.44736246175370	7.630225949820540	normal	atelectasis	0.7
+ATE-4779	2022-09-14	4	T > 38°c. rapid heart rate. rales. reduced breath sounds.	1	1	1	97.1815476987395	7.6276211421757700	effusion	atelectasis	0.76
+ATE-7562	2020-12-20	0	Raised body temp. tachycardia. rales. reduced breath sounds.	1	1	1	97.4	8.9	infiltrate	atelectasis	0.65
+ATE-7562	2020-12-21	1	Raised body temp. tachycardia. rales. reduced breath sounds.	1	1	1	97.4	8.9	effusion	atelectasis	0.66
+ATE-7562	2020-12-22	2	Febrile. tachycardia. crackles. reduced breath sounds.	1	1	1	97.4	8.9	opacity	atelectasis	0.5
+ATE-7562	2020-12-23	3	Febrile. tachycardia. crackles. reduced breath sounds.	1	1	1	96.77666495417180	9.083545411870500	normal	atelectasis	0.52
+ATE-7562	2020-12-24	4	Fever. rapid heart rate. rales. reduced breath sounds.	1	1	1	96.58802850721350	9.302489939668870	normal	atelectasis	0.36
+ATE-4593	2022-02-02	0	Rales. reduced breath sounds.	0	0	1	96.3	8.1	infiltrate	atelectasis	0.4
+ATE-4593	2022-02-03	1	Crackles. reduced breath sounds.	0	0	1	96.3	8.1	normal	atelectasis	0.54
+ATE-4593	2022-02-04	2	Crackles. reduced breath sounds.	0	0	1	96.3	8.1	consolidation	atelectasis	0.41
+ATE-4593	2022-02-05	3	T > 38°c. rales. reduced breath sounds.	1	0	1	94.8962573006857	8.571738372670220	effusion	atelectasis	0.36
+ATE-4593	2022-02-06	4	Pyrexia. rales. reduced breath sounds.	1	0	1	95.53760292989490	8.483388189251750	opacity	atelectasis	0.51
+ATE-7457	2022-02-15	0	T > 38°c. tachycardia. rales. reduced breath sounds.	1	1	1	94.7	6.3	opacity	atelectasis	0.64
+ATE-7457	2022-02-16	1	T > 38°c. rapid heart rate. crackles. reduced breath sounds.	1	1	1	94.7	6.3	consolidation	atelectasis	0.72
+ATE-7457	2022-02-17	2	Fever. rapid heart rate. crackles. reduced breath sounds.	1	1	1	94.7	6.3	normal	atelectasis	0.52
+ATE-7457	2022-02-18	3	Febrile. rapid heart rate. crackles. low oxygen saturation. reduced breath sounds.	1	1	1	93.32862722401140	6.638129958447740	normal	atelectasis	0.3
+ATE-7457	2022-02-19	4	Raised body temp. rapid heart rate. crackles. hypoxemia. reduced breath sounds.	1	1	1	93.373140130805	6.548532188444350	normal	atelectasis	0.68
+ATE-2916	2021-11-15	0	Tachycardia. reduced breath sounds.	0	1	0	95.5	6.3	normal	atelectasis	0.63
+ATE-2916	2021-11-16	1	Rapid heart rate. reduced breath sounds.	0	1	0	95.5	6.3	effusion	atelectasis	0.8
+ATE-2916	2021-11-17	2	Tachycardia. reduced breath sounds.	0	1	0	95.5	6.3	opacity	atelectasis	0.79
+ATE-2916	2021-11-18	3	Pyrexia. tachycardia. reduced breath sounds.	1	1	0	94.82555430191740	6.647987872877180	normal	atelectasis	0.33
+ATE-2916	2021-11-19	4	Febrile. rapid heart rate. reduced breath sounds.	1	1	0	94.99031444232200	6.590413056241620	opacity	atelectasis	0.72
+ATE-7643	2021-07-31	0	Febrile. reduced breath sounds.	1	0	0	95.6	9.2	normal	atelectasis	0.82
+ATE-7643	2021-08-01	1	Fever. reduced breath sounds.	1	0	0	95.6	9.2	normal	atelectasis	0.55
+ATE-7643	2021-08-02	2	Raised body temp. reduced breath sounds.	1	0	0	95.6	9.2	opacity	atelectasis	0.82
+ATE-7643	2021-08-03	3	T > 38°c. reduced breath sounds.	1	0	0	94.3235819793687	9.37790923330024	effusion	atelectasis	0.61
+ATE-7643	2021-08-04	4	Febrile. reduced breath sounds.	1	0	0	94.84089282664590	9.443672692165120	infiltrate	atelectasis	0.55
+ATE-4964	2022-09-06	0	Crackles. low oxygen saturation. reduced breath sounds.	0	0	1	92.8	6.5	infiltrate	atelectasis	0.78
+ATE-4964	2022-09-07	1	Crackles. hypoxemia. reduced breath sounds.	0	0	1	92.8	6.5	infiltrate	atelectasis	0.71
+ATE-4964	2022-09-08	2	Crackles. low oxygen saturation. reduced breath sounds.	0	0	1	92.8	6.5	infiltrate	atelectasis	0.49
+ATE-4964	2022-09-09	3	Pyrexia. crackles. spo2 < 94%. reduced breath sounds.	1	0	1	91.82886017106660	6.721346596186700	normal	atelectasis	0.8
+ATE-4964	2022-09-10	4	Fever. rales. low oxygen saturation. reduced breath sounds.	1	0	1	91.95221801953010	6.68828868279818	opacity	atelectasis	0.41
+ATE-4899	2021-03-13	0	T > 38°c. elevated wbc. reduced breath sounds.	1	0	0	96.3	10.4	normal	atelectasis	0.3
+ATE-4899	2021-03-14	1	Pyrexia. elevated wbc. reduced breath sounds.	1	0	0	96.3	10.4	effusion	atelectasis	0.47
+ATE-4899	2021-03-15	2	Raised body temp. elevated wbc. reduced breath sounds.	1	0	0	96.3	10.4	opacity	atelectasis	0.56
+ATE-4899	2021-03-16	3	Febrile. elevated wbc. reduced breath sounds.	1	0	0	95.10545231694190	10.86057408756880	effusion	atelectasis	0.47
+ATE-4899	2021-03-17	4	Pyrexia. elevated wbc. reduced breath sounds.	1	0	0	95.24193785818840	10.73394803273580	infiltrate	atelectasis	0.67
+ATE-8429	2020-07-31	0	Rapid heart rate. crackles. spo2 < 94%. leukocytosis. reduced breath sounds.	0	1	1	93.2	10.2	normal	atelectasis	0.39
+ATE-8429	2020-08-01	1	Tachycardia. rales. spo2 < 94%. elevated wbc. reduced breath sounds.	0	1	1	93.2	10.2	normal	atelectasis	0.55
+ATE-8429	2020-08-02	2	Tachycardia. crackles. spo2 < 94%. leukocytosis. reduced breath sounds.	0	1	1	93.2	10.2	infiltrate	atelectasis	0.42
+ATE-8429	2020-08-03	3	Tachycardia. rales. spo2 < 94%. leukocytosis. reduced breath sounds.	0	1	1	92.11749037307530	10.47555461886900	infiltrate	atelectasis	0.33
+ATE-8429	2020-08-04	4	Raised body temp. rapid heart rate. rales. hypoxemia. elevated wbc. reduced breath sounds.	1	1	1	92.39958439265900	10.388130760875600	opacity	atelectasis	0.51
+ATE-4390	2022-03-23	0	Febrile. tachycardia. reduced breath sounds.	1	1	0	96.2	6.2	opacity	atelectasis	0.72
+ATE-4390	2022-03-24	1	T > 38°c. rapid heart rate. reduced breath sounds.	1	1	0	96.2	6.2	opacity	atelectasis	0.84
+ATE-4390	2022-03-25	2	T > 38°c. tachycardia. reduced breath sounds.	1	1	0	96.2	6.2	consolidation	atelectasis	0.39
+ATE-4390	2022-03-26	3	Fever. tachycardia. reduced breath sounds.	1	1	0	94.77079825158050	6.44434930507936	consolidation	atelectasis	0.56
+ATE-4390	2022-03-27	4	Pyrexia. rapid heart rate. reduced breath sounds.	1	1	0	95.3907434562141	6.663764155138730	effusion	atelectasis	0.72
+ATE-1401	2021-07-31	0	Raised body temp. rales. reduced breath sounds.	1	0	1	94.4	7.3	consolidation	atelectasis	0.59
+ATE-1401	2021-08-01	1	Raised body temp. crackles. reduced breath sounds.	1	0	1	94.4	7.3	consolidation	atelectasis	0.56
+ATE-1401	2021-08-02	2	Pyrexia. rales. reduced breath sounds.	1	0	1	94.4	7.3	effusion	atelectasis	0.39
+ATE-1401	2021-08-03	3	Febrile. rales. hypoxemia. reduced breath sounds.	1	0	1	93.88032428484310	7.528981438694600	consolidation	atelectasis	0.58
+ATE-1401	2021-08-04	4	Raised body temp. rales. low oxygen saturation. reduced breath sounds.	1	0	1	93.52342568783980	7.697881877512510	effusion	atelectasis	0.49
+ATE-4912	2021-04-26	0	Tachycardia. low oxygen saturation. reduced breath sounds.	0	1	0	93.5	7.5	effusion	atelectasis	0.66
+ATE-4912	2021-04-27	1	Rapid heart rate. hypoxemia. reduced breath sounds.	0	1	0	93.5	7.5	opacity	atelectasis	0.77
+ATE-4912	2021-04-28	2	Rapid heart rate. low oxygen saturation. reduced breath sounds.	0	1	0	93.5	7.5	infiltrate	atelectasis	0.84
+ATE-4912	2021-04-29	3	Rapid heart rate. hypoxemia. reduced breath sounds.	0	1	0	92.98039072806880	7.848953544527050	infiltrate	atelectasis	0.55
+ATE-4912	2021-04-30	4	Febrile. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	92.1295777326608	7.959637970112520	normal	atelectasis	0.63
+ATE-2984	2022-09-16	0	T > 38°c. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	92.8	8.4	infiltrate	atelectasis	0.54
+ATE-2984	2022-09-17	1	T > 38°c. tachycardia. hypoxemia. reduced breath sounds.	1	1	0	92.8	8.4	effusion	atelectasis	0.34
+ATE-2984	2022-09-18	2	T > 38°c. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	92.8	8.4	consolidation	atelectasis	0.81
+ATE-2984	2022-09-19	3	Pyrexia. tachycardia. hypoxemia. reduced breath sounds.	1	1	0	91.56948471594890	8.558039154168750	opacity	atelectasis	0.84
+ATE-2984	2022-09-20	4	Febrile. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	91.49344116894630	8.633811410426120	effusion	atelectasis	0.35
+ATE-2549	2020-11-18	0	Rapid heart rate. reduced breath sounds.	0	1	0	97.2	8.2	effusion	atelectasis	0.73
+ATE-2549	2020-11-19	1	Rapid heart rate. reduced breath sounds.	0	1	0	97.2	8.2	normal	atelectasis	0.46
+ATE-2549	2020-11-20	2	Rapid heart rate. reduced breath sounds.	0	1	0	97.2	8.2	consolidation	atelectasis	0.69
+ATE-2549	2020-11-21	3	T > 38°c. tachycardia. reduced breath sounds.	1	1	0	96.53917440739360	8.456976526760580	consolidation	atelectasis	0.69
+ATE-2549	2020-11-22	4	T > 38°c. tachycardia. reduced breath sounds.	1	1	0	96.49282619932080	8.660534727458700	normal	atelectasis	0.51
+ATE-6994	2022-10-29	0	T > 38°c. tachycardia. spo2 < 94%. reduced breath sounds.	1	1	0	93.4	7.8	infiltrate	atelectasis	0.76
+ATE-6994	2022-10-30	1	Pyrexia. tachycardia. hypoxemia. reduced breath sounds.	1	1	0	93.4	7.8	infiltrate	atelectasis	0.71
+ATE-6994	2022-10-31	2	Pyrexia. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	93.4	7.8	consolidation	atelectasis	0.55
+ATE-6994	2022-11-01	3	Pyrexia. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	92.437279115065	8.035090543722220	infiltrate	atelectasis	0.32
+ATE-6994	2022-11-02	4	Febrile. rapid heart rate. spo2 < 94%. reduced breath sounds.	1	1	0	92.09429963122420	8.09350862119901	effusion	atelectasis	0.6
+ATE-3720	2021-03-26	0	Raised body temp. rapid heart rate. reduced breath sounds.	1	1	0	96.6	6.9	opacity	atelectasis	0.58
+ATE-3720	2021-03-27	1	Fever. tachycardia. reduced breath sounds.	1	1	0	96.6	6.9	effusion	atelectasis	0.57
+ATE-3720	2021-03-28	2	Febrile. rapid heart rate. reduced breath sounds.	1	1	0	96.6	6.9	infiltrate	atelectasis	0.31
+ATE-3720	2021-03-29	3	Fever. rapid heart rate. reduced breath sounds.	1	1	0	95.3292459880158	7.081064047060610	opacity	atelectasis	0.33
+ATE-3720	2021-03-30	4	T > 38°c. tachycardia. reduced breath sounds.	1	1	0	95.56848481429610	7.392874754366890	consolidation	atelectasis	0.79
+ATE-6017	2020-10-28	0	Raised body temp. rapid heart rate. reduced breath sounds.	1	1	0	97.8	9.8	normal	atelectasis	0.63
+ATE-6017	2020-10-29	1	Febrile. tachycardia. reduced breath sounds.	1	1	0	97.8	9.8	infiltrate	atelectasis	0.47
+ATE-6017	2020-10-30	2	Pyrexia. rapid heart rate. reduced breath sounds.	1	1	0	97.8	9.8	consolidation	atelectasis	0.66
+ATE-6017	2020-10-31	3	Raised body temp. tachycardia. leukocytosis. reduced breath sounds.	1	1	0	96.94631193699370	10.163497681748000	normal	atelectasis	0.56
+ATE-6017	2020-11-01	4	Fever. tachycardia. elevated wbc. reduced breath sounds.	1	1	0	96.86315741735980	10.130979755676000	normal	atelectasis	0.38
+ATE-7005	2020-05-01	0	Fever. rapid heart rate. reduced breath sounds.	1	1	0	96.4	7.6	infiltrate	atelectasis	0.79
+ATE-7005	2020-05-02	1	Febrile. tachycardia. reduced breath sounds.	1	1	0	96.4	7.6	consolidation	atelectasis	0.37
+ATE-7005	2020-05-03	2	Raised body temp. rapid heart rate. reduced breath sounds.	1	1	0	96.4	7.6	consolidation	atelectasis	0.31
+ATE-7005	2020-05-04	3	T > 38°c. tachycardia. reduced breath sounds.	1	1	0	95.44648245427030	8.078419515630040	infiltrate	atelectasis	0.45
+ATE-7005	2020-05-05	4	Tachycardia. reduced breath sounds.	0	1	0	95.1134639758372	8.003499433398540	effusion	atelectasis	0.57
+ATE-9391	2020-10-09	0	Fever. rapid heart rate. crackles. reduced breath sounds.	1	1	1	95.3	9.7	effusion	atelectasis	0.61
+ATE-9391	2020-10-10	1	T > 38°c. rapid heart rate. crackles. reduced breath sounds.	1	1	1	95.3	9.7	normal	atelectasis	0.39
+ATE-9391	2020-10-11	2	Raised body temp. tachycardia. crackles. reduced breath sounds.	1	1	1	95.3	9.7	consolidation	atelectasis	0.52
+ATE-9391	2020-10-12	3	Febrile. tachycardia. crackles. leukocytosis. reduced breath sounds.	1	1	1	94.16351315796130	10.115610195048300	consolidation	atelectasis	0.66
+ATE-9391	2020-10-13	4	Fever. rapid heart rate. rales. leukocytosis. reduced breath sounds.	1	1	1	94.78865274074970	10.188289115653400	consolidation	atelectasis	0.48
+ATE-6550	2020-01-31	0	Pyrexia. low oxygen saturation. reduced breath sounds.	1	0	0	92.6	9.0	opacity	atelectasis	0.48
+ATE-6550	2020-02-01	1	Fever. hypoxemia. reduced breath sounds.	1	0	0	92.6	9.0	consolidation	atelectasis	0.73
+ATE-6550	2020-02-02	2	Raised body temp. low oxygen saturation. reduced breath sounds.	1	0	0	92.6	9.0	normal	atelectasis	0.45
+ATE-6550	2020-02-03	3	Pyrexia. hypoxemia. reduced breath sounds.	1	0	0	91.61782240337400	9.486386955858040	consolidation	atelectasis	0.41
+ATE-6550	2020-02-04	4	Spo2 < 94%. reduced breath sounds.	0	0	0	91.3308809892858	9.19669562806306	consolidation	atelectasis	0.72
+ATE-2104	2020-04-05	0	Rapid heart rate. crackles. reduced breath sounds.	0	1	1	95.6	8.8	consolidation	atelectasis	0.62
+ATE-2104	2020-04-06	1	Rapid heart rate. rales. reduced breath sounds.	0	1	1	95.6	8.8	normal	atelectasis	0.84
+ATE-2104	2020-04-07	2	Tachycardia. crackles. reduced breath sounds.	0	1	1	95.6	8.8	opacity	atelectasis	0.42
+ATE-2104	2020-04-08	3	T > 38°c. rapid heart rate. rales. reduced breath sounds.	1	1	1	94.75053524873310	9.05629841288568	effusion	atelectasis	0.4
+ATE-2104	2020-04-09	4	Febrile. tachycardia. crackles. reduced breath sounds.	1	1	1	94.97688141128530	9.149613961866940	normal	atelectasis	0.52
+ATE-6432	2022-01-08	0	Raised body temp. tachycardia. reduced breath sounds.	1	1	0	96.3	8.7	consolidation	atelectasis	0.67
+ATE-6432	2022-01-09	1	Fever. tachycardia. reduced breath sounds.	1	1	0	96.3	8.7	effusion	atelectasis	0.55
+ATE-6432	2022-01-10	2	Raised body temp. rapid heart rate. reduced breath sounds.	1	1	0	96.3	8.7	consolidation	atelectasis	0.48
+ATE-6432	2022-01-11	3	Raised body temp. rapid heart rate. reduced breath sounds.	1	1	0	95.76510587787030	8.933293920782680	opacity	atelectasis	0.73
+ATE-6432	2022-01-12	4	Pyrexia. tachycardia. reduced breath sounds.	1	1	0	95.31328910204900	9.001371910992630	opacity	atelectasis	0.34
+ATE-4712	2022-07-29	0	Tachycardia. elevated wbc. reduced breath sounds.	0	1	0	95.2	10.2	consolidation	atelectasis	0.82
+ATE-4712	2022-07-30	1	Rapid heart rate. leukocytosis. reduced breath sounds.	0	1	0	95.2	10.2	normal	atelectasis	0.53
+ATE-4712	2022-07-31	2	Tachycardia. leukocytosis. reduced breath sounds.	0	1	0	95.2	10.2	consolidation	atelectasis	0.51
+ATE-4712	2022-08-01	3	Raised body temp. tachycardia. hypoxemia. elevated wbc. reduced breath sounds.	1	1	0	93.92300265391540	10.463675762691300	opacity	atelectasis	0.83
+ATE-4712	2022-08-02	4	Febrile. tachycardia. low oxygen saturation. leukocytosis. reduced breath sounds.	1	1	0	93.78327381984220	10.409246260985000	consolidation	atelectasis	0.66
+ATE-9864	2020-05-24	0	Pyrexia. rales. hypoxemia. reduced breath sounds.	1	0	1	93.5	9.8	infiltrate	atelectasis	0.59
+ATE-9864	2020-05-25	1	Pyrexia. rales. spo2 < 94%. reduced breath sounds.	1	0	1	93.5	9.8	opacity	atelectasis	0.74
+ATE-9864	2020-05-26	2	T > 38°c. crackles. spo2 < 94%. reduced breath sounds.	1	0	1	93.5	9.8	effusion	atelectasis	0.68
+ATE-9864	2020-05-27	3	Fever. crackles. hypoxemia. reduced breath sounds.	1	0	1	92.17260411150380	9.99481186175692	infiltrate	atelectasis	0.62
+ATE-9864	2020-05-28	4	Fever. crackles. low oxygen saturation. reduced breath sounds.	1	0	1	92.87796150290300	9.971466104970140	consolidation	atelectasis	0.84
+ATE-5223	2020-05-13	0	Febrile. tachycardia. spo2 < 94%. reduced breath sounds.	1	1	0	92.8	9.0	effusion	atelectasis	0.32
+ATE-5223	2020-05-14	1	Fever. rapid heart rate. low oxygen saturation. reduced breath sounds.	1	1	0	92.8	9.0	infiltrate	atelectasis	0.43
+ATE-5223	2020-05-15	2	Raised body temp. tachycardia. spo2 < 94%. reduced breath sounds.	1	1	0	92.8	9.0	effusion	atelectasis	0.64
+ATE-5223	2020-05-16	3	Fever. tachycardia. hypoxemia. reduced breath sounds.	1	1	0	91.34896446242520	9.303341149168150	consolidation	atelectasis	0.53
+ATE-5223	2020-05-17	4	T > 38°c. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	92.07964097276470	9.356109337803070	effusion	atelectasis	0.48
+ATE-8683	2022-04-30	0	Reduced breath sounds.	0	0	0	96.9	9.2	infiltrate	atelectasis	0.33
+ATE-8683	2022-05-01	1	Reduced breath sounds.	0	0	0	96.9	9.2	normal	atelectasis	0.8
+ATE-8683	2022-05-02	2	Reduced breath sounds.	0	0	0	96.9	9.2	consolidation	atelectasis	0.4
+ATE-8683	2022-05-03	3	Reduced breath sounds.	0	0	0	95.6918174607939	9.475805430209540	opacity	atelectasis	0.52
+ATE-8683	2022-05-04	4	Fever. reduced breath sounds.	1	0	0	96.03513273137360	9.47405304870308	infiltrate	atelectasis	0.81
+ATE-2483	2021-08-13	0	Raised body temp. tachycardia. rales. hypoxemia. reduced breath sounds.	1	1	1	93.4	9.3	opacity	atelectasis	0.36
+ATE-2483	2021-08-14	1	Febrile. tachycardia. rales. spo2 < 94%. reduced breath sounds.	1	1	1	93.4	9.3	normal	atelectasis	0.43
+ATE-2483	2021-08-15	2	Fever. tachycardia. rales. low oxygen saturation. reduced breath sounds.	1	1	1	93.4	9.3	normal	atelectasis	0.73
+ATE-2483	2021-08-16	3	T > 38°c. rapid heart rate. rales. spo2 < 94%. reduced breath sounds.	1	1	1	92.77485134653610	9.529351907454570	opacity	atelectasis	0.33
+ATE-2483	2021-08-17	4	Fever. rapid heart rate. crackles. hypoxemia. reduced breath sounds.	1	1	1	91.96788548674010	9.75418651479266	consolidation	atelectasis	0.42
+ATE-1985	2020-04-14	0	T > 38°c. rapid heart rate. low oxygen saturation. reduced breath sounds.	1	1	0	93.1	9.9	infiltrate	atelectasis	0.43
+ATE-1985	2020-04-15	1	Raised body temp. tachycardia. hypoxemia. reduced breath sounds.	1	1	0	93.1	9.9	consolidation	atelectasis	0.58
+ATE-1985	2020-04-16	2	Pyrexia. tachycardia. spo2 < 94%. reduced breath sounds.	1	1	0	93.1	9.9	consolidation	atelectasis	0.37
+ATE-1985	2020-04-17	3	T > 38°c. rapid heart rate. hypoxemia. leukocytosis. reduced breath sounds.	1	1	0	92.51440427001390	10.075901665082100	effusion	atelectasis	0.49
+ATE-1985	2020-04-18	4	Raised body temp. tachycardia. spo2 < 94%. elevated wbc. reduced breath sounds.	1	1	0	92.28065035230470	10.045786133903200	consolidation	atelectasis	0.35
+ATE-6727	2020-01-19	0	T > 38°c. tachycardia. crackles. hypoxemia. reduced breath sounds.	1	1	1	92.9	9.2	opacity	atelectasis	0.73
+ATE-6727	2020-01-20	1	Pyrexia. rapid heart rate. rales. hypoxemia. reduced breath sounds.	1	1	1	92.9	9.2	opacity	atelectasis	0.46
+ATE-6727	2020-01-21	2	Fever. tachycardia. rales. hypoxemia. reduced breath sounds.	1	1	1	92.9	9.2	infiltrate	atelectasis	0.31
+ATE-6727	2020-01-22	3	Raised body temp. tachycardia. crackles. hypoxemia. reduced breath sounds.	1	1	1	91.53266076625300	9.339895120709760	infiltrate	atelectasis	0.36
+ATE-6727	2020-01-23	4	Fever. rapid heart rate. rales. low oxygen saturation. reduced breath sounds.	1	1	1	91.74931817268370	9.646488379839200	normal	atelectasis	0.7
+ATE-7515	2021-12-23	0	Raised body temp. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	93.3	8.7	normal	atelectasis	0.8
+ATE-7515	2021-12-24	1	Pyrexia. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	93.3	8.7	infiltrate	atelectasis	0.34
+ATE-7515	2021-12-25	2	T > 38°c. tachycardia. low oxygen saturation. reduced breath sounds.	1	1	0	93.3	8.7	normal	atelectasis	0.46
+ATE-7515	2021-12-26	3	Raised body temp. rapid heart rate. spo2 < 94%. reduced breath sounds.	1	1	0	91.9895005278446	9.053952190506470	consolidation	atelectasis	0.79
+ATE-7515	2021-12-27	4	T > 38°c. rapid heart rate. spo2 < 94%. reduced breath sounds.	1	1	0	91.92207687343110	8.843453404518580	infiltrate	atelectasis	0.6
+ATE-1918	2022-01-04	0	T > 38°c. crackles. low oxygen saturation. reduced breath sounds.	1	0	1	93.5	7.9	opacity	atelectasis	0.79
+ATE-1918	2022-01-05	1	Febrile. crackles. hypoxemia. reduced breath sounds.	1	0	1	93.5	7.9	normal	atelectasis	0.61
+ATE-1918	2022-01-06	2	Fever. rales. low oxygen saturation. reduced breath sounds.	1	0	1	93.5	7.9	opacity	atelectasis	0.56
+ATE-1918	2022-01-07	3	Crackles. hypoxemia. reduced breath sounds.	0	0	1	92.43971212451720	8.322244034010350	normal	atelectasis	0.7
+ATE-1918	2022-01-08	4	Fever. crackles. spo2 < 94%. reduced breath sounds.	1	0	1	92.80206811572900	8.148000034061620	opacity	atelectasis	0.55
+ATE-7138	2022-05-05	0	Fever. reduced breath sounds.	1	0	0	97.4	6.0	infiltrate	atelectasis	0.38
+ATE-7138	2022-05-06	1	Febrile. reduced breath sounds.	1	0	0	97.4	6.0	opacity	atelectasis	0.37
+ATE-7138	2022-05-07	2	Febrile. reduced breath sounds.	1	0	0	97.4	6.0	infiltrate	atelectasis	0.49
+ATE-7138	2022-05-08	3	Fever. reduced breath sounds.	1	0	0	96.36757446586870	6.2139843556878900	infiltrate	atelectasis	0.35
+ATE-7138	2022-05-09	4	Fever. reduced breath sounds.	1	0	0	96.47255369008400	6.455108601459910	effusion	atelectasis	0.37
+ATE-2356	2021-08-09	0	Febrile. rapid heart rate. rales. reduced breath sounds.	1	1	1	95.8	9.5	consolidation	atelectasis	0.7
+ATE-2356	2021-08-10	1	Pyrexia. tachycardia. rales. reduced breath sounds.	1	1	1	95.8	9.5	effusion	atelectasis	0.73
+ATE-2356	2021-08-11	2	T > 38°c. rapid heart rate. rales. reduced breath sounds.	1	1	1	95.8	9.5	normal	atelectasis	0.45
+ATE-2356	2021-08-12	3	Febrile. rapid heart rate. rales. reduced breath sounds.	1	1	1	94.35025354688220	9.86686581520046	consolidation	atelectasis	0.57
+ATE-2356	2021-08-13	4	Pyrexia. tachycardia. rales. reduced breath sounds.	1	1	1	94.89607659191420	9.670485073231080	normal	atelectasis	0.68
+ATE-4094	2021-12-08	0	Pyrexia. crackles. reduced breath sounds.	1	0	1	95.6	8.3	effusion	atelectasis	0.48
+ATE-4094	2021-12-09	1	T > 38°c. rales. reduced breath sounds.	1	0	1	95.6	8.3	opacity	atelectasis	0.79
+ATE-4094	2021-12-10	2	Raised body temp. rales. reduced breath sounds.	1	0	1	95.6	8.3	consolidation	atelectasis	0.48
+ATE-4094	2021-12-11	3	Crackles. reduced breath sounds.	0	0	1	94.3109700668895	8.656008705651050	opacity	atelectasis	0.44
+ATE-4094	2021-12-12	4	Pyrexia. crackles. reduced breath sounds.	1	0	1	95.09247028777990	8.58572016980919	effusion	atelectasis	0.36
+ATE-5281	2020-10-08	0	Tachycardia. crackles. reduced breath sounds.	0	1	1	95.2	8.1	normal	atelectasis	0.46
+ATE-5281	2020-10-09	1	Rapid heart rate. rales. reduced breath sounds.	0	1	1	95.2	8.1	normal	atelectasis	0.4
+ATE-5281	2020-10-10	2	Tachycardia. rales. reduced breath sounds.	0	1	1	95.2	8.1	effusion	atelectasis	0.33
+ATE-5281	2020-10-11	3	Pyrexia. tachycardia. crackles. reduced breath sounds.	1	1	1	94.5212430161805	8.505613056803950	effusion	atelectasis	0.52
+ATE-5281	2020-10-12	4	Fever. tachycardia. rales. reduced breath sounds.	1	1	1	94.54286010449320	8.501437910871610	consolidation	atelectasis	0.57
+ATE-1764	2020-01-09	0	Crackles. reduced breath sounds.	0	0	1	96.4	9.8	infiltrate	atelectasis	0.36
+ATE-1764	2020-01-10	1	Crackles. reduced breath sounds.	0	0	1	96.4	9.8	infiltrate	atelectasis	0.33
+ATE-1764	2020-01-11	2	Crackles. reduced breath sounds.	0	0	1	96.4	9.8	effusion	atelectasis	0.48
+ATE-1764	2020-01-12	3	Febrile. crackles. reduced breath sounds.	1	0	1	95.02230826202200	9.9350825281976	effusion	atelectasis	0.74
+ATE-1764	2020-01-13	4	Crackles. leukocytosis. reduced breath sounds.	0	0	1	95.59368494139240	10.266114656348800	effusion	atelectasis	0.69
+ATE-3673	2021-10-09	0	Pyrexia. rapid heart rate. spo2 < 94%. reduced breath sounds.	1	1	0	93.1	9.6	infiltrate	atelectasis	0.59
+ATE-3673	2021-10-10	1	Fever. tachycardia. spo2 < 94%. reduced breath sounds.	1	1	0	93.1	9.6	infiltrate	atelectasis	0.38
+ATE-3673	2021-10-11	2	Febrile. rapid heart rate. low oxygen saturation. reduced breath sounds.	1	1	0	93.1	9.6	effusion	atelectasis	0.49
+ATE-3673	2021-10-12	3	Rapid heart rate. spo2 < 94%. reduced breath sounds.	0	1	0	91.76405809946300	9.841368805954200	normal	atelectasis	0.3
+ATE-3673	2021-10-13	4	Raised body temp. rapid heart rate. low oxygen saturation. reduced breath sounds.	1	1	0	92.22357259610580	9.982071680358540	consolidation	atelectasis	0.32
+ATE-4130	2021-03-07	0	Raised body temp. tachycardia. rales. reduced breath sounds.	1	1	1	94.3	9.6	infiltrate	atelectasis	0.64
+ATE-4130	2021-03-08	1	Raised body temp. rapid heart rate. crackles. reduced breath sounds.	1	1	1	94.3	9.6	opacity	atelectasis	0.42
+ATE-4130	2021-03-09	2	Fever. rapid heart rate. rales. reduced breath sounds.	1	1	1	94.3	9.6	effusion	atelectasis	0.58
+ATE-4130	2021-03-10	3	Tachycardia. crackles. spo2 < 94%. elevated wbc. reduced breath sounds.	0	1	1	93.42900245983490	10.039015027166300	consolidation	atelectasis	0.56
+ATE-4130	2021-03-11	4	Tachycardia. rales. low oxygen saturation. elevated wbc. reduced breath sounds.	0	1	1	92.9022247077742	10.099680442947300	normal	atelectasis	0.77
+ATE-1707	2022-01-07	0	Tachycardia. spo2 < 94%. reduced breath sounds.	0	1	0	93.7	9.8	effusion	atelectasis	0.84
+ATE-1707	2022-01-08	1	Tachycardia. spo2 < 94%. reduced breath sounds.	0	1	0	93.7	9.8	normal	atelectasis	0.54
+ATE-1707	2022-01-09	2	Rapid heart rate. hypoxemia. reduced breath sounds.	0	1	0	93.7	9.8	normal	atelectasis	0.67
+ATE-1707	2022-01-10	3	Fever. tachycardia. hypoxemia. leukocytosis. reduced breath sounds.	1	1	0	92.73549603539800	10.066883992941000	infiltrate	atelectasis	0.39
+ATE-1707	2022-01-11	4	Pyrexia. tachycardia. hypoxemia. leukocytosis. reduced breath sounds.	1	1	0	92.59793710130090	10.078269617483900	infiltrate	atelectasis	0.31
+ATE-8154	2022-08-10	0	Pyrexia. rapid heart rate. reduced breath sounds.	1	1	0	95.6	7.8	effusion	atelectasis	0.64
+ATE-8154	2022-08-11	1	Fever. tachycardia. reduced breath sounds.	1	1	0	95.6	7.8	infiltrate	atelectasis	0.83
+ATE-8154	2022-08-12	2	Raised body temp. rapid heart rate. reduced breath sounds.	1	1	0	95.6	7.8	opacity	atelectasis	0.6
+ATE-8154	2022-08-13	3	T > 38°c. rapid heart rate. reduced breath sounds.	1	1	0	94.94099309553210	8.286678948415700	normal	atelectasis	0.76
+ATE-8154	2022-08-14	4	Rapid heart rate. reduced breath sounds.	0	1	0	94.79883888096210	8.115646209422320	normal	atelectasis	0.54
+ATE-8605	2022-05-25	0	Febrile. reduced breath sounds.	1	0	0	94.5	7.8	effusion	atelectasis	0.46
+ATE-8605	2022-05-26	1	Pyrexia. reduced breath sounds.	1	0	0	94.5	7.8	opacity	atelectasis	0.55
+ATE-8605	2022-05-27	2	Pyrexia. reduced breath sounds.	1	0	0	94.5	7.8	effusion	atelectasis	0.72
+ATE-8605	2022-05-28	3	Pyrexia. low oxygen saturation. reduced breath sounds.	1	0	0	93.58962950576250	8.13496931215444	opacity	atelectasis	0.53
+ATE-8605	2022-05-29	4	Hypoxemia. reduced breath sounds.	0	0	0	93.2684864494767	8.22458907090667	opacity	atelectasis	0.42
+ATE-5704	2022-10-16	0	T > 38°c. tachycardia. leukocytosis. reduced breath sounds.	1	1	0	97.8	10.2	infiltrate	atelectasis	0.33
+ATE-5704	2022-10-17	1	Fever. rapid heart rate. elevated wbc. reduced breath sounds.	1	1	0	97.8	10.2	consolidation	atelectasis	0.48
+ATE-5704	2022-10-18	2	T > 38°c. rapid heart rate. elevated wbc. reduced breath sounds.	1	1	0	97.8	10.2	consolidation	atelectasis	0.64
+ATE-5704	2022-10-19	3	Febrile. tachycardia. leukocytosis. reduced breath sounds.	1	1	0	96.40652960763330	10.583093002338400	effusion	atelectasis	0.69
+ATE-5704	2022-10-20	4	Raised body temp. tachycardia. leukocytosis. reduced breath sounds.	1	1	0	96.36257300602670	10.314821089202500	normal	atelectasis	0.62
+ATE-2745	2021-02-07	0	Tachycardia. low oxygen saturation. reduced breath sounds.	0	1	0	92.5	6.2	effusion	atelectasis	0.45
+ATE-2745	2021-02-08	1	Tachycardia. hypoxemia. reduced breath sounds.	0	1	0	92.5	6.2	consolidation	atelectasis	0.5
+ATE-2745	2021-02-09	2	Rapid heart rate. hypoxemia. reduced breath sounds.	0	1	0	92.5	6.2	effusion	atelectasis	0.39
+ATE-2745	2021-02-10	3	Fever. rapid heart rate. spo2 < 94%. reduced breath sounds.	1	1	0	91.54024971915150	6.549350340080420	opacity	atelectasis	0.36
+ATE-2745	2021-02-11	4	Pyrexia. rapid heart rate. hypoxemia. reduced breath sounds.	1	1	0	91.65853607299320	6.593256496829960	consolidation	atelectasis	0.63
+ATE-3890	2020-12-03	0	Fever. reduced breath sounds.	1	0	0	96.5	10.0	opacity	atelectasis	0.3
+ATE-3890	2020-12-04	1	T > 38°c. reduced breath sounds.	1	0	0	96.5	10.0	normal	atelectasis	0.68
+ATE-3890	2020-12-05	2	Raised body temp. reduced breath sounds.	1	0	0	96.5	10.0	opacity	atelectasis	0.8
+ATE-3890	2020-12-06	3	T > 38°c. elevated wbc. reduced breath sounds.	1	0	0	95.07512137587460	10.318000295483500	normal	atelectasis	0.84
+ATE-3890	2020-12-07	4	Elevated wbc. reduced breath sounds.	0	0	0	95.83791860231830	10.315633242318900	effusion	atelectasis	0.72
+ATE-1137	2021-10-06	0	T > 38°c. low oxygen saturation. reduced breath sounds.	1	0	0	93.3	8.6	effusion	atelectasis	0.4
+ATE-1137	2021-10-07	1	Pyrexia. hypoxemia. reduced breath sounds.	1	0	0	93.3	8.6	consolidation	atelectasis	0.44
+ATE-1137	2021-10-08	2	T > 38°c. hypoxemia. reduced breath sounds.	1	0	0	93.3	8.6	normal	atelectasis	0.37
+ATE-1137	2021-10-09	3	Pyrexia. low oxygen saturation. reduced breath sounds.	1	0	0	92.07403570044700	9.014343956067730	normal	atelectasis	0.72
+ATE-1137	2021-10-10	4	Fever. hypoxemia. reduced breath sounds.	1	0	0	92.54434410682540	8.915722267832630	opacity	atelectasis	0.73
+ATE-9673	2021-10-29	0	Febrile. reduced breath sounds.	1	0	0	97.8	8.5	normal	atelectasis	0.54
+ATE-9673	2021-10-30	1	Febrile. reduced breath sounds.	1	0	0	97.8	8.5	normal	atelectasis	0.69
+ATE-9673	2021-10-31	2	Febrile. reduced breath sounds.	1	0	0	97.8	8.5	normal	atelectasis	0.69
+ATE-9673	2021-11-01	3	Febrile. reduced breath sounds.	1	0	0	96.39579272642430	8.693223133408590	consolidation	atelectasis	0.69
+ATE-9673	2021-11-02	4	Raised body temp. reduced breath sounds.	1	0	0	97.14215088866030	8.727579472206650	effusion	atelectasis	0.7
+ATE-2508	2022-11-20	0	Tachycardia. reduced breath sounds.	0	1	0	94.5	6.4	effusion	atelectasis	0.32
+ATE-2508	2022-11-21	1	Tachycardia. reduced breath sounds.	0	1	0	94.5	6.4	normal	atelectasis	0.62
+ATE-2508	2022-11-22	2	Rapid heart rate. reduced breath sounds.	0	1	0	94.5	6.4	normal	atelectasis	0.66
+ATE-2508	2022-11-23	3	Tachycardia. spo2 < 94%. reduced breath sounds.	0	1	0	93.20486124609320	6.535265930748320	infiltrate	atelectasis	0.4
+ATE-2508	2022-11-24	4	Tachycardia. spo2 < 94%. reduced breath sounds.	0	1	0	93.1077350270511	6.829441929438930	effusion	atelectasis	0.33
+ATE-3785	2020-05-18	0	Rapid heart rate. low oxygen saturation. reduced breath sounds.	0	1	0	93.4	6.3	infiltrate	atelectasis	0.52
+ATE-3785	2020-05-19	1	Tachycardia. spo2 < 94%. reduced breath sounds.	0	1	0	93.4	6.3	opacity	atelectasis	0.84
+ATE-3785	2020-05-20	2	Tachycardia. low oxygen saturation. reduced breath sounds.	0	1	0	93.4	6.3	opacity	atelectasis	0.59
+ATE-3785	2020-05-21	3	Febrile. tachycardia. spo2 < 94%. reduced breath sounds.	1	1	0	92.35338832877680	6.532830625542950	consolidation	atelectasis	0.47
+ATE-3785	2020-05-22	4	Febrile. tachycardia. hypoxemia. reduced breath sounds.	1	1	0	92.02937667346910	6.729338318589060	effusion	atelectasis	0.44
+ATE-3602	2020-09-04	0	T > 38°c. leukocytosis. reduced breath sounds.	1	0	0	94.9	10.5	consolidation	atelectasis	0.65
+ATE-3602	2020-09-05	1	T > 38°c. elevated wbc. reduced breath sounds.	1	0	0	94.9	10.5	consolidation	atelectasis	0.6
+ATE-3602	2020-09-06	2	Pyrexia. elevated wbc. reduced breath sounds.	1	0	0	94.9	10.5	normal	atelectasis	0.63
+ATE-3602	2020-09-07	3	Raised body temp. spo2 < 94%. leukocytosis. reduced breath sounds.	1	0	0	93.8351944057815	10.860767875446800	effusion	atelectasis	0.8
+ATE-3602	2020-09-08	4	Fever. hypoxemia. elevated wbc. reduced breath sounds.	1	0	0	93.7481111563843	10.836370730570400	infiltrate	atelectasis	0.67
+ATE-8185	2022-11-08	0	T > 38°c. crackles. reduced breath sounds.	1	0	1	97.2	6.5	normal	atelectasis	0.78
+ATE-8185	2022-11-09	1	Raised body temp. crackles. reduced breath sounds.	1	0	1	97.2	6.5	effusion	atelectasis	0.59
+ATE-8185	2022-11-10	2	Febrile. crackles. reduced breath sounds.	1	0	1	97.2	6.5	infiltrate	atelectasis	0.51
+ATE-8185	2022-11-11	3	Rales. reduced breath sounds.	0	0	1	96.65301760048720	6.98954444555524	consolidation	atelectasis	0.81
+ATE-8185	2022-11-12	4	Pyrexia. crackles. reduced breath sounds.	1	0	1	95.80405744978020	6.654602634056290	consolidation	atelectasis	0.82
+ATE-5649	2020-04-19	0	T > 38°c. rapid heart rate. crackles. hypoxemia. reduced breath sounds.	1	1	1	93.9	9.1	infiltrate	atelectasis	0.46
+ATE-5649	2020-04-20	1	Febrile. rapid heart rate. rales. hypoxemia. reduced breath sounds.	1	1	1	93.9	9.1	effusion	atelectasis	0.35
+ATE-5649	2020-04-21	2	Fever. rapid heart rate. crackles. low oxygen saturation. reduced breath sounds.	1	1	1	93.9	9.1	infiltrate	atelectasis	0.67
+ATE-5649	2020-04-22	3	Febrile. rapid heart rate. crackles. hypoxemia. reduced breath sounds.	1	1	1	93.3235362731787	9.33881746141011	normal	atelectasis	0.64
+ATE-5649	2020-04-23	4	Rapid heart rate. crackles. low oxygen saturation. reduced breath sounds.	0	1	1	93.13866772239890	9.222204649615030	effusion	atelectasis	0.44
+ATE-8970	2021-08-06	0	Fever. reduced breath sounds.	1	0	0	96.3	8.7	opacity	atelectasis	0.63
+ATE-8970	2021-08-07	1	Raised body temp. reduced breath sounds.	1	0	0	96.3	8.7	infiltrate	atelectasis	0.36
+ATE-8970	2021-08-08	2	Pyrexia. reduced breath sounds.	1	0	0	96.3	8.7	effusion	atelectasis	0.43
+ATE-8970	2021-08-09	3	T > 38°c. reduced breath sounds.	1	0	0	94.9238038951389	8.94289344553561	normal	atelectasis	0.35
+ATE-8970	2021-08-10	4	Pyrexia. reduced breath sounds.	1	0	0	95.65066160288580	8.890405276289290	effusion	atelectasis	0.84
+ATE-7355	2022-07-24	0	T > 38°c. tachycardia. crackles. reduced breath sounds.	1	1	1	97.0	10.0	infiltrate	atelectasis	0.79
+ATE-7355	2022-07-25	1	Pyrexia. tachycardia. crackles. reduced breath sounds.	1	1	1	97.0	10.0	consolidation	atelectasis	0.8
+ATE-7355	2022-07-26	2	T > 38°c. tachycardia. crackles. reduced breath sounds.	1	1	1	97.0	10.0	opacity	atelectasis	0.44
+ATE-7355	2022-07-27	3	Febrile. tachycardia. rales. leukocytosis. reduced breath sounds.	1	1	1	96.48817087130060	10.229532611860500	consolidation	atelectasis	0.51
+ATE-7355	2022-07-28	4	Tachycardia. rales. elevated wbc. reduced breath sounds.	0	1	1	96.03566709039080	10.294456257664300	infiltrate	atelectasis	0.54
+ATE-5735	2021-03-16	0	Tachycardia. crackles. reduced breath sounds.	0	1	1	94.3	9.0	effusion	atelectasis	0.51
+ATE-5735	2021-03-17	1	Tachycardia. crackles. reduced breath sounds.	0	1	1	94.3	9.0	effusion	atelectasis	0.49
+ATE-5735	2021-03-18	2	Tachycardia. crackles. reduced breath sounds.	0	1	1	94.3	9.0	opacity	atelectasis	0.71
+ATE-5735	2021-03-19	3	Febrile. tachycardia. crackles. low oxygen saturation. reduced breath sounds.	1	1	1	93.19286622261940	9.118530329038870	consolidation	atelectasis	0.38
+ATE-5735	2021-03-20	4	Febrile. rapid heart rate. crackles. hypoxemia. reduced breath sounds.	1	1	1	93.27461867776600	9.130346272676470	consolidation	atelectasis	0.44
+ATE-9495	2021-02-15	0	T > 38°c. tachycardia. rales. reduced breath sounds.	1	1	1	94.3	8.7	normal	atelectasis	0.71
+ATE-9495	2021-02-16	1	Fever. tachycardia. rales. reduced breath sounds.	1	1	1	94.3	8.7	normal	atelectasis	0.53
+ATE-9495	2021-02-17	2	Fever. tachycardia. rales. reduced breath sounds.	1	1	1	94.3	8.7	consolidation	atelectasis	0.74
+ATE-9495	2021-02-18	3	Fever. tachycardia. rales. spo2 < 94%. reduced breath sounds.	1	1	1	93.05891107100600	9.122081792942600	consolidation	atelectasis	0.49
+ATE-9495	2021-02-19	4	Tachycardia. crackles. low oxygen saturation. reduced breath sounds.	0	1	1	93.34694493604020	9.06374660155457	infiltrate	atelectasis	0.62
+ATE-1869	2022-10-06	0	Raised body temp. tachycardia. rales. reduced breath sounds.	1	1	1	97.8	10.0	effusion	atelectasis	0.45
+ATE-1869	2022-10-07	1	Febrile. rapid heart rate. crackles. reduced breath sounds.	1	1	1	97.8	10.0	infiltrate	atelectasis	0.81
+ATE-1869	2022-10-08	2	Febrile. rapid heart rate. rales. reduced breath sounds.	1	1	1	97.8	10.0	infiltrate	atelectasis	0.62
+ATE-1869	2022-10-09	3	Febrile. tachycardia. rales. elevated wbc. reduced breath sounds.	1	1	1	96.63718342385390	10.391311226219000	opacity	atelectasis	0.52
+ATE-1869	2022-10-10	4	Febrile. rapid heart rate. rales. elevated wbc. reduced breath sounds.	1	1	1	96.39462544703680	10.245739946192100	effusion	atelectasis	0.59
+ATE-5206	2021-12-30	0	Febrile. tachycardia. reduced breath sounds.	1	1	0	96.2	6.4	effusion	atelectasis	0.44
+ATE-5206	2021-12-31	1	Pyrexia. rapid heart rate. reduced breath sounds.	1	1	0	96.2	6.4	opacity	atelectasis	0.64
+ATE-5206	2022-01-01	2	T > 38°c. tachycardia. reduced breath sounds.	1	1	0	96.2	6.4	effusion	atelectasis	0.34
+ATE-5206	2022-01-02	3	Tachycardia. reduced breath sounds.	0	1	0	95.34637095110310	6.703475479096990	effusion	atelectasis	0.73
+ATE-5206	2022-01-03	4	Raised body temp. rapid heart rate. reduced breath sounds.	1	1	0	95.48337305431650	6.642841600046620	opacity	atelectasis	0.36
+ATE-3430	2020-11-02	0	Fever. reduced breath sounds.	1	0	0	97.7	8.9	infiltrate	atelectasis	0.84
+ATE-3430	2020-11-03	1	Fever. reduced breath sounds.	1	0	0	97.7	8.9	effusion	atelectasis	0.34
+ATE-3430	2020-11-04	2	Pyrexia. reduced breath sounds.	1	0	0	97.7	8.9	infiltrate	atelectasis	0.72
+ATE-3430	2020-11-05	3	Pyrexia. reduced breath sounds.	1	0	0	97.17113142518970	9.276074115521760	consolidation	atelectasis	0.75
+ATE-3430	2020-11-06	4	Pyrexia. reduced breath sounds.	1	0	0	97.18510802435810	9.084573169454490	normal	atelectasis	0.34
+ATE-7030	2021-06-04	0	Rapid heart rate. crackles. hypoxemia. reduced breath sounds.	0	1	1	93.7	9.7	normal	atelectasis	0.32
+ATE-7030	2021-06-05	1	Rapid heart rate. crackles. spo2 < 94%. reduced breath sounds.	0	1	1	93.7	9.7	consolidation	atelectasis	0.37
+ATE-7030	2021-06-06	2	Tachycardia. crackles. hypoxemia. reduced breath sounds.	0	1	1	93.7	9.7	consolidation	atelectasis	0.47
+ATE-7030	2021-06-07	3	Raised body temp. rapid heart rate. crackles. hypoxemia. reduced breath sounds.	1	1	1	92.52476508558710	9.800303559365660	consolidation	atelectasis	0.56
+ATE-7030	2021-06-08	4	Fever. tachycardia. rales. spo2 < 94%. reduced breath sounds.	1	1	1	92.38596692118710	9.965193879925080	opacity	atelectasis	0.35
+ATE-3576	2020-02-20	0	Reduced breath sounds.	0	0	0	94.3	6.1	effusion	atelectasis	0.84
+ATE-3576	2020-02-21	1	Reduced breath sounds.	0	0	0	94.3	6.1	effusion	atelectasis	0.39
+ATE-3576	2020-02-22	2	Reduced breath sounds.	0	0	0	94.3	6.1	infiltrate	atelectasis	0.66
+ATE-3576	2020-02-23	3	Spo2 < 94%. reduced breath sounds.	0	0	0	93.00202171839630	6.237157720939240	infiltrate	atelectasis	0.61
+ATE-3576	2020-02-24	4	Pyrexia. hypoxemia. reduced breath sounds.	1	0	0	92.99873438740330	6.52772079196649	infiltrate	atelectasis	0.83
+ATE-2760	2020-09-29	0	Reduced breath sounds.	0	0	0	94.6	8.5	normal	atelectasis	0.54
+ATE-2760	2020-09-30	1	Reduced breath sounds.	0	0	0	94.6	8.5	consolidation	atelectasis	0.45
+ATE-2760	2020-10-01	2	Reduced breath sounds.	0	0	0	94.6	8.5	effusion	atelectasis	0.53
+ATE-2760	2020-10-02	3	Febrile. low oxygen saturation. reduced breath sounds.	1	0	0	93.34933129117120	8.95892066826915	opacity	atelectasis	0.34
+ATE-2760	2020-10-03	4	Pyrexia. low oxygen saturation. reduced breath sounds.	1	0	0	93.70524219247610	8.605904283106120	effusion	atelectasis	0.52
+ATE-7347	2022-07-08	0	Pyrexia. tachycardia. crackles. reduced breath sounds.	1	1	1	96.9	8.2	normal	atelectasis	0.78
+ATE-7347	2022-07-09	1	Febrile. rapid heart rate. crackles. reduced breath sounds.	1	1	1	96.9	8.2	consolidation	atelectasis	0.5
+ATE-7347	2022-07-10	2	Fever. rapid heart rate. rales. reduced breath sounds.	1	1	1	96.9	8.2	consolidation	atelectasis	0.43
+ATE-7347	2022-07-11	3	Febrile. tachycardia. rales. reduced breath sounds.	1	1	1	95.95218230607920	8.687035232464110	opacity	atelectasis	0.61
+ATE-7347	2022-07-12	4	Pyrexia. rapid heart rate. rales. reduced breath sounds.	1	1	1	96.16992146995110	8.302766613349490	consolidation	atelectasis	0.56
